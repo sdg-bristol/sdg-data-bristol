@@ -22,4 +22,3 @@ translations:
 # Extra fields to generate reporting stats for, for additional tabs
 # the "Reporting status" page.
 reporting_status_extra_fields: []
-
