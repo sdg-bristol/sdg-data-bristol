@@ -1,9 +1,9 @@
-Year,Unit measure,Unit multiplier,Observation status,Value
-2010,GVA Millions,Units,Undefined,12966.0
-2011,GVA Millions,Units,Undefined,12599.0
-2012,GVA Millions,Units,Undefined,12944.0
-2013,GVA Millions,Units,Undefined,13180.0
-2014,GVA Millions,Units,Undefined,13994.0
-2015,GVA Millions,Units,Undefined,14247.0
-2016,GVA Millions,Units,Undefined,14047.0
-2017,GVA Millions,Units,Undefined,14200.0
+Year,Units,Unit measure,Unit multiplier,Observation status,Value
+2010,GVA Millions,GBP (£),Units,Undefined,12966
+2011,GVA Millions,GBP (£),Units,Undefined,12599
+2012,GVA Millions,GBP (£),Units,Undefined,12944
+2013,GVA Millions,GBP (£),Units,Undefined,13180
+2014,GVA Millions,GBP (£),Units,Undefined,13994
+2015,GVA Millions,GBP (£),Units,Undefined,14247
+2016,GVA Millions,GBP (£),Units,Undefined,14047
+2017,GVA Millions,GBP (£),Units,Undefined,14200
