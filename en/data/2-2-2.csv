@@ -1,28 +1,27 @@
-Year,Country,Age,BMI,Observation status,Unit multiplier,Unit measure,GeoCode,Value
-2010,Bristol,Under 5,Underweight,Undefined,Units,Percentage (%),,0.66
-2011,Bristol,Under 5,Underweight,Undefined,Units,Percentage (%),,0.7
-2012,Bristol,Under 5,Underweight,Undefined,Units,Percentage (%),,0.59
-2013,Bristol,Under 5,Underweight,Undefined,Units,Percentage (%),,0.92
-2014,Bristol,Under 5,Underweight,Undefined,Units,Percentage (%),,0.74
-2015,Bristol,Under 5,Underweight,Undefined,Units,Percentage (%),,0.74
-2016,Bristol,Under 5,Underweight,Undefined,Units,Percentage (%),,0.8
-2017,Bristol,Under 5,Underweight,Undefined,Units,Percentage (%),,0.55
-2018,Bristol,Under 5,Underweight,Undefined,Units,Percentage (%),,0.86
-2010,Bristol,4 to 5,Obese and overweight,Undefined,Units,Percentage (%),,25.8
-2011,Bristol,4 to 5,Obese and overweight,Undefined,Units,Percentage (%),,22.9
-2012,Bristol,4 to 5,Obese and overweight,Undefined,Units,Percentage (%),,23.4
-2013,Bristol,4 to 5,Obese and overweight,Undefined,Units,Percentage (%),,21.7
-2014,Bristol,4 to 5,Obese and overweight,Undefined,Units,Percentage (%),,22.9
-2015,Bristol,4 to 5,Obese and overweight,Undefined,Units,Percentage (%),,23.0
-2016,Bristol,4 to 5,Obese and overweight,Undefined,Units,Percentage (%),,22.9
-2017,Bristol,4 to 5,Obese and overweight,Undefined,Units,Percentage (%),,24.2
-2018,Bristol,4 to 5,Obese and overweight,Undefined,Units,Percentage (%),,21.7
-2010,Bristol,Year 6,Obese and overweight,Undefined,Units,Percentage (%),,32.9
-2011,Bristol,Year 6,Obese and overweight,Undefined,Units,Percentage (%),,32.7
-2012,Bristol,Year 6,Obese and overweight,Undefined,Units,Percentage (%),,32.7
-2013,Bristol,Year 6,Obese and overweight,Undefined,Units,Percentage (%),,34.2
-2014,Bristol,Year 6,Obese and overweight,Undefined,Units,Percentage (%),,34.7
-2015,Bristol,Year 6,Obese and overweight,Undefined,Units,Percentage (%),,35.0
-2016,Bristol,Year 6,Obese and overweight,Undefined,Units,Percentage (%),,35.6
-2017,Bristol,Year 6,Obese and overweight,Undefined,Units,Percentage (%),,33.0
-2018,Bristol,Year 6,Obese and overweight,Undefined,Units,Percentage (%),,34.5
+Year,BMI,Observation status,Unit multiplier,Unit measure,Value
+2006/07,Overweight (including obesity),Undefined,Units,Percentage (%),22.1997
+2007/08,Overweight (including obesity),Undefined,Units,Percentage (%),25.4707
+2008/09,Overweight (including obesity),Undefined,Units,Percentage (%),25.0701
+2009/10,Overweight (including obesity),Undefined,Units,Percentage (%),25.7975
+2010/11,Overweight (including obesity),Undefined,Units,Percentage (%),22.8943
+2011/12,Overweight (including obesity),Undefined,Units,Percentage (%),23.3552
+2012/13,Overweight (including obesity),Undefined,Units,Percentage (%),21.7326
+2013/14,Overweight (including obesity),Undefined,Units,Percentage (%),22.9167
+2014/15,Overweight (including obesity),Undefined,Units,Percentage (%),23.0201
+2015/16,Overweight (including obesity),Undefined,Units,Percentage (%),22.8577
+2016/17,Overweight (including obesity),Undefined,Units,Percentage (%),24.1621
+2017/18,Overweight (including obesity),Undefined,Units,Percentage (%),21.6721
+2018/19,Overweight (including obesity),Undefined,Units,Percentage (%),22.2005
+2006/07,Underweight,Undefined,Units,Percentage (%),1.5182
+2007/08,Underweight,Undefined,Units,Percentage (%),0.8876
+2008/09,Underweight,Undefined,Units,Percentage (%),0.5096
+2009/10,Underweight,Undefined,Units,Percentage (%),0.6582
+2010/11,Underweight,Undefined,Units,Percentage (%),0.6998
+2011/12,Underweight,Undefined,Units,Percentage (%),0.5878
+2012/13,Underweight,Undefined,Units,Percentage (%),0.9243
+2013/14,Underweight,Undefined,Units,Percentage (%),0.7353
+2014/15,Underweight,Undefined,Units,Percentage (%),0.7381
+2015/16,Underweight,Undefined,Units,Percentage (%),0.7979999999999999
+2016/17,Underweight,Undefined,Units,Percentage (%),0.5491
+2017/18,Underweight,Undefined,Units,Percentage (%),0.857
+2018/19,Underweight,Undefined,Units,Percentage (%),0.7803
