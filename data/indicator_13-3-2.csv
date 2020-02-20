@@ -1,10 +1,10 @@
-Year,Value
-2010,74.0
-2011,70.9
-2012,70.6
-2013,67.1
-2014,70.6
-2015,74.0
-2016,
-2017,81.7
-2018,85.8
+Year,Observation status,Unit multiplier,Unit measure,Value
+2010,Undefined,Units,Percentage (%),74.0
+2011,Undefined,Units,Percentage (%),70.9
+2012,Undefined,Units,Percentage (%),70.6
+2013,Undefined,Units,Percentage (%),67.1
+2014,Undefined,Units,Percentage (%),70.6
+2015,Undefined,Units,Percentage (%),74.0
+2016,Undefined,Units,Percentage (%),
+2017,Undefined,Units,Percentage (%),81.7
+2018,Undefined,Units,Percentage (%),85.8
