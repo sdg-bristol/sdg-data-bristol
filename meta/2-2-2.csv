@@ -1,4 +1,4 @@
-﻿National metadata,
+National metadata,
 Indicator available,
 Indicator description,Percentage of  4 to 5 year old children categorised as underweight or overweight (including obese) based on Body Mass Index (BMI) classifications.
 Geographical coverage,Bristol
@@ -14,13 +14,13 @@ UN custodian agency,"United Nations Children's Fund (UNICEF), World Health Organ
 Link to UN metadata,https://unstats.un.org/sdgs/metadata/?Text=&Goal=2&Target=2.2
 Link to UN metadata text,United Nations Sustainable Development Goals Metadata (PDF 233 KB)
 Settings,
-Non-statistical indicator,false
+Non-statistical indicator,False
 Graph type,line
 Graph title,
-Use geocodes for mapping,false
+Use geocodes for mapping,False
 Indicator content,
 Sources,
-Show source 1,true
+Show source 1,True
 Source 1 organisation,Public Health England
 Source 1 periodicity,Annual
 Source 1 earliest available data,2006/07
@@ -32,7 +32,7 @@ Source 1 next release,TBA
 Source 1 statistical classification,Official Statistic
 Source 1 contact details,
 Source 1 other information,Data acquired from the National Child Measurement Programme. 
-Show source 2,true
+Show source 2,True
 Source 2 organisation,Public Health England
 Source 2 periodicity,Annual
 Source 2 earliest available data,2006/07
@@ -44,7 +44,7 @@ Source 2 next release,TBA
 Source 2 statistical classification,Official Statistic
 Source 2 contact details,
 Source 2 other information,Data acquired from the National Child Measurement Programme. 
-Show source 3,false
+Show source 3,False
 Source 3 organisation,
 Source 3 periodicity,
 Source 3 earliest available data,
@@ -56,7 +56,7 @@ Source 3 next release,
 Source 3 statistical classification,
 Source 3 contact details,
 Source 3 other information,
-Show source 4,false
+Show source 4,False
 Source 4 organisation,
 Source 4 periodicity,
 Source 4 earliest available data,
