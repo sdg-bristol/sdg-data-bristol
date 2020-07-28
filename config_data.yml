@@ -31,6 +31,9 @@ inputs:
   - class: InputExcelMeta
     path_pattern: meta/*-*.xlsx
     metadata_mapping: 'metadata-mapping.csv'
+  - class: InputYamlMdMeta
+    # This describes the meta files, relative to the "src_dir" indicated above.
+    path_pattern: meta/*-*.md
 
 # Extra fields to generate reporting stats for, for additional tabs
 # the "Reporting status" page.
