@@ -1,2 +1,3 @@
+xlrd
 git+git://github.com/dougmet/yamlmd
 git+git://github.com/open-sdg/sdg-build@1.0.3
