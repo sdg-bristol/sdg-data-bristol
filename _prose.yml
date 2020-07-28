@@ -72,12 +72,12 @@ prose:
             value: "UN metadata"
             scope: global
       ######### National Metadata #########
-      - name: "national_indicator_available"
+      - name: "indicator_available"
         field:
             element: text
             label: "Indicator available"
             scope: national
-      - name: "national_indicator_description"
+      - name: "indicator_description"
         field:
             element: text
             label: "Indicator description"
@@ -102,7 +102,7 @@ prose:
             element: text
             label: "Calculations"
             scope: national
-      - name: "comments_limitations"
+      - name: "other_information"
         field:
             element: text
             label: "Other information"
