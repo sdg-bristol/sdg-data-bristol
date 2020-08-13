@@ -3,9 +3,8 @@ from sdg.open_sdg import open_sdg_check
 
 def alter_meta(meta):
     for i in range(1,5):
-        if "source_active_"+str(i) in meta:
-            if meta["source_active_"+str(i)] == "true":
-                meta["source_active_"+str(i)] = 'custom.boolean_true'
+        if "source_organisation_"+str(i) in meta:
+            meta["source_active_"+str(i)] = 'custom.boolean_true'
     return meta
 
 # Validate the indicators.
