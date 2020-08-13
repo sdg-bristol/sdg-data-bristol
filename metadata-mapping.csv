@@ -1,0 +1,66 @@
+Indicator available,indicator_available
+Indicator description,indicator_description
+Geographical coverage,national_geographical_coverage
+Unit of measurement,computation_units
+Definitions,computation_definitions
+Calculations,computation_calculations
+Other information,other_information
+Indicator name,indicator_name
+Target name,target
+UN designated tier,un_designated_tier
+UN custodian agency,un_custodian_agency
+Link to UN metadata,goal_meta_link
+Link to UN metadata text,goal_meta_link_text
+Non-statistical indicator,data_non_statistical
+Graph type,graph_type
+Graph title,graph_title
+Use geocodes for mapping,data_show_map
+Indicator content,page_content
+Show source 1,source_active_1
+Source 1 organisation,source_organisation_1
+Source 1 periodicity,source_periodicity_1
+Source 1 earliest available data,source_earliest_available_1
+Source 1 geographical coverage,source_geographical_coverage_1
+Source 1 link to data source,source_url_1
+Source 1 link to data source text,source_url_text_1
+Source 1 release date,source_release_date_1
+Source 1 next release,source_next_release_1
+Source 1 statistical classification,source_statistical_classification_1
+Source 1 contact details,source_contact_1
+Source 1 other information,source_other_info_1
+Show source 2,source_active_2
+Source 2 organisation,source_organisation_2
+Source 2 periodicity,source_periodicity_2
+Source 2 earliest available data,source_earliest_available_2
+Source 2 geographical coverage,source_geographical_coverage_2
+Source 2 link to data source,source_url_2
+Source 2 link to data source text,source_url_text_2
+Source 2 release date,source_release_date_2
+Source 2 next release,source_next_release_2
+Source 2 statistical classification,source_statistical_classification_2
+Source 2 contact details,source_contact_2
+Source 2 other information,source_other_info_2
+Show source 3,source_active_3
+Source 3 organisation,source_organisation_3
+Source 3 periodicity,source_periodicity_3
+Source 3 earliest available data,source_earliest_available_3
+Source 3 geographical coverage,source_geographical_coverage_3
+Source 3 link to data source,source_url_3
+Source 3 link to data source text,source_url_text_3
+Source 3 release date,source_release_date_3
+Source 3 next release,source_next_release_3
+Source 3 statistical classification,source_statistical_classification_3
+Source 3 contact details,source_contact_3
+Source 3 other information,source_other_info_3
+Show source 4,source_active_4
+Source 4 organisation,source_organisation_4
+Source 4 periodicity,source_periodicity_4
+Source 4 earliest available data,source_earliest_available_4
+Source 4 geographical coverage,source_geographical_coverage_4
+Source 4 link to data source,source_url_4
+Source 4 link to data source text,source_url_text_4
+Source 4 release date,source_release_date_4
+Source 4 next release,source_next_release_4
+Source 4 statistical classification,source_statistical_classification_4
+Source 4 contact details,source_contact_4
+Source 4 other information,source_other_info_4
