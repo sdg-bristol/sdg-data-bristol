@@ -28,8 +28,8 @@ inputs:
   - class: InputCsvData
     # This describes the data files, relative to the "src_dir" indicated above.
     path_pattern: data/*-*.csv
-  - class: InputExcelMeta
-    path_pattern: meta/*-*.xlsx
+  - class: InputCsvMeta
+    path_pattern: meta/*-*.csv
     metadata_mapping: 'metadata-mapping.csv'
   - class: InputYamlMdMeta
     # This describes the meta files, relative to the "src_dir" indicated above.
