@@ -30,7 +30,7 @@ prose:
             element: text
             label: "Indicator name"
             scope: global
-      - name: "target"
+      - name: "target_name"
         field:
             element: text
             label: "Target name"
