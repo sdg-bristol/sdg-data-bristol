@@ -30,25 +30,10 @@ prose:
             element: text
             label: "Indicator name"
             scope: global
-      - name: "indicator_number"
-        field:
-            element: hidden
-            label: "Indicator number"
-            scope: global
       - name: "target"
         field:
             element: text
             label: "Target name"
-            scope: global
-      - name: "target_id"
-        field:
-            element: text
-            label: "Target number"
-            scope: global
-      - name: "indicator_definition"
-        field:
-            element: textarea
-            label: "Global indicator description"
             scope: global
       - name: "un_designated_tier"
         field:
