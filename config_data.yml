@@ -30,12 +30,12 @@ inputs:
   - class: InputCsvData
     # This describes the data files, relative to the "src_dir" indicated above.
     path_pattern: data/*-*.csv
-  - class: InputCsvMeta
-    path_pattern: csv-meta/*-*.csv
-    metadata_mapping: 'metadata-mapping.csv'
   - class: InputYamlMdMeta
     # This describes the meta files, relative to the "src_dir" indicated above.
     path_pattern: global-meta/*-*.md
+  - class: InputCsvMeta
+    path_pattern: csv-meta/*-*.csv
+    metadata_mapping: 'metadata-mapping.csv'
 
 
 # Extra fields to generate reporting stats for, for additional tabs
