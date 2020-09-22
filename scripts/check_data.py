@@ -4,15 +4,15 @@ from sdg.open_sdg import open_sdg_check
 def alter_meta(meta):
     for i in range(1,5):
         if "source_organisation_"+str(i) in meta:
-            meta["source_active_"+str(i)] = 'custom.boolean_true'
+            meta["source_active_"+str(i)] = True
     if meta["data_non_statistical"] == "Y":
-        meta["data_non_statistical"] == 'custom.boolean_true'
+        meta["data_non_statistical"] == True
     else:
-        meta["data_non_statistical"] == 'custom.boolean_false'
+        meta["data_non_statistical"] == False
     if meta["data_show_map"] == "Y":
-        meta["data_non_statistical"] == 'custom.boolean_true'
+        meta["data_non_statistical"] == True
     else:
-        meta["data_show_map"] == 'custom.boolean_false'
+        meta["data_show_map"] == False
     return meta
 
 # Validate the indicators.
