@@ -1,7 +1,7 @@
 ﻿National metadata,
 Indicator available,Prevalence of underweight or overweight (including obese) 4 to 5 year old children based on Body Mass Index (BMI) classifications
 Indicator description,Percentage of  4 to 5 year old children categorised as underweight or overweight (including obese) based on Body Mass Index (BMI) classifications.
-Geographical coverage,Bristol
+National comparability,
 Unit of measurement,Percentage (%)
 Definitions,Children with low weight for age are known as underweight. Overweight and obesity is when a person is too heavy for his or her height. Body mass index (BMI) is an index of weight-for-height. It is defined as a person’s weight in kilograms divided by the square of his/her height in meters (kg/m²).  The BMI classification of each child is derived by calculating the child's BMI centile. This calculation uses age and sex as well as height and weight to take into account different growth patterns in children at different ages. 
 Calculations,No calculations were performed in the data acquisition of this indicator as appropriate data was readily available in the final format specified by this indicator.
@@ -11,7 +11,6 @@ Reporting status,complete
 Non-statistical indicator,N
 Graph type,line
 Graph title,"Percentage of 4 to 5 year old children classified as underweight, or overweight (including or obese)"
-Use geocodes for mapping,N
 Indicator content,
 Sources,
 Source 1 organisation,Public Health England
