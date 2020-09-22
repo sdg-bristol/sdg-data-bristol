@@ -11,6 +11,7 @@ UN designated tier,un_designated_tier
 UN custodian agency,un_custodian_agency
 Link to UN metadata,goal_meta_link
 Link to UN metadata text,goal_meta_link_text
+Reporting status,reporting_status
 Non-statistical indicator,data_non_statistical
 Graph type,graph_type
 Graph title,graph_title
