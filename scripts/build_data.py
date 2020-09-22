@@ -7,14 +7,14 @@ def alter_meta(meta):
             meta["source_active_"+str(i)] = True
     if "data_non_statistical" in meta:
         if meta["data_non_statistical"] == "Y":
-            meta["data_non_statistical"] == True
+            meta["data_non_statistical"] = True
     else:
-        meta["data_non_statistical"] == False
+        meta["data_non_statistical"] = False
     if "data_show_map" in meta:
         if meta["data_show_map"] == "Y":
-            meta["data_non_statistical"] == True
+            meta["data_non_statistical"] = True
     else:
-        meta["data_show_map"] == False
+        meta["data_show_map"] = False
     return meta
 
 
