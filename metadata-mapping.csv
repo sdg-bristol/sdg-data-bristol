@@ -16,7 +16,6 @@ Graph type,graph_type
 Graph title,graph_title
 Use geocodes for mapping,data_show_map
 Indicator content,page_content
-Show source 1,source_active_1
 Source 1 organisation,source_organisation_1
 Source 1 periodicity,source_periodicity_1
 Source 1 earliest available data,source_earliest_available_1
@@ -28,7 +27,6 @@ Source 1 next release,source_next_release_1
 Source 1 statistical classification,source_statistical_classification_1
 Source 1 contact details,source_contact_1
 Source 1 other information,source_other_info_1
-Show source 2,source_active_2
 Source 2 organisation,source_organisation_2
 Source 2 periodicity,source_periodicity_2
 Source 2 earliest available data,source_earliest_available_2
@@ -40,7 +38,6 @@ Source 2 next release,source_next_release_2
 Source 2 statistical classification,source_statistical_classification_2
 Source 2 contact details,source_contact_2
 Source 2 other information,source_other_info_2
-Show source 3,source_active_3
 Source 3 organisation,source_organisation_3
 Source 3 periodicity,source_periodicity_3
 Source 3 earliest available data,source_earliest_available_3
@@ -52,7 +49,6 @@ Source 3 next release,source_next_release_3
 Source 3 statistical classification,source_statistical_classification_3
 Source 3 contact details,source_contact_3
 Source 3 other information,source_other_info_3
-Show source 4,source_active_4
 Source 4 organisation,source_organisation_4
 Source 4 periodicity,source_periodicity_4
 Source 4 earliest available data,source_earliest_available_4
