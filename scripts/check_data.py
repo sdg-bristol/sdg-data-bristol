@@ -9,13 +9,10 @@ def alter_meta(meta):
     if "data_non_statistical" in meta:
         if meta["data_non_statistical"] == "Y":
             meta["data_non_statistical"] = True
+        elif meta["data_non_statistical"] == "N":
+            meta["data_non_statistical"] = False
     else:
         meta["data_non_statistical"] = False
-    if "data_show_map" in meta:
-        if meta["data_show_map"] == "Y":
-            meta["data_non_statistical"] = True
-    else:
-        meta["data_show_map"] = False
     return meta
 
 # Validate the indicators.
