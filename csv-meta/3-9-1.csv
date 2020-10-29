@@ -1,28 +1,28 @@
 National metadata,
-Indicator available,Mortality rate due to WASH attributable factors
-Indicator description,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (exposure to unsafe Water, Sanitation and Hygiene for All (WASH) services)"
+Indicator available,Fraction of mortality attributable to particle air pollution
+Indicator description,Fraction of annual all-cause adult mortality attributable to anthropogenic (human-made) particulate air pollution
 National comparability,Comparable across UK local authorities
-Unit of measurement,Age-standardised mortality rate
+Unit of measurement,expressed as a percentage of annual deaths from all causes in those aged 30+
 Definitions,
 Calculations,No calculations
-Other information,"Some figures are missing.  Please note no data is available for cholera, typhoid and paratyphoyd fever, shigelossis, amoebiasis, other protozoal intestinal diseases, viral and other intestinal infections, and hookworm disease. "
+Other information,
 Settings,
-Reporting status,complete 
+Reporting status,complete
 Non-statistical indicator,N
 Graph type,line
-Graph title,Mortality rate due to WASH attributable factors
+Graph title,Fraction of mortality attributable to particle air pollution
 Indicator content,
 Sources,
-Source 1 organisation,NOMIS
+Source 1 organisation,Public Health England
 Source 1 periodicity,Annual
-Source 1 earliest available data,2013
+Source 1 earliest available data,2010
 Source 1 geographical coverage,Bristol
-Source 1 link to data source,https://www.nomisweb.co.uk/query/construct/submit.asp?forward=yes&menuopt=201&subcomp=
-Source 1 link to data source text,
-Source 1 release date,24/07/2020
+Source 1 link to data source,https://data.england.nhs.uk/dataset/phe-indicator-30101
+Source 1 link to data source text,3.01 - Fraction of mortality attributable to particulate air pollution 
+Source 1 release date,31/12/2015
 Source 1 next release,TBA
-Source 1 statistical classification,
-Source 1 contact details,vsob@ons.gov.uk
+Source 1 statistical classification,Official Statisitic
+Source 1 contact details,phof.enquiries@phe.gov.uk
 Source 1 other information,
 Source 2 organisation,
 Source 2 periodicity,
