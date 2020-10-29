@@ -1,7 +1,22 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Cause,sex,Value
+2017,A04 Other bacterial intestinal infections,Female,1.66
+2013,A04 Other bacterial intestinal infections,Male,2.06
+2013,A04 Other bacterial intestinal infections,,1.49
+2014,A04 Other bacterial intestinal infections,,
+2015,A04 Other bacterial intestinal infections,,
+2016,A04 Other bacterial intestinal infections,,
+2017,A04 Other bacterial intestinal infections,,0.95
+2013,A09 Other gastroenteritis and colitis of infectious and unspecified origin,Female,3.09
+2014,A09 Other gastroenteritis and colitis of infectious and unspecified origin,Female,2.8
+2015,A09 Other gastroenteritis and colitis of infectious and unspecified origin,Female,3.31
+2016,A09 Other gastroenteritis and colitis of infectious and unspecified origin,Female,1.38
+2013,A09 Other gastroenteritis and colitis of infectious and unspecified origin,Male,2.85
+2016,A09 Other gastroenteritis and colitis of infectious and unspecified origin,Male,
+2015,A09 Other gastroenteritis and colitis of infectious and unspecified origin,Male,
+2014,A09 Other gastroenteritis and colitis of infectious and unspecified origin,Male,
+2017,A09 Other gastroenteritis and colitis of infectious and unspecified origin,Male,2.42
+2013,A09 Other gastroenteritis and colitis of infectious and unspecified origin,,2.72
+2014,A09 Other gastroenteritis and colitis of infectious and unspecified origin,,1.62
+2015,A09 Other gastroenteritis and colitis of infectious and unspecified origin,,1.78
+2016,A09 Other gastroenteritis and colitis of infectious and unspecified origin,,0.86
+2017,A09 Other gastroenteritis and colitis of infectious and unspecified origin,,0.98
