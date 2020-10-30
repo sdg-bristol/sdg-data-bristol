@@ -1,7 +1,33 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Age,Units,Value
+2015,2 year olds,Percentage,50
+2016,2 year olds,Percentage,61
+2017,2 year olds,Percentage,70 
+2018,2 year olds,Percentage,68 
+2019,2 year olds,Percentage,64 
+2011,3 year olds,Percentage,87
+2012,3 year olds,Percentage,90
+2013,3 year olds,Percentage,88
+2014,3 year olds,Percentage,90
+2015,3 year olds,Percentage,90
+2016,3 year olds,Percentage,89
+2017,3 year olds,Percentage,91
+2018,3 year olds,Percentage,92
+2019,3 year olds,Percentage,89
+2011,4 year olds,Percentage,93
+2012,4 year olds,Percentage,93
+2013,4 year olds,Percentage,95
+2014,4 year olds,Percentage,93
+2015,4 year olds,Percentage,94
+2016,4 year olds,Percentage,95
+2017,4 year olds,Percentage,93
+2018,4 year olds,Percentage,96
+2019,4 year olds,Percentage,94
+2011,3 and 4 year olds,Percentage,90
+2012,3 and 4 year olds,Percentage,91
+2013,3 and 4 year olds,Percentage,91
+2014,3 and 4 year olds,Percentage,91
+2015,3 and 4 year olds,Percentage,92
+2016,3 and 4 year olds,Percentage,92
+2017,3 and 4 year olds,Percentage,92
+2018,3 and 4 year olds,Percentage,94
+2019,3 and 4 year olds,Percentage,92
