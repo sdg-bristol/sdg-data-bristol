@@ -1,3 +1,13 @@
-Year,Value
-2015,2
-2016,2
+Year,Value,Units
+2019/20,0.26,Rate of fatal injuries
+2018/19,0.0,Rate of fatal injuries
+2017/18,0.27,Rate of fatal injuries
+2016/17,0.0,Rate of fatal injuries
+2015/16,0.0,Rate of fatal injuries
+2014/15,0.0,Rate of fatal injuries
+2019/20,156.0,Rate of reported non-fatal injuries
+2018/19,156.0,Rate of reported non-fatal injuries
+2017/18,166.0,Rate of reported non-fatal injuries
+2016/17,184.0,Rate of reported non-fatal injuries
+2015/16,190.0,Rate of reported non-fatal injuries
+2014/15,206.0,Rate of reported non-fatal injuries
