@@ -5,7 +5,7 @@ National comparability,Comparable across UK local authorities
 Unit of measurement,"Rate of fatal injuries per 100,000 workers and non-fatal occupational injuries per 100,000 employees"
 Definitions,
 Calculations,Total number of fatal injuries = fatal injuries by employees + fatal injuries by self-employed
-Other information,
+Other information,"Injury estimates are not presented for the self-employed, due to severe under-reporting (under-reporting also effects employee reports but to a lesser extent than for the self-employed. While the enforcing authorities are informed about almost all relevant fatal workplace injuries, it is known that non-fatal injuries are substantially under-reported. Currently, it is estimated that around half of all such injuries to employees are reported. These results are achieved by comparing reported non-fatal injuries, with results from the Labour Force Survey - Injuries."
 Settings,
 Reporting status,complete
 Non-statistical indicator,N
@@ -21,9 +21,9 @@ Source 1 link to data source,https://www.hse.gov.uk/statistics/tables/index.htm
 Source 1 link to data source text,"RIDREG - RIDDOR reported fatal and non-fatal injuries in Great Britain by country, region and unitary or local authority"
 Source 1 release date,01/11/2020
 Source 1 next release,TBA
-Source 1 statistical classification,
+Source 1 statistical classification,National Statistic
 Source 1 contact details,
-Source 1 other information,
+Source 1 other information,"The Annual Population Survey (APS) is the source of employment data used as the denominator for rates of injury in these tables. The rate is constructed by dividing the count of injuries by the employment estimate. This is then multiplied by a factor of 100,000 to give a rate per 100,000 workers, in line with international standards"
 Source 2 organisation,
 Source 2 periodicity,
 Source 2 earliest available data,
