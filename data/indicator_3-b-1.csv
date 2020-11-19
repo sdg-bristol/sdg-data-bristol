@@ -1,7 +1,87 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Vaccine,Year of vaccintation,Value
+2019-2020,Diphtheria Tetanus Polio Pertussis Hib (primary),1st Birthday,92.32105629
+2018-2019,Diphtheria Tetanus Polio Pertussis Hib (primary),1st Birthday,91.98927434
+2017-2018,Diphtheria Tetanus Polio Pertussis Hib (primary),1st Birthday,94.01459854
+2016-2017,Diphtheria Tetanus Polio Pertussis Hib (primary),1st Birthday,93.26062185
+2015-2016,Diphtheria Tetanus Polio Pertussis Hib (primary),1st Birthday,95.14327343
+2014-2015,Diphtheria Tetanus Polio Pertussis Hib (primary),1st Birthday,95.82941361
+2013-2014,Diphtheria Tetanus Polio Pertussis Hib (primary),1st Birthday,95.96899225
+2019-2020,Pneumococcal disease (primary),1st Birthday,93.1028492
+2018-2019,Pneumococcal disease (primary),1st Birthday,92.42500419
+2017-2018,Pneumococcal disease (primary),1st Birthday,94.14436334
+2016-2017,Pneumococcal disease (primary),1st Birthday,93.37457268
+2015-2016,Pneumococcal disease (primary),1st Birthday,95.12708435
+2014-2015,Pneumococcal disease (primary),1st Birthday,95.07682659
+2013-2014,Pneumococcal disease (primary),1st Birthday,95.6124031
+2019-2020,Rotavirus(Primary),1st Birthday,90.06254343
+2018-2019,Rotavirus(Primary),1st Birthday,89.05647729
+2017-2018,Rotavirus(Primary),1st Birthday,89.9918897
+2016-2017,Rotavirus(Primary),1st Birthday,88.86537522
+2019-2020,Meningococcal group B (primary),1st Birthday,92.35580264
+2018-2019,Meningococcal group B (primary),1st Birthday,91.95575666
+2017-2018,Meningococcal group B (primary),1st Birthday,93.52798054
+2019-2020,Diphtheria Tetanus Polio Pertussis Hib (primary),2nd Birthday,93.79123668
+2018-2019,Diphtheria Tetanus Polio Pertussis Hib (primary),2nd Birthday,94.58927693
+2017-2018,Diphtheria Tetanus Polio Pertussis Hib (primary),2nd Birthday,95.30257439
+2016-2017,Diphtheria Tetanus Polio Pertussis Hib (primary),2nd Birthday,95.85884628
+2015-2016,Diphtheria Tetanus Polio Pertussis Hib (primary),2nd Birthday,96.05863192
+2014-2015,Diphtheria Tetanus Polio Pertussis Hib (primary),2nd Birthday,97.0156324
+2013-2014,Diphtheria Tetanus Polio Pertussis Hib (primary),2nd Birthday,97.31288902
+2019-2020,Measles mumps rubella (first dose),2nd Birthday,88.19150736
+2018-2019,Measles mumps rubella (first dose),2nd Birthday,89.17855386
+2017-2018,Measles mumps rubella (first dose),2nd Birthday,89.05048479
+2016-2017,Measles mumps rubella (first dose),2nd Birthday,89.22010957
+2015-2016,Measles mumps rubella (first dose),2nd Birthday,90.61889251
+2014-2015,Measles mumps rubella (first dose),2nd Birthday,91.3627033
+2013-2014,Measles mumps rubella (first dose),2nd Birthday,92.33338394
+2019-2020,Hib Meningococcal group C (booster),2nd Birthday,88.34376586
+2018-2019,Hib Meningococcal group C (booster),2nd Birthday,89.60485325
+2017-2018,Hib Meningococcal group C (booster),2nd Birthday,89.71915747
+2016-2017,Hib Meningococcal group C (booster),2nd Birthday,90.13857557
+2015-2016,Hib Meningococcal group C (booster),2nd Birthday,91.20521173
+2014-2015,Hib Meningococcal group C (booster),2nd Birthday,91.44165482
+2013-2014,Hib Meningococcal group C (booster),2nd Birthday,92.06011842
+2019-2020,Pneumococcal disease (booster),2nd Birthday,88.27609542
+2018-2019,Pneumococcal disease (booster),2nd Birthday,89.47368421
+2017-2018,Pneumococcal disease (booster),2nd Birthday,89.81945838
+2016-2017,Pneumococcal disease (booster),2nd Birthday,90.12246213
+2015-2016,Pneumococcal disease (booster),2nd Birthday,91.17263844
+2014-2015,Pneumococcal disease (booster),2nd Birthday,91.50481604
+2013-2014,Pneumococcal disease (booster),2nd Birthday,92.92545924
+2019-2020,Meningococcal group B (Booster),2nd Birthday,87.32870919
+2018-2019,Meningococcal group B (Booster),2nd Birthday,88.30955894
+2019-2020,Diphtheria Tetanus Polio Pertussis Hib (primary),5th Birthday,95.71971575
+2018-2019,Diphtheria Tetanus Polio Pertussis Hib (primary),5th Birthday,95.53615549
+2017-2018,Diphtheria Tetanus Polio Pertussis Hib (primary),5th Birthday,97.6388427
+2016-2017,Diphtheria Tetanus Polio Pertussis Hib (primary),5th Birthday,97.16744914
+2015-2016,Diphtheria Tetanus Polio Pertussis Hib (primary),5th Birthday,97.32546023
+2014-2015,Diphtheria Tetanus Polio Pertussis Hib (primary),5th Birthday,97.12242466
+2013-2014,Diphtheria Tetanus Polio Pertussis Hib (primary),5th Birthday,96.52055262
+2019-2020,Diphtheria Tetanus Polio Pertussis (booster),5th Birthday,86.39894232
+2018-2019,Diphtheria Tetanus Polio Pertussis (booster),5th Birthday,85.47191566
+2017-2018,Diphtheria Tetanus Polio Pertussis (booster),5th Birthday,86.91386764
+2016-2017,Diphtheria Tetanus Polio Pertussis (booster),5th Birthday,88.60719875
+2015-2016,Diphtheria Tetanus Polio Pertussis (booster),5th Birthday,89.85758944
+2014-2015,Diphtheria Tetanus Polio Pertussis (booster),5th Birthday,89.83483739
+2013-2014,Diphtheria Tetanus Polio Pertussis (booster),5th Birthday,88.3336176
+2019-2020,Measles mumps rubella (first dose),5th Birthday,94.72814411
+2018-2019,Measles mumps rubella (first dose),5th Birthday,94.11958491
+2017-2018,Measles mumps rubella (first dose),5th Birthday,95.75989358
+2016-2017,Measles mumps rubella (first dose),5th Birthday,95.5086072
+2015-2016,Measles mumps rubella (first dose),5th Birthday,95.55401181
+2014-2015,Measles mumps rubella (first dose),5th Birthday,95.23241955
+2013-2014,Measles mumps rubella (first dose),5th Birthday,94.26914549
+2019-2020,Measles mumps rubella (first and second dose),5th Birthday,87.30788299
+2018-2019,Measles mumps rubella (first and second dose),5th Birthday,85.98253994
+2017-2018,Measles mumps rubella (first and second dose),5th Birthday,86.24875291
+2016-2017,Measles mumps rubella (first and second dose),5th Birthday,86.49452269
+2015-2016,Measles mumps rubella (first and second dose),5th Birthday,88.19034387
+2014-2015,Measles mumps rubella (first and second dose),5th Birthday,88.57483399
+2013-2014,Measles mumps rubella (first and second dose),5th Birthday,86.96912843
+2019-2020,Hib Meningococcal group C (booster),5th Birthday,93.25731284
+2018-2019,Hib Meningococcal group C (booster),5th Birthday,93.29599736
+2017-2018,Hib Meningococcal group C (booster),5th Birthday,95.12803459
+2016-2017,Hib Meningococcal group C (booster),5th Birthday,95.03912363
+2015-2016,Hib Meningococcal group C (booster),5th Birthday,94.963529
+2014-2015,Hib Meningococcal group C (booster),5th Birthday,93.69998297
+2013-2014,Hib Meningococcal group C (booster),5th Birthday,92.46119734
