@@ -1,7 +1,43 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Units,Value
+1998,Percentage (%) of GVA,8.92
+1999,Percentage (%) of GVA,8.51
+2000,Percentage (%) of GVA,7.80
+2001,Percentage (%) of GVA,7.12
+2002,Percentage (%) of GVA,7.52
+2003,Percentage (%) of GVA,7.71
+2004,Percentage (%) of GVA,7.79
+2005,Percentage (%) of GVA,7.72
+2006,Percentage (%) of GVA,7.44
+2007,Percentage (%) of GVA,7.62
+2008,Percentage (%) of GVA,6.89
+2009,Percentage (%) of GVA,6.44
+2010,Percentage (%) of GVA,6.54
+2011,Percentage (%) of GVA,6.46
+2012,Percentage (%) of GVA,6.47
+2013,Percentage (%) of GVA,5.65
+2014,Percentage (%) of GVA,5.12
+2015,Percentage (%) of GVA,2.93
+2016,Percentage (%) of GVA,3.15
+2017,Percentage (%) of GVA,3.33
+2018,Percentage (%) of GVA,3.88
+1998,GBP per capita,2082.702017
+1999,GBP per capita,2030.768444
+2000,GBP per capita,1941.369613
+2001,GBP per capita,1897.197532
+2002,GBP per capita,2037.281743
+2003,GBP per capita,2120.300214
+2004,GBP per capita,2160.493047
+2005,GBP per capita,2108.991705
+2006,GBP per capita,2054.217634
+2007,GBP per capita,2187.418822
+2008,GBP per capita,1976.751474
+2009,GBP per capita,1811.499081
+2010,GBP per capita,1869.781867
+2011,GBP per capita,1833.795092
+2012,GBP per capita,1849.700838
+2013,GBP per capita,1615.015078
+2014,GBP per capita,1514.226291
+2015,GBP per capita,854.3404935
+2016,GBP per capita,954.0185014
+2017,GBP per capita,1060.419987
+2018,GBP per capita,1186.86678
