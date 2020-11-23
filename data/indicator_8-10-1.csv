@@ -1,7 +1,11 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Unit of measurement,Value
+2010,"Rate per 100,000 population",105.4230787
+2011,"Rate per 100,000 population",108.7678322
+2012,"Rate per 100,000 population",34.05685224
+2013,"Rate per 100,000 population",33.65624632
+2014,"Rate per 100,000 population",31.86425274
+2015,"Rate per 100,000 population",31.34821874
+2016,"Rate per 100,000 population",30.98577887
+2017,"Rate per 100,000 population",28.0834265
+2018,"Rate per 100,000 population",23.82666893
+2019,"Rate per 100,000 population",21.18677733
