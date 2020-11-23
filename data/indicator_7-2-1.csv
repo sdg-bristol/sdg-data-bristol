@@ -1,7 +1,37 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Renewable energy source,Value
+2019,,194950
+2018,,189357
+2017,,138535
+2016,,157281
+2015,,156878
+2014,,129258
+2019,Photovoltaics,27256
+2018,Photovoltaics,26397
+2017,Photovoltaics,23631
+2016,Photovoltaics,20496
+2015,Photovoltaics,13198
+2014,Photovoltaics,9631
+2019,Onshore Wind,80600
+2018,Onshore Wind,78362
+2017,Onshore Wind,82231
+2016,Onshore Wind,78005
+2015,Onshore Wind,96342
+2014,Onshore Wind,62012
+2019,Anaerobic Digestion,15989
+2018,Anaerobic Digestion,14538
+2017,Anaerobic Digestion,15521
+2016,Anaerobic Digestion,15249
+2015,Anaerobic Digestion,15403
+2014,Anaerobic Digestion,15216
+2019,Sewage Gas,19246
+2018,Sewage Gas,17411
+2017,Sewage Gas,17152
+2016,Sewage Gas,17080
+2015,Sewage Gas,22162
+2014,Sewage Gas,34158
+2019,Municipal Solid Waste,51859
+2018,Municipal Solid Waste,52648
+2017,Municipal Solid Waste,
+2016,Municipal Solid Waste,26451
+2015,Municipal Solid Waste,9772
+2014,Municipal Solid Waste,8241
