@@ -1,7 +1,37 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Renewable energy source,Value
+2019,," 194,950 "
+2018,," 189,357 "
+2017,," 138,535 "
+2016,," 157,281 "
+2015,," 156,878 "
+2014,," 129,258 "
+2019,Photovoltaics," 27,256 "
+2018,Photovoltaics," 26,397 "
+2017,Photovoltaics," 23,631 "
+2016,Photovoltaics," 20,496 "
+2015,Photovoltaics," 13,198 "
+2014,Photovoltaics," 9,631 "
+2019,Onshore Wind," 80,600 "
+2018,Onshore Wind," 78,362 "
+2017,Onshore Wind," 82,231 "
+2016,Onshore Wind," 78,005 "
+2015,Onshore Wind," 96,342 "
+2014,Onshore Wind," 62,012 "
+2019,Anaerobic Digestion," 15,989 "
+2018,Anaerobic Digestion," 14,538 "
+2017,Anaerobic Digestion," 15,521 "
+2016,Anaerobic Digestion," 15,249 "
+2015,Anaerobic Digestion," 15,403 "
+2014,Anaerobic Digestion," 15,216 "
+2019,Sewage Gas," 19,246 "
+2018,Sewage Gas," 17,411 "
+2017,Sewage Gas," 17,152 "
+2016,Sewage Gas," 17,080 "
+2015,Sewage Gas," 22,162 "
+2014,Sewage Gas," 34,158 "
+2019,Municipal Solid Waste," 51,859 "
+2018,Municipal Solid Waste," 52,648 "
+2017,Municipal Solid Waste, -   
+2016,Municipal Solid Waste," 26,451 "
+2015,Municipal Solid Waste," 9,772 "
+2014,Municipal Solid Waste," 8,241 "
