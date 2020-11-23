@@ -1,7 +1,568 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Sex,Learning category,Learning sub-category (higher),Learning sub-category (lower),GeoCode,Observation status,Unit multiplier,Unit measure,Value
+2012/13,Girls,Prime areas of learning,Communication and Language,1: Listening and Attention,E06000023,Undefined,Units,Percentage (%),84.0
+2012/13,Girls,Prime areas of learning,Communication and Language,2: Understanding,E06000023,Undefined,Units,Percentage (%),83.7
+2012/13,Girls,Prime areas of learning,Communication and Language,3: Speaking,E06000023,Undefined,Units,Percentage (%),80.2
+2012/13,Girls,Prime areas of learning,Communication and Language,,E06000023,Undefined,Units,Percentage (%),75.5
+2012/13,Girls,Prime areas of learning,"Personal, Social and Emotional Development",6: Self-confidence and Self-awareness,E06000023,Undefined,Units,Percentage (%),86.9
+2012/13,Girls,Prime areas of learning,"Personal, Social and Emotional Development",7: Managing feelings and behaviour,E06000023,Undefined,Units,Percentage (%),86.5
+2012/13,Girls,Prime areas of learning,"Personal, Social and Emotional Development",8: Making relationships,E06000023,Undefined,Units,Percentage (%),88.9
+2012/13,Girls,Prime areas of learning,"Personal, Social and Emotional Development",,E06000023,Undefined,Units,Percentage (%),81.2
+2012/13,Girls,Prime areas of learning,Physical Development,4: Moving and Handling,E06000023,Undefined,Units,Percentage (%),90.3
+2012/13,Girls,Prime areas of learning,Physical Development,5: Health and Self-Care,E06000023,Undefined,Units,Percentage (%),89.2
+2012/13,Girls,Prime areas of learning,Physical Development,,E06000023,Undefined,Units,Percentage (%),86.5
+2012/13,Girls,Prime areas of learning,,,E06000023,Undefined,Units,Percentage (%),70.5
+2012/13,Girls,Specific areas of learning,Expressive arts and design,16: Exploring and using media and materials,E06000023,Undefined,Units,Percentage (%),89.5
+2012/13,Girls,Specific areas of learning,Expressive arts and design,17: Being imaginative,E06000023,Undefined,Units,Percentage (%),87.9
+2012/13,Girls,Specific areas of learning,Expressive arts and design,,E06000023,Undefined,Units,Percentage (%),86.0
+2012/13,Girls,Specific areas of learning,Literacy,10: Writing,E06000023,Undefined,Units,Percentage (%),68.4
+2012/13,Girls,Specific areas of learning,Literacy,9: Reading,E06000023,Undefined,Units,Percentage (%),72.2
+2012/13,Girls,Specific areas of learning,Literacy,,E06000023,Undefined,Units,Percentage (%),65.8
+2012/13,Girls,Specific areas of learning,Mathematics,11: Numbers,E06000023,Undefined,Units,Percentage (%),67.3
+2012/13,Girls,Specific areas of learning,Mathematics,"12: Shape, space and measures",E06000023,Undefined,Units,Percentage (%),75.6
+2012/13,Girls,Specific areas of learning,Mathematics,,E06000023,Undefined,Units,Percentage (%),65.9
+2012/13,Girls,Specific areas of learning,Understanding the world,13: People and communities,E06000023,Undefined,Units,Percentage (%),82.7
+2012/13,Girls,Specific areas of learning,Understanding the world,14: The World,E06000023,Undefined,Units,Percentage (%),81.1
+2012/13,Girls,Specific areas of learning,Understanding the world,15: Technology,E06000023,Undefined,Units,Percentage (%),85.0
+2012/13,Girls,Specific areas of learning,Understanding the world,,E06000023,Undefined,Units,Percentage (%),74.6
+2012/13,Girls,Specific areas of learning,,,E06000023,Undefined,Units,Percentage (%),55.8
+2012/13,Girls,,,,E06000023,Undefined,Units,Percentage (%),52.9
+2012/13,Boys,Prime areas of learning,Communication and Language,1: Listening and Attention,E06000023,Undefined,Units,Percentage (%),73.3
+2012/13,Boys,Prime areas of learning,Communication and Language,2: Understanding,E06000023,Undefined,Units,Percentage (%),75.8
+2012/13,Boys,Prime areas of learning,Communication and Language,3: Speaking,E06000023,Undefined,Units,Percentage (%),71.2
+2012/13,Boys,Prime areas of learning,Communication and Language,,E06000023,Undefined,Units,Percentage (%),63.2
+2012/13,Boys,Prime areas of learning,"Personal, Social and Emotional Development",6: Self-confidence and Self-awareness,E06000023,Undefined,Units,Percentage (%),79.8
+2012/13,Boys,Prime areas of learning,"Personal, Social and Emotional Development",7: Managing feelings and behaviour,E06000023,Undefined,Units,Percentage (%),75.3
+2012/13,Boys,Prime areas of learning,"Personal, Social and Emotional Development",8: Making relationships,E06000023,Undefined,Units,Percentage (%),78.9
+2012/13,Boys,Prime areas of learning,"Personal, Social and Emotional Development",,E06000023,Undefined,Units,Percentage (%),68.4
+2012/13,Boys,Prime areas of learning,Physical Development,4: Moving and Handling,E06000023,Undefined,Units,Percentage (%),79.0
+2012/13,Boys,Prime areas of learning,Physical Development,5: Health and Self-Care,E06000023,Undefined,Units,Percentage (%),82.0
+2012/13,Boys,Prime areas of learning,Physical Development,,E06000023,Undefined,Units,Percentage (%),73.6
+2012/13,Boys,Prime areas of learning,,,E06000023,Undefined,Units,Percentage (%),55.4
+2012/13,Boys,Specific areas of learning,Expressive arts and design,16: Exploring and using media and materials,E06000023,Undefined,Units,Percentage (%),72.3
+2012/13,Boys,Specific areas of learning,Expressive arts and design,17: Being imaginative,E06000023,Undefined,Units,Percentage (%),71.2
+2012/13,Boys,Specific areas of learning,Expressive arts and design,,E06000023,Undefined,Units,Percentage (%),65.7
+2012/13,Boys,Specific areas of learning,Literacy,10: Writing,E06000023,Undefined,Units,Percentage (%),53.3
+2012/13,Boys,Specific areas of learning,Literacy,9: Reading,E06000023,Undefined,Units,Percentage (%),61.9
+2012/13,Boys,Specific areas of learning,Literacy,,E06000023,Undefined,Units,Percentage (%),51.2
+2012/13,Boys,Specific areas of learning,Mathematics,11: Numbers,E06000023,Undefined,Units,Percentage (%),61.5
+2012/13,Boys,Specific areas of learning,Mathematics,"12: Shape, space and measures",E06000023,Undefined,Units,Percentage (%),68.7
+2012/13,Boys,Specific areas of learning,Mathematics,,E06000023,Undefined,Units,Percentage (%),59.3
+2012/13,Boys,Specific areas of learning,Understanding the world,13: People and communities,E06000023,Undefined,Units,Percentage (%),72.9
+2012/13,Boys,Specific areas of learning,Understanding the world,14: The World,E06000023,Undefined,Units,Percentage (%),74.7
+2012/13,Boys,Specific areas of learning,Understanding the world,15: Technology,E06000023,Undefined,Units,Percentage (%),86.3
+2012/13,Boys,Specific areas of learning,Understanding the world,,E06000023,Undefined,Units,Percentage (%),67.8
+2012/13,Boys,Specific areas of learning,,,E06000023,Undefined,Units,Percentage (%),41.4
+2012/13,Boys,,,,E06000023,Undefined,Units,Percentage (%),38.3
+2012/13,,Prime areas of learning,Communication and Language,1: Listening and Attention,E06000023,Undefined,Units,Percentage (%),78.6
+2012/13,,Prime areas of learning,Communication and Language,2: Understanding,E06000023,Undefined,Units,Percentage (%),79.7
+2012/13,,Prime areas of learning,Communication and Language,3: Speaking,E06000023,Undefined,Units,Percentage (%),75.7
+2012/13,,Prime areas of learning,Communication and Language,,E06000023,Undefined,Units,Percentage (%),69.3
+2012/13,,Prime areas of learning,"Personal, Social and Emotional Development",6: Self-confidence and Self-awareness,E06000023,Undefined,Units,Percentage (%),83.4
+2012/13,,Prime areas of learning,"Personal, Social and Emotional Development",7: Managing feelings and behaviour,E06000023,Undefined,Units,Percentage (%),80.9
+2012/13,,Prime areas of learning,"Personal, Social and Emotional Development",8: Making relationships,E06000023,Undefined,Units,Percentage (%),83.9
+2012/13,,Prime areas of learning,"Personal, Social and Emotional Development",,E06000023,Undefined,Units,Percentage (%),74.8
+2012/13,,Prime areas of learning,Physical Development,4: Moving and Handling,E06000023,Undefined,Units,Percentage (%),84.6
+2012/13,,Prime areas of learning,Physical Development,5: Health and Self-Care,E06000023,Undefined,Units,Percentage (%),85.6
+2012/13,,Prime areas of learning,Physical Development,,E06000023,Undefined,Units,Percentage (%),80.0
+2012/13,,Prime areas of learning,,,E06000023,Undefined,Units,Percentage (%),62.9
+2012/13,,Specific areas of learning,Expressive arts and design,16: Exploring and using media and materials,E06000023,Undefined,Units,Percentage (%),80.9
+2012/13,,Specific areas of learning,Expressive arts and design,17: Being imaginative,E06000023,Undefined,Units,Percentage (%),79.5
+2012/13,,Specific areas of learning,Expressive arts and design,,E06000023,Undefined,Units,Percentage (%),75.8
+2012/13,,Specific areas of learning,Literacy,10: Writing,E06000023,Undefined,Units,Percentage (%),60.8
+2012/13,,Specific areas of learning,Literacy,9: Reading,E06000023,Undefined,Units,Percentage (%),67.0
+2012/13,,Specific areas of learning,Literacy,,E06000023,Undefined,Units,Percentage (%),58.5
+2012/13,,Specific areas of learning,Mathematics,11: Numbers,E06000023,Undefined,Units,Percentage (%),64.4
+2012/13,,Specific areas of learning,Mathematics,"12: Shape, space and measures",E06000023,Undefined,Units,Percentage (%),72.1
+2012/13,,Specific areas of learning,Mathematics,,E06000023,Undefined,Units,Percentage (%),62.6
+2012/13,,Specific areas of learning,Understanding the world,13: People and communities,E06000023,Undefined,Units,Percentage (%),77.7
+2012/13,,Specific areas of learning,Understanding the world,14: The World,E06000023,Undefined,Units,Percentage (%),77.9
+2012/13,,Specific areas of learning,Understanding the world,15: Technology,E06000023,Undefined,Units,Percentage (%),85.7
+2012/13,,Specific areas of learning,Understanding the world,,E06000023,Undefined,Units,Percentage (%),71.2
+2012/13,,Specific areas of learning,,,E06000023,Undefined,Units,Percentage (%),48.5
+2012/13,,,,,E06000023,Undefined,Units,Percentage (%),45.6
+2013/14,Girls,Prime areas of learning,Communication and Language,1: Listening and Attention,E06000023,Undefined,Units,Percentage (%),87.7
+2013/14,Girls,Prime areas of learning,Communication and Language,2: Understanding,E06000023,Undefined,Units,Percentage (%),86.5
+2013/14,Girls,Prime areas of learning,Communication and Language,3: Speaking,E06000023,Undefined,Units,Percentage (%),84.1
+2013/14,Girls,Prime areas of learning,Communication and Language,,E06000023,Undefined,Units,Percentage (%),80.5
+2013/14,Girls,Prime areas of learning,"Personal, Social and Emotional Development",6: Self-confidence and Self-awareness,E06000023,Undefined,Units,Percentage (%),90.2
+2013/14,Girls,Prime areas of learning,"Personal, Social and Emotional Development",7: Managing feelings and behaviour,E06000023,Undefined,Units,Percentage (%),89.9
+2013/14,Girls,Prime areas of learning,"Personal, Social and Emotional Development",8: Making relationships,E06000023,Undefined,Units,Percentage (%),91.2
+2013/14,Girls,Prime areas of learning,"Personal, Social and Emotional Development",,E06000023,Undefined,Units,Percentage (%),85.7
+2013/14,Girls,Prime areas of learning,Physical Development,4: Moving and Handling,E06000023,Undefined,Units,Percentage (%),92.8
+2013/14,Girls,Prime areas of learning,Physical Development,5: Health and Self-Care,E06000023,Undefined,Units,Percentage (%),91.9
+2013/14,Girls,Prime areas of learning,Physical Development,,E06000023,Undefined,Units,Percentage (%),89.4
+2013/14,Girls,Prime areas of learning,,,E06000023,Undefined,Units,Percentage (%),76.8
+2013/14,Girls,Specific areas of learning,Expressive arts and design,16: Exploring and using media and materials,E06000023,Undefined,Units,Percentage (%),92.4
+2013/14,Girls,Specific areas of learning,Expressive arts and design,17: Being imaginative,E06000023,Undefined,Units,Percentage (%),90.4
+2013/14,Girls,Specific areas of learning,Expressive arts and design,,E06000023,Undefined,Units,Percentage (%),89.3
+2013/14,Girls,Specific areas of learning,Literacy,10: Writing,E06000023,Undefined,Units,Percentage (%),74.1
+2013/14,Girls,Specific areas of learning,Literacy,9: Reading,E06000023,Undefined,Units,Percentage (%),77.2
+2013/14,Girls,Specific areas of learning,Literacy,,E06000023,Undefined,Units,Percentage (%),72.6
+2013/14,Girls,Specific areas of learning,Mathematics,11: Numbers,E06000023,Undefined,Units,Percentage (%),76.0
+2013/14,Girls,Specific areas of learning,Mathematics,"12: Shape, space and measures",E06000023,Undefined,Units,Percentage (%),81.3
+2013/14,Girls,Specific areas of learning,Mathematics,,E06000023,Undefined,Units,Percentage (%),74.5
+2013/14,Girls,Specific areas of learning,Understanding the world,13: People and communities,E06000023,Undefined,Units,Percentage (%),86.8
+2013/14,Girls,Specific areas of learning,Understanding the world,14: The World,E06000023,Undefined,Units,Percentage (%),84.5
+2013/14,Girls,Specific areas of learning,Understanding the world,15: Technology,E06000023,Undefined,Units,Percentage (%),89.6
+2013/14,Girls,Specific areas of learning,Understanding the world,,E06000023,Undefined,Units,Percentage (%),80.9
+2013/14,Girls,Specific areas of learning,,,E06000023,Undefined,Units,Percentage (%),64.7
+2013/14,Girls,,,,E06000023,Undefined,Units,Percentage (%),62.6
+2013/14,Boys,Prime areas of learning,Communication and Language,1: Listening and Attention,E06000023,Undefined,Units,Percentage (%),77.9
+2013/14,Boys,Prime areas of learning,Communication and Language,2: Understanding,E06000023,Undefined,Units,Percentage (%),78.6
+2013/14,Boys,Prime areas of learning,Communication and Language,3: Speaking,E06000023,Undefined,Units,Percentage (%),74.9
+2013/14,Boys,Prime areas of learning,Communication and Language,,E06000023,Undefined,Units,Percentage (%),69.5
+2013/14,Boys,Prime areas of learning,"Personal, Social and Emotional Development",6: Self-confidence and Self-awareness,E06000023,Undefined,Units,Percentage (%),82.2
+2013/14,Boys,Prime areas of learning,"Personal, Social and Emotional Development",7: Managing feelings and behaviour,E06000023,Undefined,Units,Percentage (%),79.4
+2013/14,Boys,Prime areas of learning,"Personal, Social and Emotional Development",8: Making relationships,E06000023,Undefined,Units,Percentage (%),81.1
+2013/14,Boys,Prime areas of learning,"Personal, Social and Emotional Development",,E06000023,Undefined,Units,Percentage (%),73.8
+2013/14,Boys,Prime areas of learning,Physical Development,4: Moving and Handling,E06000023,Undefined,Units,Percentage (%),84.3
+2013/14,Boys,Prime areas of learning,Physical Development,5: Health and Self-Care,E06000023,Undefined,Units,Percentage (%),84.9
+2013/14,Boys,Prime areas of learning,Physical Development,,E06000023,Undefined,Units,Percentage (%),79.0
+2013/14,Boys,Prime areas of learning,,,E06000023,Undefined,Units,Percentage (%),62.6
+2013/14,Boys,Specific areas of learning,Expressive arts and design,16: Exploring and using media and materials,E06000023,Undefined,Units,Percentage (%),78.0
+2013/14,Boys,Specific areas of learning,Expressive arts and design,17: Being imaginative,E06000023,Undefined,Units,Percentage (%),77.1
+2013/14,Boys,Specific areas of learning,Expressive arts and design,,E06000023,Undefined,Units,Percentage (%),73.1
+2013/14,Boys,Specific areas of learning,Literacy,10: Writing,E06000023,Undefined,Units,Percentage (%),59.3
+2013/14,Boys,Specific areas of learning,Literacy,9: Reading,E06000023,Undefined,Units,Percentage (%),65.6
+2013/14,Boys,Specific areas of learning,Literacy,,E06000023,Undefined,Units,Percentage (%),57.7
+2013/14,Boys,Specific areas of learning,Mathematics,11: Numbers,E06000023,Undefined,Units,Percentage (%),68.2
+2013/14,Boys,Specific areas of learning,Mathematics,"12: Shape, space and measures",E06000023,Undefined,Units,Percentage (%),73.4
+2013/14,Boys,Specific areas of learning,Mathematics,,E06000023,Undefined,Units,Percentage (%),65.6
+2013/14,Boys,Specific areas of learning,Understanding the world,13: People and communities,E06000023,Undefined,Units,Percentage (%),78.2
+2013/14,Boys,Specific areas of learning,Understanding the world,14: The World,E06000023,Undefined,Units,Percentage (%),78.4
+2013/14,Boys,Specific areas of learning,Understanding the world,15: Technology,E06000023,Undefined,Units,Percentage (%),89.1
+2013/14,Boys,Specific areas of learning,Understanding the world,,E06000023,Undefined,Units,Percentage (%),74.0
+2013/14,Boys,Specific areas of learning,,,E06000023,Undefined,Units,Percentage (%),49.7
+2013/14,Boys,,,,E06000023,Undefined,Units,Percentage (%),46.9
+2013/14,,Prime areas of learning,Communication and Language,1: Listening and Attention,E06000023,Undefined,Units,Percentage (%),82.7
+2013/14,,Prime areas of learning,Communication and Language,2: Understanding,E06000023,Undefined,Units,Percentage (%),82.5
+2013/14,,Prime areas of learning,Communication and Language,3: Speaking,E06000023,Undefined,Units,Percentage (%),79.4
+2013/14,,Prime areas of learning,Communication and Language,,E06000023,Undefined,Units,Percentage (%),74.9
+2013/14,,Prime areas of learning,"Personal, Social and Emotional Development",6: Self-confidence and Self-awareness,E06000023,Undefined,Units,Percentage (%),86.1
+2013/14,,Prime areas of learning,"Personal, Social and Emotional Development",7: Managing feelings and behaviour,E06000023,Undefined,Units,Percentage (%),84.6
+2013/14,,Prime areas of learning,"Personal, Social and Emotional Development",8: Making relationships,E06000023,Undefined,Units,Percentage (%),86.0
+2013/14,,Prime areas of learning,"Personal, Social and Emotional Development",,E06000023,Undefined,Units,Percentage (%),79.7
+2013/14,,Prime areas of learning,Physical Development,4: Moving and Handling,E06000023,Undefined,Units,Percentage (%),88.4
+2013/14,,Prime areas of learning,Physical Development,5: Health and Self-Care,E06000023,Undefined,Units,Percentage (%),88.3
+2013/14,,Prime areas of learning,Physical Development,,E06000023,Undefined,Units,Percentage (%),84.1
+2013/14,,Prime areas of learning,,,E06000023,Undefined,Units,Percentage (%),69.6
+2013/14,,Specific areas of learning,Expressive arts and design,16: Exploring and using media and materials,E06000023,Undefined,Units,Percentage (%),85.1
+2013/14,,Specific areas of learning,Expressive arts and design,17: Being imaginative,E06000023,Undefined,Units,Percentage (%),83.6
+2013/14,,Specific areas of learning,Expressive arts and design,,E06000023,Undefined,Units,Percentage (%),81.1
+2013/14,,Specific areas of learning,Literacy,10: Writing,E06000023,Undefined,Units,Percentage (%),66.6
+2013/14,,Specific areas of learning,Literacy,9: Reading,E06000023,Undefined,Units,Percentage (%),71.3
+2013/14,,Specific areas of learning,Literacy,,E06000023,Undefined,Units,Percentage (%),65.0
+2013/14,,Specific areas of learning,Mathematics,11: Numbers,E06000023,Undefined,Units,Percentage (%),72.0
+2013/14,,Specific areas of learning,Mathematics,"12: Shape, space and measures",E06000023,Undefined,Units,Percentage (%),77.2
+2013/14,,Specific areas of learning,Mathematics,,E06000023,Undefined,Units,Percentage (%),70.0
+2013/14,,Specific areas of learning,Understanding the world,13: People and communities,E06000023,Undefined,Units,Percentage (%),82.4
+2013/14,,Specific areas of learning,Understanding the world,14: The World,E06000023,Undefined,Units,Percentage (%),81.4
+2013/14,,Specific areas of learning,Understanding the world,15: Technology,E06000023,Undefined,Units,Percentage (%),89.4
+2013/14,,Specific areas of learning,Understanding the world,,E06000023,Undefined,Units,Percentage (%),77.4
+2013/14,,Specific areas of learning,,,E06000023,Undefined,Units,Percentage (%),57.1
+2013/14,,,,,E06000023,Undefined,Units,Percentage (%),54.6
+2014/15,Girls,Prime areas of learning,Communication and Language,1: Listening and Attention,E06000023,Undefined,Units,Percentage (%),87.5
+2014/15,Girls,Prime areas of learning,Communication and Language,2: Understanding,E06000023,Undefined,Units,Percentage (%),86.8
+2014/15,Girls,Prime areas of learning,Communication and Language,3: Speaking,E06000023,Undefined,Units,Percentage (%),85.5
+2014/15,Girls,Prime areas of learning,Communication and Language,,E06000023,Undefined,Units,Percentage (%),81.6
+2014/15,Girls,Prime areas of learning,"Personal, Social and Emotional Development",6: Self-confidence and Self-awareness,E06000023,Undefined,Units,Percentage (%),89.5
+2014/15,Girls,Prime areas of learning,"Personal, Social and Emotional Development",7: Managing feelings and behaviour,E06000023,Undefined,Units,Percentage (%),89.2
+2014/15,Girls,Prime areas of learning,"Personal, Social and Emotional Development",8: Making relationships,E06000023,Undefined,Units,Percentage (%),90.5
+2014/15,Girls,Prime areas of learning,"Personal, Social and Emotional Development",,E06000023,Undefined,Units,Percentage (%),85.2
+2014/15,Girls,Prime areas of learning,Physical Development,4: Moving and Handling,E06000023,Undefined,Units,Percentage (%),93.1
+2014/15,Girls,Prime areas of learning,Physical Development,5: Health and Self-Care,E06000023,Undefined,Units,Percentage (%),91.8
+2014/15,Girls,Prime areas of learning,Physical Development,,E06000023,Undefined,Units,Percentage (%),90.0
+2014/15,Girls,Prime areas of learning,,,E06000023,Undefined,Units,Percentage (%),78.9
+2014/15,Girls,Specific areas of learning,Expressive arts and design,16: Exploring and using media and materials,E06000023,Undefined,Units,Percentage (%),91.7
+2014/15,Girls,Specific areas of learning,Expressive arts and design,17: Being imaginative,E06000023,Undefined,Units,Percentage (%),91.8
+2014/15,Girls,Specific areas of learning,Expressive arts and design,,E06000023,Undefined,Units,Percentage (%),90.1
+2014/15,Girls,Specific areas of learning,Literacy,10: Writing,E06000023,Undefined,Units,Percentage (%),75.4
+2014/15,Girls,Specific areas of learning,Literacy,9: Reading,E06000023,Undefined,Units,Percentage (%),78.0
+2014/15,Girls,Specific areas of learning,Literacy,,E06000023,Undefined,Units,Percentage (%),74.7
+2014/15,Girls,Specific areas of learning,Mathematics,11: Numbers,E06000023,Undefined,Units,Percentage (%),77.9
+2014/15,Girls,Specific areas of learning,Mathematics,"12: Shape, space and measures",E06000023,Undefined,Units,Percentage (%),82.0
+2014/15,Girls,Specific areas of learning,Mathematics,,E06000023,Undefined,Units,Percentage (%),77.0
+2014/15,Girls,Specific areas of learning,Understanding the world,13: People and communities,E06000023,Undefined,Units,Percentage (%),86.6
+2014/15,Girls,Specific areas of learning,Understanding the world,14: The World,E06000023,Undefined,Units,Percentage (%),85.7
+2014/15,Girls,Specific areas of learning,Understanding the world,15: Technology,E06000023,Undefined,Units,Percentage (%),90.4
+2014/15,Girls,Specific areas of learning,Understanding the world,,E06000023,Undefined,Units,Percentage (%),82.2
+2014/15,Girls,Specific areas of learning,,,E06000023,Undefined,Units,Percentage (%),69.9
+2014/15,Girls,,,,E06000023,Undefined,Units,Percentage (%),68.2
+2014/15,Boys,Prime areas of learning,Communication and Language,1: Listening and Attention,E06000023,Undefined,Units,Percentage (%),78.5
+2014/15,Boys,Prime areas of learning,Communication and Language,2: Understanding,E06000023,Undefined,Units,Percentage (%),79.6
+2014/15,Boys,Prime areas of learning,Communication and Language,3: Speaking,E06000023,Undefined,Units,Percentage (%),77.4
+2014/15,Boys,Prime areas of learning,Communication and Language,,E06000023,Undefined,Units,Percentage (%),71.7
+2014/15,Boys,Prime areas of learning,"Personal, Social and Emotional Development",6: Self-confidence and Self-awareness,E06000023,Undefined,Units,Percentage (%),84.1
+2014/15,Boys,Prime areas of learning,"Personal, Social and Emotional Development",7: Managing feelings and behaviour,E06000023,Undefined,Units,Percentage (%),80.3
+2014/15,Boys,Prime areas of learning,"Personal, Social and Emotional Development",8: Making relationships,E06000023,Undefined,Units,Percentage (%),82.9
+2014/15,Boys,Prime areas of learning,"Personal, Social and Emotional Development",,E06000023,Undefined,Units,Percentage (%),75.9
+2014/15,Boys,Prime areas of learning,Physical Development,4: Moving and Handling,E06000023,Undefined,Units,Percentage (%),83.6
+2014/15,Boys,Prime areas of learning,Physical Development,5: Health and Self-Care,E06000023,Undefined,Units,Percentage (%),86.6
+2014/15,Boys,Prime areas of learning,Physical Development,,E06000023,Undefined,Units,Percentage (%),80.1
+2014/15,Boys,Prime areas of learning,,,E06000023,Undefined,Units,Percentage (%),66.5
+2014/15,Boys,Specific areas of learning,Expressive arts and design,16: Exploring and using media and materials,E06000023,Undefined,Units,Percentage (%),80.4
+2014/15,Boys,Specific areas of learning,Expressive arts and design,17: Being imaginative,E06000023,Undefined,Units,Percentage (%),80.8
+2014/15,Boys,Specific areas of learning,Expressive arts and design,,E06000023,Undefined,Units,Percentage (%),76.5
+2014/15,Boys,Specific areas of learning,Literacy,10: Writing,E06000023,Undefined,Units,Percentage (%),63.1
+2014/15,Boys,Specific areas of learning,Literacy,9: Reading,E06000023,Undefined,Units,Percentage (%),68.2
+2014/15,Boys,Specific areas of learning,Literacy,,E06000023,Undefined,Units,Percentage (%),61.9
+2014/15,Boys,Specific areas of learning,Mathematics,11: Numbers,E06000023,Undefined,Units,Percentage (%),71.4
+2014/15,Boys,Specific areas of learning,Mathematics,"12: Shape, space and measures",E06000023,Undefined,Units,Percentage (%),76.3
+2014/15,Boys,Specific areas of learning,Mathematics,,E06000023,Undefined,Units,Percentage (%),69.3
+2014/15,Boys,Specific areas of learning,Understanding the world,13: People and communities,E06000023,Undefined,Units,Percentage (%),80.2
+2014/15,Boys,Specific areas of learning,Understanding the world,14: The World,E06000023,Undefined,Units,Percentage (%),80.2
+2014/15,Boys,Specific areas of learning,Understanding the world,15: Technology,E06000023,Undefined,Units,Percentage (%),91.1
+2014/15,Boys,Specific areas of learning,Understanding the world,,E06000023,Undefined,Units,Percentage (%),76.5
+2014/15,Boys,Specific areas of learning,,,E06000023,Undefined,Units,Percentage (%),55.4
+2014/15,Boys,,,,E06000023,Undefined,Units,Percentage (%),53.1
+2014/15,,Prime areas of learning,Communication and Language,1: Listening and Attention,E06000023,Undefined,Units,Percentage (%),82.8
+2014/15,,Prime areas of learning,Communication and Language,2: Understanding,E06000023,Undefined,Units,Percentage (%),83.0
+2014/15,,Prime areas of learning,Communication and Language,3: Speaking,E06000023,Undefined,Units,Percentage (%),81.2
+2014/15,,Prime areas of learning,Communication and Language,,E06000023,Undefined,Units,Percentage (%),76.4
+2014/15,,Prime areas of learning,"Personal, Social and Emotional Development",6: Self-confidence and Self-awareness,E06000023,Undefined,Units,Percentage (%),86.6
+2014/15,,Prime areas of learning,"Personal, Social and Emotional Development",7: Managing feelings and behaviour,E06000023,Undefined,Units,Percentage (%),84.5
+2014/15,,Prime areas of learning,"Personal, Social and Emotional Development",8: Making relationships,E06000023,Undefined,Units,Percentage (%),86.5
+2014/15,,Prime areas of learning,"Personal, Social and Emotional Development",,E06000023,Undefined,Units,Percentage (%),80.3
+2014/15,,Prime areas of learning,Physical Development,4: Moving and Handling,E06000023,Undefined,Units,Percentage (%),88.1
+2014/15,,Prime areas of learning,Physical Development,5: Health and Self-Care,E06000023,Undefined,Units,Percentage (%),89.1
+2014/15,,Prime areas of learning,Physical Development,,E06000023,Undefined,Units,Percentage (%),84.8
+2014/15,,Prime areas of learning,,,E06000023,Undefined,Units,Percentage (%),72.4
+2014/15,,Specific areas of learning,Expressive arts and design,16: Exploring and using media and materials,E06000023,Undefined,Units,Percentage (%),85.7
+2014/15,,Specific areas of learning,Expressive arts and design,17: Being imaginative,E06000023,Undefined,Units,Percentage (%),86.0
+2014/15,,Specific areas of learning,Expressive arts and design,,E06000023,Undefined,Units,Percentage (%),82.9
+2014/15,,Specific areas of learning,Literacy,10: Writing,E06000023,Undefined,Units,Percentage (%),68.9
+2014/15,,Specific areas of learning,Literacy,9: Reading,E06000023,Undefined,Units,Percentage (%),72.9
+2014/15,,Specific areas of learning,Literacy,,E06000023,Undefined,Units,Percentage (%),67.9
+2014/15,,Specific areas of learning,Mathematics,11: Numbers,E06000023,Undefined,Units,Percentage (%),74.5
+2014/15,,Specific areas of learning,Mathematics,"12: Shape, space and measures",E06000023,Undefined,Units,Percentage (%),79.0
+2014/15,,Specific areas of learning,Mathematics,,E06000023,Undefined,Units,Percentage (%),72.9
+2014/15,,Specific areas of learning,Understanding the world,13: People and communities,E06000023,Undefined,Units,Percentage (%),83.2
+2014/15,,Specific areas of learning,Understanding the world,14: The World,E06000023,Undefined,Units,Percentage (%),82.8
+2014/15,,Specific areas of learning,Understanding the world,15: Technology,E06000023,Undefined,Units,Percentage (%),90.8
+2014/15,,Specific areas of learning,Understanding the world,,E06000023,Undefined,Units,Percentage (%),79.2
+2014/15,,Specific areas of learning,,,E06000023,Undefined,Units,Percentage (%),62.3
+2014/15,,,,,E06000023,Undefined,Units,Percentage (%),60.2
+2015/16,Girls,Prime areas of learning,Communication and Language,1: Listening and Attention,E06000023,Undefined,Units,Percentage (%),89.8
+2015/16,Girls,Prime areas of learning,Communication and Language,2: Understanding,E06000023,Undefined,Units,Percentage (%),88.5
+2015/16,Girls,Prime areas of learning,Communication and Language,3: Speaking,E06000023,Undefined,Units,Percentage (%),88.1
+2015/16,Girls,Prime areas of learning,Communication and Language,,E06000023,Undefined,Units,Percentage (%),84.8
+2015/16,Girls,Prime areas of learning,"Personal, Social and Emotional Development",6: Self-confidence and Self-awareness,E06000023,Undefined,Units,Percentage (%),91.0
+2015/16,Girls,Prime areas of learning,"Personal, Social and Emotional Development",7: Managing feelings and behaviour,E06000023,Undefined,Units,Percentage (%),90.8
+2015/16,Girls,Prime areas of learning,"Personal, Social and Emotional Development",8: Making relationships,E06000023,Undefined,Units,Percentage (%),91.5
+2015/16,Girls,Prime areas of learning,"Personal, Social and Emotional Development",,E06000023,Undefined,Units,Percentage (%),87.2
+2015/16,Girls,Prime areas of learning,Physical Development,4: Moving and Handling,E06000023,Undefined,Units,Percentage (%),93.8
+2015/16,Girls,Prime areas of learning,Physical Development,5: Health and Self-Care,E06000023,Undefined,Units,Percentage (%),94.3
+2015/16,Girls,Prime areas of learning,Physical Development,,E06000023,Undefined,Units,Percentage (%),91.7
+2015/16,Girls,Prime areas of learning,,,E06000023,Undefined,Units,Percentage (%),82.0
+2015/16,Girls,Specific areas of learning,Expressive arts and design,16: Exploring and using media and materials,E06000023,Undefined,Units,Percentage (%),93.7
+2015/16,Girls,Specific areas of learning,Expressive arts and design,17: Being imaginative,E06000023,Undefined,Units,Percentage (%),92.9
+2015/16,Girls,Specific areas of learning,Expressive arts and design,,E06000023,Undefined,Units,Percentage (%),92.0
+2015/16,Girls,Specific areas of learning,Literacy,10: Writing,E06000023,Undefined,Units,Percentage (%),77.9
+2015/16,Girls,Specific areas of learning,Literacy,9: Reading,E06000023,Undefined,Units,Percentage (%),79.7
+2015/16,Girls,Specific areas of learning,Literacy,,E06000023,Undefined,Units,Percentage (%),76.7
+2015/16,Girls,Specific areas of learning,Mathematics,11: Numbers,E06000023,Undefined,Units,Percentage (%),80.0
+2015/16,Girls,Specific areas of learning,Mathematics,"12: Shape, space and measures",E06000023,Undefined,Units,Percentage (%),84.1
+2015/16,Girls,Specific areas of learning,Mathematics,,E06000023,Undefined,Units,Percentage (%),78.9
+2015/16,Girls,Specific areas of learning,Understanding the world,13: People and communities,E06000023,Undefined,Units,Percentage (%),89.7
+2015/16,Girls,Specific areas of learning,Understanding the world,14: The World,E06000023,Undefined,Units,Percentage (%),89.2
+2015/16,Girls,Specific areas of learning,Understanding the world,15: Technology,E06000023,Undefined,Units,Percentage (%),93.7
+2015/16,Girls,Specific areas of learning,Understanding the world,,E06000023,Undefined,Units,Percentage (%),87.0
+2015/16,Girls,Specific areas of learning,,,E06000023,Undefined,Units,Percentage (%),74.0
+2015/16,Girls,,,,E06000023,Undefined,Units,Percentage (%),73.0
+2015/16,Boys,Prime areas of learning,Communication and Language,1: Listening and Attention,E06000023,Undefined,Units,Percentage (%),79.6
+2015/16,Boys,Prime areas of learning,Communication and Language,2: Understanding,E06000023,Undefined,Units,Percentage (%),79.8
+2015/16,Boys,Prime areas of learning,Communication and Language,3: Speaking,E06000023,Undefined,Units,Percentage (%),79.4
+2015/16,Boys,Prime areas of learning,Communication and Language,,E06000023,Undefined,Units,Percentage (%),73.5
+2015/16,Boys,Prime areas of learning,"Personal, Social and Emotional Development",6: Self-confidence and Self-awareness,E06000023,Undefined,Units,Percentage (%),84.0
+2015/16,Boys,Prime areas of learning,"Personal, Social and Emotional Development",7: Managing feelings and behaviour,E06000023,Undefined,Units,Percentage (%),80.9
+2015/16,Boys,Prime areas of learning,"Personal, Social and Emotional Development",8: Making relationships,E06000023,Undefined,Units,Percentage (%),83.5
+2015/16,Boys,Prime areas of learning,"Personal, Social and Emotional Development",,E06000023,Undefined,Units,Percentage (%),76.2
+2015/16,Boys,Prime areas of learning,Physical Development,4: Moving and Handling,E06000023,Undefined,Units,Percentage (%),84.3
+2015/16,Boys,Prime areas of learning,Physical Development,5: Health and Self-Care,E06000023,Undefined,Units,Percentage (%),87.0
+2015/16,Boys,Prime areas of learning,Physical Development,,E06000023,Undefined,Units,Percentage (%),81.0
+2015/16,Boys,Prime areas of learning,,,E06000023,Undefined,Units,Percentage (%),68.0
+2015/16,Boys,Specific areas of learning,Expressive arts and design,16: Exploring and using media and materials,E06000023,Undefined,Units,Percentage (%),82.6
+2015/16,Boys,Specific areas of learning,Expressive arts and design,17: Being imaginative,E06000023,Undefined,Units,Percentage (%),82.7
+2015/16,Boys,Specific areas of learning,Expressive arts and design,,E06000023,Undefined,Units,Percentage (%),79.6
+2015/16,Boys,Specific areas of learning,Literacy,10: Writing,E06000023,Undefined,Units,Percentage (%),63.8
+2015/16,Boys,Specific areas of learning,Literacy,9: Reading,E06000023,Undefined,Units,Percentage (%),68.8
+2015/16,Boys,Specific areas of learning,Literacy,,E06000023,Undefined,Units,Percentage (%),62.8
+2015/16,Boys,Specific areas of learning,Mathematics,11: Numbers,E06000023,Undefined,Units,Percentage (%),71.0
+2015/16,Boys,Specific areas of learning,Mathematics,"12: Shape, space and measures",E06000023,Undefined,Units,Percentage (%),76.3
+2015/16,Boys,Specific areas of learning,Mathematics,,E06000023,Undefined,Units,Percentage (%),69.3
+2015/16,Boys,Specific areas of learning,Understanding the world,13: People and communities,E06000023,Undefined,Units,Percentage (%),81.8
+2015/16,Boys,Specific areas of learning,Understanding the world,14: The World,E06000023,Undefined,Units,Percentage (%),82.7
+2015/16,Boys,Specific areas of learning,Understanding the world,15: Technology,E06000023,Undefined,Units,Percentage (%),91.7
+2015/16,Boys,Specific areas of learning,Understanding the world,,E06000023,Undefined,Units,Percentage (%),79.3
+2015/16,Boys,Specific areas of learning,,,E06000023,Undefined,Units,Percentage (%),58.3
+2015/16,Boys,,,,E06000023,Undefined,Units,Percentage (%),56.6
+2015/16,,Prime areas of learning,Communication and Language,1: Listening and Attention,E06000023,Undefined,Units,Percentage (%),84.6
+2015/16,,Prime areas of learning,Communication and Language,2: Understanding,E06000023,Undefined,Units,Percentage (%),84.1
+2015/16,,Prime areas of learning,Communication and Language,3: Speaking,E06000023,Undefined,Units,Percentage (%),83.6
+2015/16,,Prime areas of learning,Communication and Language,,E06000023,Undefined,Units,Percentage (%),79.0
+2015/16,,Prime areas of learning,"Personal, Social and Emotional Development",6: Self-confidence and Self-awareness,E06000023,Undefined,Units,Percentage (%),87.5
+2015/16,,Prime areas of learning,"Personal, Social and Emotional Development",7: Managing feelings and behaviour,E06000023,Undefined,Units,Percentage (%),85.7
+2015/16,,Prime areas of learning,"Personal, Social and Emotional Development",8: Making relationships,E06000023,Undefined,Units,Percentage (%),87.4
+2015/16,,Prime areas of learning,"Personal, Social and Emotional Development",,E06000023,Undefined,Units,Percentage (%),81.6
+2015/16,,Prime areas of learning,Physical Development,4: Moving and Handling,E06000023,Undefined,Units,Percentage (%),89.0
+2015/16,,Prime areas of learning,Physical Development,5: Health and Self-Care,E06000023,Undefined,Units,Percentage (%),90.6
+2015/16,,Prime areas of learning,Physical Development,,E06000023,Undefined,Units,Percentage (%),86.2
+2015/16,,Prime areas of learning,,,E06000023,Undefined,Units,Percentage (%),74.8
+2015/16,,Specific areas of learning,Expressive arts and design,16: Exploring and using media and materials,E06000023,Undefined,Units,Percentage (%),88.0
+2015/16,,Specific areas of learning,Expressive arts and design,17: Being imaginative,E06000023,Undefined,Units,Percentage (%),87.7
+2015/16,,Specific areas of learning,Expressive arts and design,,E06000023,Undefined,Units,Percentage (%),85.7
+2015/16,,Specific areas of learning,Literacy,10: Writing,E06000023,Undefined,Units,Percentage (%),70.7
+2015/16,,Specific areas of learning,Literacy,9: Reading,E06000023,Undefined,Units,Percentage (%),74.1
+2015/16,,Specific areas of learning,Literacy,,E06000023,Undefined,Units,Percentage (%),69.6
+2015/16,,Specific areas of learning,Mathematics,11: Numbers,E06000023,Undefined,Units,Percentage (%),75.4
+2015/16,,Specific areas of learning,Mathematics,"12: Shape, space and measures",E06000023,Undefined,Units,Percentage (%),80.1
+2015/16,,Specific areas of learning,Mathematics,,E06000023,Undefined,Units,Percentage (%),74.0
+2015/16,,Specific areas of learning,Understanding the world,13: People and communities,E06000023,Undefined,Units,Percentage (%),85.6
+2015/16,,Specific areas of learning,Understanding the world,14: The World,E06000023,Undefined,Units,Percentage (%),85.9
+2015/16,,Specific areas of learning,Understanding the world,15: Technology,E06000023,Undefined,Units,Percentage (%),92.6
+2015/16,,Specific areas of learning,Understanding the world,,E06000023,Undefined,Units,Percentage (%),83.0
+2015/16,,Specific areas of learning,,,E06000023,Undefined,Units,Percentage (%),66.0
+2015/16,,,,,E06000023,Undefined,Units,Percentage (%),64.6
+2016/17,Girls,Prime areas of learning,Communication and Language,1: Listening and Attention,E06000023,Undefined,Units,Percentage (%),87.3
+2016/17,Girls,Prime areas of learning,Communication and Language,2: Understanding,E06000023,Undefined,Units,Percentage (%),86.5
+2016/17,Girls,Prime areas of learning,Communication and Language,3: Speaking,E06000023,Undefined,Units,Percentage (%),86.4
+2016/17,Girls,Prime areas of learning,Communication and Language,,E06000023,Undefined,Units,Percentage (%),83.1
+2016/17,Girls,Prime areas of learning,"Personal, Social and Emotional Development",6: Self-confidence and Self-awareness,E06000023,Undefined,Units,Percentage (%),89.4
+2016/17,Girls,Prime areas of learning,"Personal, Social and Emotional Development",7: Managing feelings and behaviour,E06000023,Undefined,Units,Percentage (%),90.1
+2016/17,Girls,Prime areas of learning,"Personal, Social and Emotional Development",8: Making relationships,E06000023,Undefined,Units,Percentage (%),91.5
+2016/17,Girls,Prime areas of learning,"Personal, Social and Emotional Development",,E06000023,Undefined,Units,Percentage (%),86.6
+2016/17,Girls,Prime areas of learning,Physical Development,4: Moving and Handling,E06000023,Undefined,Units,Percentage (%),91.9
+2016/17,Girls,Prime areas of learning,Physical Development,5: Health and Self-Care,E06000023,Undefined,Units,Percentage (%),92.6
+2016/17,Girls,Prime areas of learning,Physical Development,,E06000023,Undefined,Units,Percentage (%),89.8
+2016/17,Girls,Prime areas of learning,,,E06000023,Undefined,Units,Percentage (%),80.6
+2016/17,Girls,Specific areas of learning,Expressive arts and design,16: Exploring and using media and materials,E06000023,Undefined,Units,Percentage (%),92.1
+2016/17,Girls,Specific areas of learning,Expressive arts and design,17: Being imaginative,E06000023,Undefined,Units,Percentage (%),91.2
+2016/17,Girls,Specific areas of learning,Expressive arts and design,,E06000023,Undefined,Units,Percentage (%),90.0
+2016/17,Girls,Specific areas of learning,Literacy,10: Writing,E06000023,Undefined,Units,Percentage (%),75.9
+2016/17,Girls,Specific areas of learning,Literacy,9: Reading,E06000023,Undefined,Units,Percentage (%),78.2
+2016/17,Girls,Specific areas of learning,Literacy,,E06000023,Undefined,Units,Percentage (%),75.2
+2016/17,Girls,Specific areas of learning,Mathematics,11: Numbers,E06000023,Undefined,Units,Percentage (%),78.6
+2016/17,Girls,Specific areas of learning,Mathematics,"12: Shape, space and measures",E06000023,Undefined,Units,Percentage (%),81.7
+2016/17,Girls,Specific areas of learning,Mathematics,,E06000023,Undefined,Units,Percentage (%),77.5
+2016/17,Girls,Specific areas of learning,Understanding the world,13: People and communities,E06000023,Undefined,Units,Percentage (%),86.8
+2016/17,Girls,Specific areas of learning,Understanding the world,14: The World,E06000023,Undefined,Units,Percentage (%),86.1
+2016/17,Girls,Specific areas of learning,Understanding the world,15: Technology,E06000023,Undefined,Units,Percentage (%),92.6
+2016/17,Girls,Specific areas of learning,Understanding the world,,E06000023,Undefined,Units,Percentage (%),83.9
+2016/17,Girls,Specific areas of learning,,,E06000023,Undefined,Units,Percentage (%),72.4
+2016/17,Girls,,,,E06000023,Undefined,Units,Percentage (%),71.8
+2016/17,Boys,Prime areas of learning,Communication and Language,1: Listening and Attention,E06000023,Undefined,Units,Percentage (%),80.0
+2016/17,Boys,Prime areas of learning,Communication and Language,2: Understanding,E06000023,Undefined,Units,Percentage (%),80.5
+2016/17,Boys,Prime areas of learning,Communication and Language,3: Speaking,E06000023,Undefined,Units,Percentage (%),79.1
+2016/17,Boys,Prime areas of learning,Communication and Language,,E06000023,Undefined,Units,Percentage (%),74.3
+2016/17,Boys,Prime areas of learning,"Personal, Social and Emotional Development",6: Self-confidence and Self-awareness,E06000023,Undefined,Units,Percentage (%),83.7
+2016/17,Boys,Prime areas of learning,"Personal, Social and Emotional Development",7: Managing feelings and behaviour,E06000023,Undefined,Units,Percentage (%),81.3
+2016/17,Boys,Prime areas of learning,"Personal, Social and Emotional Development",8: Making relationships,E06000023,Undefined,Units,Percentage (%),83.8
+2016/17,Boys,Prime areas of learning,"Personal, Social and Emotional Development",,E06000023,Undefined,Units,Percentage (%),78.1
+2016/17,Boys,Prime areas of learning,Physical Development,4: Moving and Handling,E06000023,Undefined,Units,Percentage (%),83.3
+2016/17,Boys,Prime areas of learning,Physical Development,5: Health and Self-Care,E06000023,Undefined,Units,Percentage (%),87.1
+2016/17,Boys,Prime areas of learning,Physical Development,,E06000023,Undefined,Units,Percentage (%),80.9
+2016/17,Boys,Prime areas of learning,,,E06000023,Undefined,Units,Percentage (%),70.0
+2016/17,Boys,Specific areas of learning,Expressive arts and design,16: Exploring and using media and materials,E06000023,Undefined,Units,Percentage (%),81.7
+2016/17,Boys,Specific areas of learning,Expressive arts and design,17: Being imaginative,E06000023,Undefined,Units,Percentage (%),81.6
+2016/17,Boys,Specific areas of learning,Expressive arts and design,,E06000023,Undefined,Units,Percentage (%),78.7
+2016/17,Boys,Specific areas of learning,Literacy,10: Writing,E06000023,Undefined,Units,Percentage (%),65.4
+2016/17,Boys,Specific areas of learning,Literacy,9: Reading,E06000023,Undefined,Units,Percentage (%),69.8
+2016/17,Boys,Specific areas of learning,Literacy,,E06000023,Undefined,Units,Percentage (%),64.7
+2016/17,Boys,Specific areas of learning,Mathematics,11: Numbers,E06000023,Undefined,Units,Percentage (%),73.0
+2016/17,Boys,Specific areas of learning,Mathematics,"12: Shape, space and measures",E06000023,Undefined,Units,Percentage (%),76.3
+2016/17,Boys,Specific areas of learning,Mathematics,,E06000023,Undefined,Units,Percentage (%),71.7
+2016/17,Boys,Specific areas of learning,Understanding the world,13: People and communities,E06000023,Undefined,Units,Percentage (%),80.8
+2016/17,Boys,Specific areas of learning,Understanding the world,14: The World,E06000023,Undefined,Units,Percentage (%),81.0
+2016/17,Boys,Specific areas of learning,Understanding the world,15: Technology,E06000023,Undefined,Units,Percentage (%),90.8
+2016/17,Boys,Specific areas of learning,Understanding the world,,E06000023,Undefined,Units,Percentage (%),78.3
+2016/17,Boys,Specific areas of learning,,,E06000023,Undefined,Units,Percentage (%),60.0
+2016/17,Boys,,,,E06000023,Undefined,Units,Percentage (%),59.1
+2016/17,,Prime areas of learning,Communication and Language,1: Listening and Attention,E06000023,Undefined,Units,Percentage (%),83.6
+2016/17,,Prime areas of learning,Communication and Language,2: Understanding,E06000023,Undefined,Units,Percentage (%),83.5
+2016/17,,Prime areas of learning,Communication and Language,3: Speaking,E06000023,Undefined,Units,Percentage (%),82.7
+2016/17,,Prime areas of learning,Communication and Language,,E06000023,Undefined,Units,Percentage (%),78.7
+2016/17,,Prime areas of learning,"Personal, Social and Emotional Development",6: Self-confidence and Self-awareness,E06000023,Undefined,Units,Percentage (%),86.6
+2016/17,,Prime areas of learning,"Personal, Social and Emotional Development",7: Managing feelings and behaviour,E06000023,Undefined,Units,Percentage (%),85.7
+2016/17,,Prime areas of learning,"Personal, Social and Emotional Development",8: Making relationships,E06000023,Undefined,Units,Percentage (%),87.6
+2016/17,,Prime areas of learning,"Personal, Social and Emotional Development",,E06000023,Undefined,Units,Percentage (%),82.3
+2016/17,,Prime areas of learning,Physical Development,4: Moving and Handling,E06000023,Undefined,Units,Percentage (%),87.6
+2016/17,,Prime areas of learning,Physical Development,5: Health and Self-Care,E06000023,Undefined,Units,Percentage (%),89.8
+2016/17,,Prime areas of learning,Physical Development,,E06000023,Undefined,Units,Percentage (%),85.3
+2016/17,,Prime areas of learning,,,E06000023,Undefined,Units,Percentage (%),75.3
+2016/17,,Specific areas of learning,Expressive arts and design,16: Exploring and using media and materials,E06000023,Undefined,Units,Percentage (%),86.9
+2016/17,,Specific areas of learning,Expressive arts and design,17: Being imaginative,E06000023,Undefined,Units,Percentage (%),86.3
+2016/17,,Specific areas of learning,Expressive arts and design,,E06000023,Undefined,Units,Percentage (%),84.3
+2016/17,,Specific areas of learning,Literacy,10: Writing,E06000023,Undefined,Units,Percentage (%),70.6
+2016/17,,Specific areas of learning,Literacy,9: Reading,E06000023,Undefined,Units,Percentage (%),74.0
+2016/17,,Specific areas of learning,Literacy,,E06000023,Undefined,Units,Percentage (%),69.9
+2016/17,,Specific areas of learning,Mathematics,11: Numbers,E06000023,Undefined,Units,Percentage (%),75.8
+2016/17,,Specific areas of learning,Mathematics,"12: Shape, space and measures",E06000023,Undefined,Units,Percentage (%),79.0
+2016/17,,Specific areas of learning,Mathematics,,E06000023,Undefined,Units,Percentage (%),74.6
+2016/17,,Specific areas of learning,Understanding the world,13: People and communities,E06000023,Undefined,Units,Percentage (%),83.8
+2016/17,,Specific areas of learning,Understanding the world,14: The World,E06000023,Undefined,Units,Percentage (%),83.5
+2016/17,,Specific areas of learning,Understanding the world,15: Technology,E06000023,Undefined,Units,Percentage (%),91.7
+2016/17,,Specific areas of learning,Understanding the world,,E06000023,Undefined,Units,Percentage (%),81.1
+2016/17,,Specific areas of learning,,,E06000023,Undefined,Units,Percentage (%),66.2
+2016/17,,,,,E06000023,Undefined,Units,Percentage (%),65.4
+2017/18,Girls,Prime areas of learning,Communication and Language,1: Listening and Attention,E06000023,Undefined,Units,Percentage (%),88.4
+2017/18,Girls,Prime areas of learning,Communication and Language,2: Understanding,E06000023,Undefined,Units,Percentage (%),87.2
+2017/18,Girls,Prime areas of learning,Communication and Language,3: Speaking,E06000023,Undefined,Units,Percentage (%),86.6
+2017/18,Girls,Prime areas of learning,Communication and Language,,E06000023,Undefined,Units,Percentage (%),84.2
+2017/18,Girls,Prime areas of learning,"Personal, Social and Emotional Development",6: Self-confidence and Self-awareness,E06000023,Undefined,Units,Percentage (%),91.0
+2017/18,Girls,Prime areas of learning,"Personal, Social and Emotional Development",7: Managing feelings and behaviour,E06000023,Undefined,Units,Percentage (%),91.6
+2017/18,Girls,Prime areas of learning,"Personal, Social and Emotional Development",8: Making relationships,E06000023,Undefined,Units,Percentage (%),92.6
+2017/18,Girls,Prime areas of learning,"Personal, Social and Emotional Development",,E06000023,Undefined,Units,Percentage (%),88.5
+2017/18,Girls,Prime areas of learning,Physical Development,4: Moving and Handling,E06000023,Undefined,Units,Percentage (%),91.7
+2017/18,Girls,Prime areas of learning,Physical Development,5: Health and Self-Care,E06000023,Undefined,Units,Percentage (%),92.2
+2017/18,Girls,Prime areas of learning,Physical Development,,E06000023,Undefined,Units,Percentage (%),89.2
+2017/18,Girls,Prime areas of learning,,,E06000023,Undefined,Units,Percentage (%),82.3
+2017/18,Girls,Specific areas of learning,Expressive arts and design,16: Exploring and using media and materials,E06000023,Undefined,Units,Percentage (%),93.1
+2017/18,Girls,Specific areas of learning,Expressive arts and design,17: Being imaginative,E06000023,Undefined,Units,Percentage (%),91.4
+2017/18,Girls,Specific areas of learning,Expressive arts and design,,E06000023,Undefined,Units,Percentage (%),90.7
+2017/18,Girls,Specific areas of learning,Literacy,10: Writing,E06000023,Undefined,Units,Percentage (%),77.1
+2017/18,Girls,Specific areas of learning,Literacy,9: Reading,E06000023,Undefined,Units,Percentage (%),78.4
+2017/18,Girls,Specific areas of learning,Literacy,,E06000023,Undefined,Units,Percentage (%),76.1
+2017/18,Girls,Specific areas of learning,Mathematics,11: Numbers,E06000023,Undefined,Units,Percentage (%),80.6
+2017/18,Girls,Specific areas of learning,Mathematics,"12: Shape, space and measures",E06000023,Undefined,Units,Percentage (%),82.3
+2017/18,Girls,Specific areas of learning,Mathematics,,E06000023,Undefined,Units,Percentage (%),79.3
+2017/18,Girls,Specific areas of learning,Understanding the world,13: People and communities,E06000023,Undefined,Units,Percentage (%),88.1
+2017/18,Girls,Specific areas of learning,Understanding the world,14: The World,E06000023,Undefined,Units,Percentage (%),86.8
+2017/18,Girls,Specific areas of learning,Understanding the world,15: Technology,E06000023,Undefined,Units,Percentage (%),94.0
+2017/18,Girls,Specific areas of learning,Understanding the world,,E06000023,Undefined,Units,Percentage (%),85.3
+2017/18,Girls,Specific areas of learning,,,E06000023,Undefined,Units,Percentage (%),74.1
+2017/18,Girls,,,,E06000023,Undefined,Units,Percentage (%),73.9
+2017/18,Boys,Prime areas of learning,Communication and Language,1: Listening and Attention,E06000023,Undefined,Units,Percentage (%),79.5
+2017/18,Boys,Prime areas of learning,Communication and Language,2: Understanding,E06000023,Undefined,Units,Percentage (%),80.8
+2017/18,Boys,Prime areas of learning,Communication and Language,3: Speaking,E06000023,Undefined,Units,Percentage (%),79.4
+2017/18,Boys,Prime areas of learning,Communication and Language,,E06000023,Undefined,Units,Percentage (%),74.2
+2017/18,Boys,Prime areas of learning,"Personal, Social and Emotional Development",6: Self-confidence and Self-awareness,E06000023,Undefined,Units,Percentage (%),83.4
+2017/18,Boys,Prime areas of learning,"Personal, Social and Emotional Development",7: Managing feelings and behaviour,E06000023,Undefined,Units,Percentage (%),82.0
+2017/18,Boys,Prime areas of learning,"Personal, Social and Emotional Development",8: Making relationships,E06000023,Undefined,Units,Percentage (%),84.7
+2017/18,Boys,Prime areas of learning,"Personal, Social and Emotional Development",,E06000023,Undefined,Units,Percentage (%),77.4
+2017/18,Boys,Prime areas of learning,Physical Development,4: Moving and Handling,E06000023,Undefined,Units,Percentage (%),83.4
+2017/18,Boys,Prime areas of learning,Physical Development,5: Health and Self-Care,E06000023,Undefined,Units,Percentage (%),86.5
+2017/18,Boys,Prime areas of learning,Physical Development,,E06000023,Undefined,Units,Percentage (%),80.4
+2017/18,Boys,Prime areas of learning,,,E06000023,Undefined,Units,Percentage (%),69.4
+2017/18,Boys,Specific areas of learning,Expressive arts and design,16: Exploring and using media and materials,E06000023,Undefined,Units,Percentage (%),83.5
+2017/18,Boys,Specific areas of learning,Expressive arts and design,17: Being imaginative,E06000023,Undefined,Units,Percentage (%),82.9
+2017/18,Boys,Specific areas of learning,Expressive arts and design,,E06000023,Undefined,Units,Percentage (%),80.4
+2017/18,Boys,Specific areas of learning,Literacy,10: Writing,E06000023,Undefined,Units,Percentage (%),66.2
+2017/18,Boys,Specific areas of learning,Literacy,9: Reading,E06000023,Undefined,Units,Percentage (%),69.6
+2017/18,Boys,Specific areas of learning,Literacy,,E06000023,Undefined,Units,Percentage (%),65.4
+2017/18,Boys,Specific areas of learning,Mathematics,11: Numbers,E06000023,Undefined,Units,Percentage (%),73.6
+2017/18,Boys,Specific areas of learning,Mathematics,"12: Shape, space and measures",E06000023,Undefined,Units,Percentage (%),76.1
+2017/18,Boys,Specific areas of learning,Mathematics,,E06000023,Undefined,Units,Percentage (%),71.5
+2017/18,Boys,Specific areas of learning,Understanding the world,13: People and communities,E06000023,Undefined,Units,Percentage (%),80.6
+2017/18,Boys,Specific areas of learning,Understanding the world,14: The World,E06000023,Undefined,Units,Percentage (%),80.6
+2017/18,Boys,Specific areas of learning,Understanding the world,15: Technology,E06000023,Undefined,Units,Percentage (%),91.6
+2017/18,Boys,Specific areas of learning,Understanding the world,,E06000023,Undefined,Units,Percentage (%),77.8
+2017/18,Boys,Specific areas of learning,,,E06000023,Undefined,Units,Percentage (%),62.7
+2017/18,Boys,,,,E06000023,Undefined,Units,Percentage (%),61.9
+2017/18,,Prime areas of learning,Communication and Language,1: Listening and Attention,E06000023,Undefined,Units,Percentage (%),83.9
+2017/18,,Prime areas of learning,Communication and Language,2: Understanding,E06000023,Undefined,Units,Percentage (%),83.9
+2017/18,,Prime areas of learning,Communication and Language,3: Speaking,E06000023,Undefined,Units,Percentage (%),82.9
+2017/18,,Prime areas of learning,Communication and Language,,E06000023,Undefined,Units,Percentage (%),79.1
+2017/18,,Prime areas of learning,"Personal, Social and Emotional Development",6: Self-confidence and Self-awareness,E06000023,Undefined,Units,Percentage (%),87.1
+2017/18,,Prime areas of learning,"Personal, Social and Emotional Development",7: Managing feelings and behaviour,E06000023,Undefined,Units,Percentage (%),86.6
+2017/18,,Prime areas of learning,"Personal, Social and Emotional Development",8: Making relationships,E06000023,Undefined,Units,Percentage (%),88.5
+2017/18,,Prime areas of learning,"Personal, Social and Emotional Development",,E06000023,Undefined,Units,Percentage (%),82.8
+2017/18,,Prime areas of learning,Physical Development,4: Moving and Handling,E06000023,Undefined,Units,Percentage (%),87.4
+2017/18,,Prime areas of learning,Physical Development,5: Health and Self-Care,E06000023,Undefined,Units,Percentage (%),89.3
+2017/18,,Prime areas of learning,Physical Development,,E06000023,Undefined,Units,Percentage (%),84.7
+2017/18,,Prime areas of learning,,,E06000023,Undefined,Units,Percentage (%),75.7
+2017/18,,Specific areas of learning,Expressive arts and design,16: Exploring and using media and materials,E06000023,Undefined,Units,Percentage (%),88.1
+2017/18,,Specific areas of learning,Expressive arts and design,17: Being imaginative,E06000023,Undefined,Units,Percentage (%),87.1
+2017/18,,Specific areas of learning,Expressive arts and design,,E06000023,Undefined,Units,Percentage (%),85.4
+2017/18,,Specific areas of learning,Literacy,10: Writing,E06000023,Undefined,Units,Percentage (%),71.5
+2017/18,,Specific areas of learning,Literacy,9: Reading,E06000023,Undefined,Units,Percentage (%),73.9
+2017/18,,Specific areas of learning,Literacy,,E06000023,Undefined,Units,Percentage (%),70.6
+2017/18,,Specific areas of learning,Mathematics,11: Numbers,E06000023,Undefined,Units,Percentage (%),77.0
+2017/18,,Specific areas of learning,Mathematics,"12: Shape, space and measures",E06000023,Undefined,Units,Percentage (%),79.1
+2017/18,,Specific areas of learning,Mathematics,,E06000023,Undefined,Units,Percentage (%),75.3
+2017/18,,Specific areas of learning,Understanding the world,13: People and communities,E06000023,Undefined,Units,Percentage (%),84.3
+2017/18,,Specific areas of learning,Understanding the world,14: The World,E06000023,Undefined,Units,Percentage (%),83.6
+2017/18,,Specific areas of learning,Understanding the world,15: Technology,E06000023,Undefined,Units,Percentage (%),92.8
+2017/18,,Specific areas of learning,Understanding the world,,E06000023,Undefined,Units,Percentage (%),81.5
+2017/18,,Specific areas of learning,,,E06000023,Undefined,Units,Percentage (%),68.2
+2017/18,,,,,E06000023,Undefined,Units,Percentage (%),67.7
+2018/19,,,,,E06000023,Undefined,Units,Percentage (%),69.6
+2018/19,Girls,,,,E06000023,Undefined,Units,Percentage (%),76.4
+2018/19,Boys,,,,E06000023,Undefined,Units,Percentage (%),63.1
+2018/19,,Prime areas of learning,,,E06000023,Undefined,Units,Percentage (%),77.8
+2018/19,,Prime areas of learning,Communication and Language,,E06000023,Undefined,Units,Percentage (%),81.2
+2018/19,,Prime areas of learning,Communication and Language,1: Listening and Attention,E06000023,Undefined,Units,Percentage (%),85.2
+2018/19,,Prime areas of learning,Communication and Language,2: Understanding,E06000023,Undefined,Units,Percentage (%),85.3
+2018/19,,Prime areas of learning,Communication and Language,3: Speaking,E06000023,Undefined,Units,Percentage (%),85.0
+2018/19,,Prime areas of learning,Physical Development,,E06000023,Undefined,Units,Percentage (%),86.1
+2018/19,,Prime areas of learning,Physical Development,4: Moving and Handling,E06000023,Undefined,Units,Percentage (%),88.3
+2018/19,,Prime areas of learning,Physical Development,5: Health and Self-Care,E06000023,Undefined,Units,Percentage (%),91.0
+2018/19,,Prime areas of learning,"Personal, Social and Emotional Development",,E06000023,Undefined,Units,Percentage (%),83.9
+2018/19,,Prime areas of learning,"Personal, Social and Emotional Development",6: Self-confidence and Self-awareness,E06000023,Undefined,Units,Percentage (%),88.1
+2018/19,,Prime areas of learning,"Personal, Social and Emotional Development",7: Managing feelings and behaviour,E06000023,Undefined,Units,Percentage (%),87.0
+2018/19,,Prime areas of learning,"Personal, Social and Emotional Development",8: Making relationships,E06000023,Undefined,Units,Percentage (%),89.0
+2018/19,,Specific areas of learning,,,E06000023,Undefined,Units,Percentage (%),70.2
+2018/19,,Specific areas of learning,Literacy,,E06000023,Undefined,Units,Percentage (%),72.2
+2018/19,,Specific areas of learning,Literacy,9: Reading,E06000023,Undefined,Units,Percentage (%),75.7
+2018/19,,Specific areas of learning,Literacy,10: Writing,E06000023,Undefined,Units,Percentage (%),72.8
+2018/19,,Specific areas of learning,Mathematics,,E06000023,Undefined,Units,Percentage (%),78.0
+2018/19,,Specific areas of learning,Mathematics,11: Numbers,E06000023,Undefined,Units,Percentage (%),79.4
+2018/19,,Specific areas of learning,Mathematics,"12: Shape, space and measures",E06000023,Undefined,Units,Percentage (%),81.5
+2018/19,,Specific areas of learning,Understanding the world,,E06000023,Undefined,Units,Percentage (%),84.1
+2018/19,,Specific areas of learning,Understanding the world,13: People and communities,E06000023,Undefined,Units,Percentage (%),86.0
+2018/19,,Specific areas of learning,Understanding the world,14: The World,E06000023,Undefined,Units,Percentage (%),86.0
+2018/19,,Specific areas of learning,Understanding the world,15: Technology,E06000023,Undefined,Units,Percentage (%),93.8
+2018/19,,Specific areas of learning,Expressive arts and design,,E06000023,Undefined,Units,Percentage (%),87.2
+2018/19,,Specific areas of learning,Expressive arts and design,16: Exploring and using media and materials,E06000023,Undefined,Units,Percentage (%),89.2
+2018/19,,Specific areas of learning,Expressive arts and design,17: Being imaginative,E06000023,Undefined,Units,Percentage (%),88.9
+2018/19,Girls,Prime areas of learning,,,E06000023,Undefined,Units,Percentage (%),84.1
+2018/19,Girls,Prime areas of learning,Communication and Language,,E06000023,Undefined,Units,Percentage (%),86.7
+2018/19,Girls,Prime areas of learning,Communication and Language,1: Listening and Attention,E06000023,Undefined,Units,Percentage (%),90.0
+2018/19,Girls,Prime areas of learning,Communication and Language,2: Understanding,E06000023,Undefined,Units,Percentage (%),89.4
+2018/19,Girls,Prime areas of learning,Communication and Language,3: Speaking,E06000023,Undefined,Units,Percentage (%),89.2
+2018/19,Girls,Prime areas of learning,Physical Development,,E06000023,Undefined,Units,Percentage (%),90.9
+2018/19,Girls,Prime areas of learning,Physical Development,4: Moving and Handling,E06000023,Undefined,Units,Percentage (%),92.9
+2018/19,Girls,Prime areas of learning,Physical Development,5: Health and Self-Care,E06000023,Undefined,Units,Percentage (%),94.0
+2018/19,Girls,Prime areas of learning,"Personal, Social and Emotional Development",,E06000023,Undefined,Units,Percentage (%),89.1
+2018/19,Girls,Prime areas of learning,"Personal, Social and Emotional Development",6: Self-confidence and Self-awareness,E06000023,Undefined,Units,Percentage (%),91.7
+2018/19,Girls,Prime areas of learning,"Personal, Social and Emotional Development",7: Managing feelings and behaviour,E06000023,Undefined,Units,Percentage (%),91.6
+2018/19,Girls,Prime areas of learning,"Personal, Social and Emotional Development",8: Making relationships,E06000023,Undefined,Units,Percentage (%),92.5
+2018/19,Girls,Specific areas of learning,,,E06000023,Undefined,Units,Percentage (%),76.8
+2018/19,Girls,Specific areas of learning,Literacy,,E06000023,Undefined,Units,Percentage (%),78.2
+2018/19,Girls,Specific areas of learning,Literacy,9: Reading,E06000023,Undefined,Units,Percentage (%),80.2
+2018/19,Girls,Specific areas of learning,Literacy,10: Writing,E06000023,Undefined,Units,Percentage (%),78.7
+2018/19,Girls,Specific areas of learning,Mathematics,,E06000023,Undefined,Units,Percentage (%),81.2
+2018/19,Girls,Specific areas of learning,Mathematics,11: Numbers,E06000023,Undefined,Units,Percentage (%),82.2
+2018/19,Girls,Specific areas of learning,Mathematics,"12: Shape, space and measures",E06000023,Undefined,Units,Percentage (%),84.6
+2018/19,Girls,Specific areas of learning,Understanding the world,,E06000023,Undefined,Units,Percentage (%),88.0
+2018/19,Girls,Specific areas of learning,Understanding the world,13: People and communities,E06000023,Undefined,Units,Percentage (%),89.4
+2018/19,Girls,Specific areas of learning,Understanding the world,14: The World,E06000023,Undefined,Units,Percentage (%),89.3
+2018/19,Girls,Specific areas of learning,Understanding the world,15: Technology,E06000023,Undefined,Units,Percentage (%),94.5
+2018/19,Girls,Specific areas of learning,Expressive arts and design,,E06000023,Undefined,Units,Percentage (%),92.5
+2018/19,Girls,Specific areas of learning,Expressive arts and design,16: Exploring and using media and materials,E06000023,Undefined,Units,Percentage (%),93.9
+2018/19,Girls,Specific areas of learning,Expressive arts and design,17: Being imaginative,E06000023,Undefined,Units,Percentage (%),93.2
+2018/19,Boys,Prime areas of learning,,,E06000023,Undefined,Units,Percentage (%),71.7
+2018/19,Boys,Prime areas of learning,Communication and Language,,E06000023,Undefined,Units,Percentage (%),76.0
+2018/19,Boys,Prime areas of learning,Communication and Language,1: Listening and Attention,E06000023,Undefined,Units,Percentage (%),80.6
+2018/19,Boys,Prime areas of learning,Communication and Language,2: Understanding,E06000023,Undefined,Units,Percentage (%),81.5
+2018/19,Boys,Prime areas of learning,Communication and Language,3: Speaking,E06000023,Undefined,Units,Percentage (%),81.0
+2018/19,Boys,Prime areas of learning,Physical Development,,E06000023,Undefined,Units,Percentage (%),81.6
+2018/19,Boys,Prime areas of learning,Physical Development,4: Moving and Handling,E06000023,Undefined,Units,Percentage (%),83.9
+2018/19,Boys,Prime areas of learning,Physical Development,5: Health and Self-Care,E06000023,Undefined,Units,Percentage (%),88.2
+2018/19,Boys,Prime areas of learning,"Personal, Social and Emotional Development",,E06000023,Undefined,Units,Percentage (%),79.0
+2018/19,Boys,Prime areas of learning,"Personal, Social and Emotional Development",6: Self-confidence and Self-awareness,E06000023,Undefined,Units,Percentage (%),84.7
+2018/19,Boys,Prime areas of learning,"Personal, Social and Emotional Development",7: Managing feelings and behaviour,E06000023,Undefined,Units,Percentage (%),82.5
+2018/19,Boys,Prime areas of learning,"Personal, Social and Emotional Development",8: Making relationships,E06000023,Undefined,Units,Percentage (%),85.6
+2018/19,Boys,Specific areas of learning,,,E06000023,Undefined,Units,Percentage (%),63.9
+2018/19,Boys,Specific areas of learning,Literacy,,E06000023,Undefined,Units,Percentage (%),66.5
+2018/19,Boys,Specific areas of learning,Literacy,9: Reading,E06000023,Undefined,Units,Percentage (%),71.3
+2018/19,Boys,Specific areas of learning,Literacy,10: Writing,E06000023,Undefined,Units,Percentage (%),67.2
+2018/19,Boys,Specific areas of learning,Mathematics,,E06000023,Undefined,Units,Percentage (%),74.9
+2018/19,Boys,Specific areas of learning,Mathematics,11: Numbers,E06000023,Undefined,Units,Percentage (%),76.7
+2018/19,Boys,Specific areas of learning,Mathematics,"12: Shape, space and measures",E06000023,Undefined,Units,Percentage (%),78.5
+2018/19,Boys,Specific areas of learning,Understanding the world,,E06000023,Undefined,Units,Percentage (%),80.4
+2018/19,Boys,Specific areas of learning,Understanding the world,13: People and communities,E06000023,Undefined,Units,Percentage (%),82.8
+2018/19,Boys,Specific areas of learning,Understanding the world,14: The World,E06000023,Undefined,Units,Percentage (%),82.8
+2018/19,Boys,Specific areas of learning,Understanding the world,15: Technology,E06000023,Undefined,Units,Percentage (%),93.1
+2018/19,Boys,Specific areas of learning,Expressive arts and design,,E06000023,Undefined,Units,Percentage (%),82.1
+2018/19,Boys,Specific areas of learning,Expressive arts and design,16: Exploring and using media and materials,E06000023,Undefined,Units,Percentage (%),84.7
+2018/19,Boys,Specific areas of learning,Expressive arts and design,17: Being imaginative,E06000023,Undefined,Units,Percentage (%),84.7
