@@ -4,11 +4,15 @@ BMI,1,2
 Cause,1,2
 Gender,1,2
 Group,2,2
+Industry Sector,1,17
+Industry Sub Category,1,29
 Learning category,1,2
 Learning sub-category (higher),1,7
 Learning sub-category (lower),1,17
+Production/Services,1,2
 Renewable energy source,1,5
 Sex,3,7
 sex,1,2
+Unit of measurement,1,1
 units,1,2
 Vaccine,1,10
