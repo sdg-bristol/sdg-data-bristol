@@ -1,7 +1,100 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Sex,Units,Value
+2008,Male,Alcohol-related mortality,85.51510844
+2008,Female,Alcohol-related mortality,29.80448395
+2008,,Alcohol-related mortality,54.79726806
+2009,Male,Alcohol-related mortality,78.56807881
+2009,Female,Alcohol-related mortality,34.20068992
+2009,,Alcohol-related mortality,53.92887046
+2010,Male,Alcohol-related mortality,81.36794965
+2010,Female,Alcohol-related mortality,28.53918067
+2010,,Alcohol-related mortality,52.92821441
+2011,Male,Alcohol-related mortality,80.5154111
+2011,Female,Alcohol-related mortality,29.72817215
+2011,,Alcohol-related mortality,52.50952533
+2012,Male,Alcohol-related mortality,80.70097787
+2012,Female,Alcohol-related mortality,28.10081676
+2012,,Alcohol-related mortality,52.45795872
+2013,Male,Alcohol-related mortality,84.49294558
+2013,Female,Alcohol-related mortality,31.04948434
+2013,,Alcohol-related mortality,55.89702053
+2014,Male,Alcohol-related mortality,76.08540271
+2014,Female,Alcohol-related mortality,31.68720881
+2014,,Alcohol-related mortality,53.17134535
+2015,Male,Alcohol-related mortality,81.99129816
+2015,Female,Alcohol-related mortality,26.637061
+2015,,Alcohol-related mortality,52.6811263
+2016,Male,Alcohol-related mortality,72.58411423
+2016,Female,Alcohol-related mortality,31.31824285
+2016,,Alcohol-related mortality,50.6430646
+2017,Male,Alcohol-related mortality,82.14916208
+2017,Female,Alcohol-related mortality,29.67409107
+2017,,Alcohol-related mortality,54.83040684
+2018,Male,Alcohol-related mortality,82.60923991
+2018,Female,Alcohol-related mortality,34.33168317
+2018,,Alcohol-related mortality,56.76029457
+2008/09,Male,Admission episodes for alcohol-related conditions (Narrow),1004.051294
+2008/09,Female,Admission episodes for alcohol-related conditions (Narrow),571.7843786
+2008/09,,Admission episodes for alcohol-related conditions (Narrow),777.8865327
+2009/10,Male,Admission episodes for alcohol-related conditions (Narrow),978.0158876
+2009/10,Female,Admission episodes for alcohol-related conditions (Narrow),646.4751465
+2009/10,,Admission episodes for alcohol-related conditions (Narrow),802.4314199
+2010/11,Male,Admission episodes for alcohol-related conditions (Narrow),1008.399613
+2010/11,Female,Admission episodes for alcohol-related conditions (Narrow),617.3109348
+2010/11,,Admission episodes for alcohol-related conditions (Narrow),803.1154091
+2011/12,Male,Admission episodes for alcohol-related conditions (Narrow),940.2589838
+2011/12,Female,Admission episodes for alcohol-related conditions (Narrow),589.3975026
+2011/12,,Admission episodes for alcohol-related conditions (Narrow),755.1156185
+2012/13,Male,Admission episodes for alcohol-related conditions (Narrow),975.5018868
+2012/13,Female,Admission episodes for alcohol-related conditions (Narrow),482.3810441
+2012/13,,Admission episodes for alcohol-related conditions (Narrow),720.7895275
+2013/14,Male,Admission episodes for alcohol-related conditions (Narrow),1034.675531
+2013/14,Female,Admission episodes for alcohol-related conditions (Narrow),529.5759489
+2013/14,,Admission episodes for alcohol-related conditions (Narrow),773.407551
+2014/15,Male,Admission episodes for alcohol-related conditions (Narrow),987.8160906
+2014/15,Female,Admission episodes for alcohol-related conditions (Narrow),574.4324292
+2014/15,,Admission episodes for alcohol-related conditions (Narrow),774.2687981
+2015/16,Male,Admission episodes for alcohol-related conditions (Narrow),972.9457433
+2015/16,Female,Admission episodes for alcohol-related conditions (Narrow),643.9467135
+2015/16,,Admission episodes for alcohol-related conditions (Narrow),800.0375075
+2016/17,Male,Admission episodes for alcohol-related conditions (Narrow),967.8740827
+2016/17,Female,Admission episodes for alcohol-related conditions (Narrow),597.563419
+2016/17,,Admission episodes for alcohol-related conditions (Narrow),774.2614598
+2017/18,Male,Admission episodes for alcohol-related conditions (Narrow),1006.044246
+2017/18,Female,Admission episodes for alcohol-related conditions (Narrow),632.650512
+2017/18,,Admission episodes for alcohol-related conditions (Narrow),810.4377116
+2018/19,Male,Admission episodes for alcohol-related conditions (Narrow),1022.2
+2018/19,Female,Admission episodes for alcohol-related conditions (Narrow),706.69
+2018/19,,Admission episodes for alcohol-related conditions (Narrow),855.88
+2008/09,Male,Admission episodes for alcohol-specific conditions,1246.170756
+2008/09,Female,Admission episodes for alcohol-specific conditions,390.23517
+2008/09,,Admission episodes for alcohol-specific conditions,812.4499376
+2009/10,Male,Admission episodes for alcohol-specific conditions,1226.787923
+2009/10,Female,Admission episodes for alcohol-specific conditions,468.4369463
+2009/10,,Admission episodes for alcohol-specific conditions,843.3189168
+2010/11,Male,Admission episodes for alcohol-specific conditions,1286.827161
+2010/11,Female,Admission episodes for alcohol-specific conditions,459.0417563
+2010/11,,Admission episodes for alcohol-specific conditions,867.2423725
+2011/12,Male,Admission episodes for alcohol-specific conditions,1314.594667
+2011/12,Female,Admission episodes for alcohol-specific conditions,442.614738
+2011/12,,Admission episodes for alcohol-specific conditions,874.6977139
+2012/13,Male,Admission episodes for alcohol-specific conditions,1207.813463
+2012/13,Female,Admission episodes for alcohol-specific conditions,475.7223484
+2012/13,,Admission episodes for alcohol-specific conditions,840.5787946
+2013/14,Male,Admission episodes for alcohol-specific conditions,1228.756453
+2013/14,Female,Admission episodes for alcohol-specific conditions,444.1528222
+2013/14,,Admission episodes for alcohol-specific conditions,832.6499575
+2014/15,Male,Admission episodes for alcohol-specific conditions,1319.989342
+2014/15,Female,Admission episodes for alcohol-specific conditions,550.2951757
+2014/15,,Admission episodes for alcohol-specific conditions,928.056553
+2015/16,Male,Admission episodes for alcohol-specific conditions,1257.338586
+2015/16,Female,Admission episodes for alcohol-specific conditions,571.5003488
+2015/16,,Admission episodes for alcohol-specific conditions,907.228771
+2016/17,Male,Admission episodes for alcohol-specific conditions,1265.648873
+2016/17,Female,Admission episodes for alcohol-specific conditions,609.6751781
+2016/17,,Admission episodes for alcohol-specific conditions,928.9483056
+2017/18,Male,Admission episodes for alcohol-specific conditions,1275.272953
+2017/18,Female,Admission episodes for alcohol-specific conditions,617.6508978
+2017/18,,Admission episodes for alcohol-specific conditions,939.232439
+2018/19,Male,Admission episodes for alcohol-specific conditions,1399.32
+2018/19,Female,Admission episodes for alcohol-specific conditions,709.51
+2018/19,,Admission episodes for alcohol-specific conditions,1045.04
