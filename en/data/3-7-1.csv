@@ -1,7 +1,56 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Contraceptive method,Types of contraception,Unit of measurement,Value
+2014/15,Long acting reversible contraceptives,,Percentage,39.0
+2014/15,Long acting reversible contraceptives,IU device,Percentage,8.0
+2014/15,Long acting reversible contraceptives,IU system,Percentage,8.0
+2014/15,Long acting reversible contraceptives,Implant,Percentage,14.0
+2014/15,Long acting reversible contraceptives,Injectable,Percentage,9.0
+2014/15,User dependent,,Percentage,61.0
+2014/15,User dependent,Oral (pill),Percentage,49.0
+2014/15,User dependent,Male condom,Percentage,11.0
+2014/15,User dependent,Female condom,Percentage,
+2014/15,User dependent,Patch,Percentage,
+2014/15,User dependent,Other,Percentage,1.0
+2015/16,Long acting reversible contraceptives,,Percentage,40.0
+2015/16,Long acting reversible contraceptives,IU device,Percentage,9.0
+2015/16,Long acting reversible contraceptives,IU system,Percentage,8.0
+2015/16,Long acting reversible contraceptives,Implant,Percentage,14.0
+2015/16,Long acting reversible contraceptives,Injectable,Percentage,9.0
+2015/16,User dependent,,Percentage,60.0
+2015/16,User dependent,Oral (pill),Percentage,47.0
+2015/16,User dependent,Male condom,Percentage,12.0
+2015/16,User dependent,Female condom,Percentage,
+2015/16,User dependent,Patch,Percentage,
+2015/16,User dependent,Other,Percentage,1.0
+2016/17,Long acting reversible contraceptives,,Percentage,40.0
+2016/17,Long acting reversible contraceptives,IU device,Percentage,10.0
+2016/17,Long acting reversible contraceptives,IU system,Percentage,8.0
+2016/17,Long acting reversible contraceptives,Implant,Percentage,13.0
+2016/17,Long acting reversible contraceptives,Injectable,Percentage,9.0
+2016/17,User dependent,,Percentage,60.0
+2016/17,User dependent,Oral (pill),Percentage,46.0
+2016/17,User dependent,Male condom,Percentage,12.0
+2016/17,User dependent,Female condom,Percentage,
+2016/17,User dependent,Patch,Percentage,
+2016/17,User dependent,Other,Percentage,1.0
+2017/18,Long acting reversible contraceptives,,Percentage,40.0
+2017/18,Long acting reversible contraceptives,IU device,Percentage,11.0
+2017/18,Long acting reversible contraceptives,IU system,Percentage,9.0
+2017/18,Long acting reversible contraceptives,Implant,Percentage,12.0
+2017/18,Long acting reversible contraceptives,Injectable,Percentage,8.0
+2017/18,User dependent,,Percentage,60.0
+2017/18,User dependent,Oral (pill),Percentage,45.0
+2017/18,User dependent,Male condom,Percentage,14.0
+2017/18,User dependent,Female condom,Percentage,
+2017/18,User dependent,Patch,Percentage,
+2017/18,User dependent,Other,Percentage,1.0
+2018/19,Long acting reversible contraceptives,,Percentage,42.0
+2018/19,Long acting reversible contraceptives,IU device,Percentage,11.0
+2018/19,Long acting reversible contraceptives,IU system,Percentage,10.0
+2018/19,Long acting reversible contraceptives,Implant,Percentage,13.0
+2018/19,Long acting reversible contraceptives,Injectable,Percentage,7.0
+2018/19,User dependent,,Percentage,58.0
+2018/19,User dependent,Oral (pill),Percentage,42.0
+2018/19,User dependent,Male condom,Percentage,15.0
+2018/19,User dependent,Female condom,Percentage,
+2018/19,User dependent,Patch,Percentage,
+2018/19,User dependent,Other,Percentage,
