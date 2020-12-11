@@ -1,7 +1,73 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Type of Crime,Value
+31 December 2007,,9570
+31 December 2007,Homicide,6
+31 December 2007,Sexual offences,535
+31 December 2007,Stalking and harassment,385
+31 December 2007,Violence with injury,5631
+31 December 2007,Violence without injury,3013
+31 December 2008,,8950
+31 December 2008,Homicide,12
+31 December 2008,Sexual offences,622
+31 December 2008,Stalking and harassment,483
+31 December 2008,Violence with injury,4847
+31 December 2008,Violence without injury,2986
+31 December 2009,,9201
+31 December 2009,Homicide,3
+31 December 2009,Sexual offences,659
+31 December 2009,Stalking and harassment,465
+31 December 2009,Violence with injury,4618
+31 December 2009,Violence without injury,3456
+31 December 2010,,8775
+31 December 2010,Homicide,7
+31 December 2010,Sexual offences,587
+31 December 2010,Stalking and harassment,416
+31 December 2010,Violence with injury,4318
+31 December 2010,Violence without injury,3447
+31 December 2011,,8320
+31 December 2011,Homicide,5
+31 December 2011,Sexual offences,583
+31 December 2011,Stalking and harassment,470
+31 December 2011,Violence with injury,3958
+31 December 2011,Violence without injury,3304
+31 December 2012,,7324
+31 December 2012,Homicide,2
+31 December 2012,Sexual offences,558
+31 December 2012,Stalking and harassment,398
+31 December 2012,Violence with injury,3448
+31 December 2012,Violence without injury,2918
+31 December 2013,,7404
+31 December 2013,Homicide,6
+31 December 2013,Sexual offences,716
+31 December 2013,Stalking and harassment,425
+31 December 2013,Violence with injury,3331
+31 December 2013,Violence without injury,2926
+31 December 2014,,8899
+31 December 2014,Homicide,7
+31 December 2014,Sexual offences,823
+31 December 2014,Stalking and harassment,530
+31 December 2014,Violence with injury,3789
+31 December 2014,Violence without injury,3750
+31 December 2015,,11970
+31 December 2015,Homicide,3
+31 December 2015,Sexual offences,1166
+31 December 2015,Stalking and harassment,2026
+31 December 2015,Violence with injury,3965
+31 December 2015,Violence without injury,4810
+31 December 2016,,15624
+31 December 2016,Homicide,4
+31 December 2016,Sexual offences,1345
+31 December 2016,Stalking and harassment,3775
+31 December 2016,Violence with injury,4441
+31 December 2016,Violence without injury,6059
+31 December 2017,,16929
+31 December 2017,Homicide,9
+31 December 2017,Sexual offences,1633
+31 December 2017,Stalking and harassment,3797
+31 December 2017,Violence with injury,4621
+31 December 2017,Violence without injury,6869
+31 December 2018,,16858
+31 December 2018,Homicide,7
+31 December 2018,Sexual offences,1438
+31 December 2018,Stalking and harassment,3639
+31 December 2018,Violence with injury,4877
+31 December 2018,Violence without injury,6897
