@@ -6,12 +6,12 @@ Unit of measurement,
 Definitions,"Homeless: 'A person is considered homeless if they have no accommodation in the UK or elsewhere. A person is also homeless if they have accommodation but cannot reasonably occupy it, for example because of a threat of violence.'  Rough sleeping is defined aspeople sleeping or bedded down in the open air (such as on the streets, in doorways, in parks or bus shelters),
 people sleeping in buildings or other places not designed for habitation (such as barns, sheds, car parks, cars, derelict boats, stations or ""bashes"")'                                                                                    "
 Calculations,No Calculations
-Other information,"Please note that the data on statuatory homelessness, only counts those who have applied and are elligable for support.  Data on statuatory homelessness from before 2018 is not comparable to the data shown here, due a change in the way data is collected.   The data on rough sleeping is based on a snaphot,  an estimate based on one day a  year where those who are rough sleeping are counted.  For further information on data collection, defintions around rough sleeping and statuatory homelessness please refer to the following page: https://gss.civilservice.gov.uk/dashboard/tools/homelessness-statistics/theme-home.html"
+Other information,"Please note that the data on statutory homelessness, only counts those who have applied and are elligable for support.  Data on statutory homelessness from before 2018 is not comparable to the data shown here, due a change in the way data is collected.   The data on rough sleeping is based on a snaphot,  an estimate based on one day a  year where those who are rough sleeping are counted.  For further information on data collection, defintions around rough sleeping and statutory homelessness please refer to the following page: https://gss.civilservice.gov.uk/dashboard/tools/homelessness-statistics/theme-home.html"
 Settings,
 Reporting status,complete
 Non-statistical indicator,N
 Graph type,line
-Graph title,Statutory homelessness through number of rough sleepers and total owed a prevention or relief duty
+Graph title,Homelessness statistics 
 Indicator content,
 Sources,
 Source 1 organisation,"Ministry for Housing, Communities and Local Government"
@@ -30,7 +30,7 @@ Source 2 periodicity,Annual
 Source 2 earliest available data,2018
 Source 2 geographical coverage,Bristol
 Source 2 link to data source,https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/923141/DetailedLA_2019-2020.xlsx
-Source 2 link to data source text,Statuatory Homelessness 
+Source 2 link to data source text,statutory Homelessness 
 Source 2 release date,01/10/2020
 Source 2 next release,Winter 2020/21
 Source 2 statistical classification,
