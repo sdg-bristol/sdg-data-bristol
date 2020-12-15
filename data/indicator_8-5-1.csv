@@ -1,7 +1,234 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Units,Sex,Working Pattern,Value
+2008,workplace analysis,,,13.91
+2009,workplace analysis,,,14.66
+2010,workplace analysis,,,15.12
+2011,workplace analysis,,,14.87
+2012,workplace analysis,,,15.13
+2013,workplace analysis,,,15.67
+2014,workplace analysis,,,15.69
+2015,workplace analysis,,,15.49
+2016,workplace analysis,,,15.91
+2017,workplace analysis,,,16.21
+2018,workplace analysis,,,17.20
+2019,workplace analysis,,,17.98
+2020,workplace analysis,,,18.44
+2008,workplace analysis,,Full Time,14.26
+2009,workplace analysis,,Full Time,15.10
+2010,workplace analysis,,Full Time,15.50
+2011,workplace analysis,,Full Time,15.38
+2012,workplace analysis,,Full Time,15.55
+2013,workplace analysis,,Full Time,16.14
+2014,workplace analysis,,Full Time,16.15
+2015,workplace analysis,,Full Time,16.05
+2016,workplace analysis,,Full Time,16.48
+2017,workplace analysis,,Full Time,16.69
+2018,workplace analysis,,Full Time,17.70
+2019,workplace analysis,,Full Time,18.55
+2020,workplace analysis,,Full Time,18.85
+2008,workplace analysis,,Part Time,11.56
+2009,workplace analysis,,Part Time,11.96
+2010,workplace analysis,,Part Time,12.90
+2011,workplace analysis,,Part Time,11.93
+2012,workplace analysis,,Part Time,12.64
+2013,workplace analysis,,Part Time,12.84
+2014,workplace analysis,,Part Time,13.08
+2015,workplace analysis,,Part Time,12.05
+2016,workplace analysis,,Part Time,12.41
+2017,workplace analysis,,Part Time,13.41
+2018,workplace analysis,,Part Time,14.32
+2019,workplace analysis,,Part Time,14.94
+2020,workplace analysis,,Part Time,16.32
+2008,workplace analysis,Male,,15.09
+2009,workplace analysis,Male,,16.03
+2010,workplace analysis,Male,,16.15
+2011,workplace analysis,Male,,16.12
+2012,workplace analysis,Male,,16.16
+2013,workplace analysis,Male,,16.80
+2014,workplace analysis,Male,,16.65
+2015,workplace analysis,Male,,16.58
+2016,workplace analysis,Male,,16.97
+2017,workplace analysis,Male,,17.21
+2018,workplace analysis,Male,,18.41
+2019,workplace analysis,Male,,19.13
+2020,workplace analysis,Male,,19.34
+2008,workplace analysis,Female,,12.26
+2009,workplace analysis,Female,,12.93
+2010,workplace analysis,Female,,13.73
+2011,workplace analysis,Female,,13.30
+2012,workplace analysis,Female,,13.77
+2013,workplace analysis,Female,,14.18
+2014,workplace analysis,Female,,14.42
+2015,workplace analysis,Female,,14.10
+2016,workplace analysis,Female,,14.45
+2017,workplace analysis,Female,,14.95
+2018,workplace analysis,Female,,15.67
+2019,workplace analysis,Female,,16.54
+2020,workplace analysis,Female,,17.34
+2008,workplace analysis,Female,Part Time,11.74
+2009,workplace analysis,Female,Part Time,12.00
+2010,workplace analysis,Female,Part Time,12.47
+2011,workplace analysis,Female,Part Time,11.80
+2012,workplace analysis,Female,Part Time,13.10
+2013,workplace analysis,Female,Part Time,12.95
+2014,workplace analysis,Female,Part Time,13.11
+2015,workplace analysis,Female,Part Time,12.16
+2016,workplace analysis,Female,Part Time,12.40
+2017,workplace analysis,Female,Part Time,12.66
+2018,workplace analysis,Female,Part Time,14.09
+2019,workplace analysis,Female,Part Time,14.70
+2020,workplace analysis,Female,Part Time,15.92
+2008,workplace analysis,Female,Full Time,12.42
+2009,workplace analysis,Female,Full Time,13.21
+2010,workplace analysis,Female,Full Time,14.16
+2011,workplace analysis,Female,Full Time,13.82
+2012,workplace analysis,Female,Full Time,14.01
+2013,workplace analysis,Female,Full Time,14.61
+2014,workplace analysis,Female,Full Time,14.90
+2015,workplace analysis,Female,Full Time,14.75
+2016,workplace analysis,Female,Full Time,15.13
+2017,workplace analysis,Female,Full Time,15.75
+2018,workplace analysis,Female,Full Time,16.19
+2019,workplace analysis,Female,Full Time,17.20
+2020,workplace analysis,Female,Full Time,17.88
+2008,workplace analysis,Male,Part Time,11.05
+2009,workplace analysis,Male,Part Time,11.83
+2010,workplace analysis,Male,Part Time,14.21
+2012,workplace analysis,Male,Part Time,11.12
+2013,workplace analysis,Male,Part Time,12.48
+2014,workplace analysis,Male,Part Time,12.99
+2015,workplace analysis,Male,Part Time,11.66
+2016,workplace analysis,Male,Part Time,12.42
+2017,workplace analysis,Male,Part Time,16.14
+2018,workplace analysis,Male,Part Time,14.98
+2019,workplace analysis,Male,Part Time,15.62
+2020,workplace analysis,Male,Part Time,17.65
+2008,workplace analysis,Male,Full Time,15.33
+2009,workplace analysis,Male,Full Time,16.33
+2010,workplace analysis,Male,Full Time,16.28
+2011,workplace analysis,Male,Full Time,16.37
+2012,workplace analysis,Male,Full Time,16.47
+2013,workplace analysis,Male,Full Time,17.06
+2014,workplace analysis,Male,Full Time,16.88
+2015,workplace analysis,Male,Full Time,16.86
+2016,workplace analysis,Male,Full Time,17.27
+2017,workplace analysis,Male,Full Time,17.28
+2018,workplace analysis,Male,Full Time,18.65
+2019,workplace analysis,Male,Full Time,19.42
+2020,workplace analysis,Male,Full Time,19.47
+2008, resident analysis,,,12.98
+2009, resident analysis,,,13.62
+2010, resident analysis,,,13.80
+2011, resident analysis,,,13.90
+2012, resident analysis,,,13.83
+2013, resident analysis,,,14.45
+2014, resident analysis,,,14.54
+2015, resident analysis,,,14.69
+2016, resident analysis,,,15.08
+2017, resident analysis,,,15.49
+2018, resident analysis,,,16.28
+2019, resident analysis,,,17.18
+2020, resident analysis,,,17.70
+2008, resident analysis,,Full Time,13.31
+2009, resident analysis,,Full Time,14.18
+2010, resident analysis,,Full Time,14.24
+2011, resident analysis,,Full Time,14.49
+2012, resident analysis,,Full Time,14.30
+2013, resident analysis,,Full Time,15.03
+2014, resident analysis,,Full Time,15.12
+2015, resident analysis,,Full Time,15.22
+2016, resident analysis,,Full Time,15.57
+2017, resident analysis,,Full Time,16.08
+2018, resident analysis,,Full Time,16.91
+2019, resident analysis,,Full Time,17.83
+2020, resident analysis,,Full Time,18.30
+2008, resident analysis,,Part Time,10.83
+2009, resident analysis,,Part Time,10.39
+2010, resident analysis,,Part Time,11.34
+2011, resident analysis,,Part Time,10.92
+2012, resident analysis,,Part Time,11.20
+2013, resident analysis,,Part Time,11.21
+2014, resident analysis,,Part Time,11.26
+2015, resident analysis,,Part Time,11.32
+2016, resident analysis,,Part Time,12.15
+2017, resident analysis,,Part Time,12.49
+2018, resident analysis,,Part Time,13.04
+2019, resident analysis,,Part Time,13.92
+2020, resident analysis,,Part Time,14.91
+2008, resident analysis,Male,,13.97
+2009, resident analysis,Male,,14.79
+2010, resident analysis,Male,,14.53
+2011, resident analysis,Male,,14.95
+2012, resident analysis,Male,,14.55
+2013, resident analysis,Male,,15.34
+2014, resident analysis,Male,,15.35
+2015, resident analysis,Male,,15.38
+2016, resident analysis,Male,,15.98
+2017, resident analysis,Male,,16.47
+2018, resident analysis,Male,,17.43
+2019, resident analysis,Male,,18.36
+2020, resident analysis,Male,,18.51
+2008, resident analysis,Female,,11.64
+2009, resident analysis,Female,,12.12
+2010, resident analysis,Female,,12.85
+2011, resident analysis,Female,,12.60
+2012, resident analysis,Female,,12.94
+2013, resident analysis,Female,,13.30
+2014, resident analysis,Female,,13.55
+2015, resident analysis,Female,,13.81
+2016, resident analysis,Female,,13.91
+2017, resident analysis,Female,,14.18
+2018, resident analysis,Female,,14.79
+2019, resident analysis,Female,,15.81
+2020, resident analysis,Female,,16.72
+2008, resident analysis,Female,Part Time,10.34
+2009, resident analysis,Female,Part Time,10.52
+2010, resident analysis,Female,Part Time,11.24
+2011, resident analysis,Female,Part Time,10.51
+2012, resident analysis,Female,Part Time,11.22
+2013, resident analysis,Female,Part Time,11.67
+2014, resident analysis,Female,Part Time,11.35
+2015, resident analysis,Female,Part Time,11.48
+2016, resident analysis,Female,Part Time,12.19
+2017, resident analysis,Female,Part Time,11.93
+2018, resident analysis,Female,Part Time,12.93
+2019, resident analysis,Female,Part Time,13.77
+2020, resident analysis,Female,Part Time,15.54
+2008, resident analysis,Female,Full Time,12.01
+2009, resident analysis,Female,Full Time,12.63
+2010, resident analysis,Female,Full Time,13.37
+2011, resident analysis,Female,Full Time,13.34
+2012, resident analysis,Female,Full Time,13.50
+2013, resident analysis,Female,Full Time,13.83
+2014, resident analysis,Female,Full Time,14.21
+2015, resident analysis,Female,Full Time,14.49
+2016, resident analysis,Female,Full Time,14.46
+2017, resident analysis,Female,Full Time,15.01
+2018, resident analysis,Female,Full Time,15.48
+2019, resident analysis,Female,Full Time,16.53
+2020, resident analysis,Female,Full Time,17.21
+2008, resident analysis,Male,Part Time,12.04
+2009, resident analysis,Male,Part Time,10.06
+2010, resident analysis,Male,Part Time,11.59
+2011, resident analysis,Male,Part Time,11.94
+2012, resident analysis,Male,Part Time,11.16
+2013, resident analysis,Male,Part Time,10.08
+2014, resident analysis,Male,Part Time,11.05
+2015, resident analysis,Male,Part Time,10.90
+2016, resident analysis,Male,Part Time,12.05
+2017, resident analysis,Male,Part Time,13.79
+2018, resident analysis,Male,Part Time,13.34
+2019, resident analysis,Male,Part Time,14.30
+2020, resident analysis,Male,Part Time,12.98
+2008, resident analysis,Male,Full Time,14.11
+2009, resident analysis,Male,Full Time,15.16
+2010, resident analysis,Male,Full Time,14.78
+2011, resident analysis,Male,Full Time,15.23
+2012, resident analysis,Male,Full Time,14.82
+2013, resident analysis,Male,Full Time,15.78
+2014, resident analysis,Male,Full Time,15.73
+2015, resident analysis,Male,Full Time,15.69
+2016, resident analysis,Male,Full Time,16.26
+2017, resident analysis,Male,Full Time,16.71
+2018, resident analysis,Male,Full Time,17.77
+2019, resident analysis,Male,Full Time,18.74
+2020, resident analysis,Male,Full Time,18.98
