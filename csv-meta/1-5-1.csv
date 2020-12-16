@@ -2,13 +2,10 @@ National metadata,
 Indicator available,Deaths due to 'Exposure to forces of nature'
 Indicator description,"Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population"
 National comparability,Comparable across UK local authorities
-Unit of measurement,persons
+Unit of measurement,"deaths per 100,000 population"
 Definitions,
 Calculations,No calculations
-Other information,"Cause of death is classified using the International Statistical Classification of Diseases and Related Health Problems
-(ICD-10). As this is a classification of morbidity (ill health) as well as mortality, and as the classification is used in all
-countries of the world rather than just in the UK, there will be no deaths registered against most of the elements in the
-lowest levels of this classification."
+Other information,"Cause of death is classified using the International Statistical Classification of Diseases and Related Health Problems (ICD-10). As this is a classification of morbidity (ill health) as well as mortality, and as the classification is used in all countries of the world rather than just in the UK, there will be no deaths registered against most of the elements in the lowest levels of this classification."
 Settings,
 Reporting status,complete
 Non-statistical indicator,N
@@ -21,7 +18,7 @@ Source 1 periodicity,Annual
 Source 1 earliest available data,2013
 Source 1 geographical coverage,Bristol
 Source 1 link to data source,https://www.nomisweb.co.uk/query/construct/summary.asp?reset=yes&mode=construct&dataset=161&version=0&anal=1&initsel=
-Source 1 link to data source text,NOMIS'
+Source 1 link to data source text,Mortality Statistics via NOMIS
 Source 1 release date,24/07/2020
 Source 1 next release,TBA
 Source 1 statistical classification,Official Statistic
