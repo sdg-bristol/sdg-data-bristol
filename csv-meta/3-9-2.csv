@@ -1,29 +1,29 @@
 National metadata,
-Indicator available,Fraction of mortality attributable to particle air pollution
-Indicator description,Fraction of annual all-cause adult mortality attributable to anthropogenic (human-made) particulate air pollution
+Indicator available,Mortality rate due to WASH attributable factors
+Indicator description,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (exposure to unsafe Water, Sanitation and Hygiene for All (WASH) services)"
 National comparability,Comparable across UK local authorities
-Unit of measurement,expressed as a percentage of annual deaths from all causes in those aged 30+
-Definitions,
+Unit of measurement,"Age-standardised mortality rate per 100,000"
+Definitions,"Total figures are for Intestinal infectious diseases and do not include hookworm disease, Ascariasis and Trichriasis"
 Calculations,No calculations
-Other information,
+Other information,"Some figures are missing.  Please note no breakdown data is available for cholera, typhoid and paratyphoyd fever, shigelossis, amoebiasis, other protozoal intestinal diseases, viral and other intestinal infections. No data is available for hookworm disease, Ascariasis and Trichuriasis and are not included in totals. "
 Settings,
 Reporting status,complete
 Non-statistical indicator,N
 Graph type,line
-Graph title,Fraction of mortality attributable to particle air pollution
+Graph title,Mortality rate due to WASH attributable factors
 Indicator content,
 Sources,
-Source 1 organisation,Public Health England
+Source 1 organisation,Office for National Statistics
 Source 1 periodicity,Annual
-Source 1 earliest available data,2010
+Source 1 earliest available data,2013
 Source 1 geographical coverage,Bristol
-Source 1 link to data source,https://data.england.nhs.uk/dataset/phe-indicator-30101
-Source 1 link to data source text,3.01 - Fraction of mortality attributable to particulate air pollution 
-Source 1 release date,31/12/2015
+Source 1 link to data source,https://www.nomisweb.co.uk/datasets/mortsa
+Source 1 link to data source text,Mortality Statistics
+Source 1 release date,24/07/2020
 Source 1 next release,TBA
-Source 1 statistical classification,Official Statisitic
-Source 1 contact details,phof.enquiries@phe.gov.uk
-Source 1 other information,
+Source 1 statistical classification,Official Statistics
+Source 1 contact details,vsob@ons.gov.uk
+Source 1 other information,Figures used are for ICD A00-A09
 Source 2 organisation,
 Source 2 periodicity,
 Source 2 earliest available data,
