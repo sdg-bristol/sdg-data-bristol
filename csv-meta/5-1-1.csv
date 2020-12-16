@@ -2,8 +2,8 @@ National metadata,
 Indicator available,Gender Pay Gap
 Indicator description,Gender Pay Gap
 National comparability,Comparable across UK local authorities
-Unit of measurement,
-Definitions,"The workplace population in a local authority is defined as the population whose usual place of work is in that local authority, including both individuals who live and work in the local authority and individuals who work in the local authority but commute from a home elsewhere within England or Wales. The Resident analysis refers to those who reside from the local authority however the workplace does not have to be within that local authority."
+Unit of measurement,Percentage
+Definitions,Gender pay Gap is based on the percentage difference betwenn the median wages
 Calculations,No Calculations
 Other information,
 Settings,
@@ -11,7 +11,7 @@ Reporting status,complete
 Non-statistical indicator,N
 Graph type,line
 Graph title,Gender Pay Gap
-Indicator content,Home' Geography loaction not used pre-2002
+Indicator content,Home' Geography location not used pre-2002
 Sources,
 Source 1 organisation,Office for National Statistics
 Source 1 periodicity,Annual
@@ -19,11 +19,11 @@ Source 1 earliest available data,1997
 Source 1 geographical coverage,Bristol
 Source 1 link to data source,https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/datasets/annualsurveyofhoursandearningsashegenderpaygaptables
 Source 1 link to data source text,Annual Survey of Hours and Earnings 
-Source 1 release date,29/10/2019
+Source 1 release date,07/12/2020
 Source 1 next release,TBA
-Source 1 statistical classification,Official
+Source 1 statistical classification,National Statistics
 Source 1 contact details,earnings@ons.gov.uk
-Source 1 other information,Home' Geography loaction not used pre-2002
+Source 1 other information,Home' Geography location not used pre-2002
 Source 2 organisation,
 Source 2 periodicity,
 Source 2 earliest available data,
