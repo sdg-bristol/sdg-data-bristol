@@ -13,7 +13,7 @@ Graph type,line
 Graph title,Average hourly earnings of female and male in part time and full time work
 Indicator content,
 Sources,
-Source 1 organisation,Nomis
+Source 1 organisation,Annual Survey of Hours and Earnings (ASHE) (via NOMIS)
 Source 1 periodicity,Annual
 Source 1 earliest available data,1997
 Source 1 geographical coverage,Bristol
@@ -22,7 +22,7 @@ Source 1 link to data source text,"Earnings by place of residence, Earnings by p
 Source 1 release date,05/11/2020
 Source 1 next release,30/11/2021
 Source 1 statistical classification,National Statistic
-Source 1 contact details,support@nomisweb.co.uk
+Source 1 contact details,earnings@ons.gov.uk
 Source 1 other information,
 Source 2 organisation,
 Source 2 periodicity,
