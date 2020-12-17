@@ -3,7 +3,7 @@ Indicator available,Admission episodes (alcohol-related conditions and alcohol-s
 Indicator description,Admission episodes (alcohol-related conditions and alcohol-specific conditions) and alcohol related mortality
 National comparability,Comparable across UK local authorities
 Unit of measurement,"Persons per 100,000"
-Definitions,"Admissions related to alcohol can be defined as 'narrow' and 'broad'. 'Narrow' Admissions to hospital are those where the primary diagnosis is attributable to alcohol. Broad means eitehr a primary or a secondary diagnosis is an alcohol-attributable cause, making it a 'broader' definition. "
+Definitions,"The indicator uses both the broad and narrow definition of alcohol related admissions.  The narrow definition counts those episodes where the primary cause is related to use of alcohol, the broad definition counts those episodes where either the primary or secondary cause of admission is attributable to alcohol use."
 Calculations,No calculations
 Other information,
 Settings,
