@@ -1,29 +1,29 @@
 National metadata,
-Indicator available,Annual growth rate of real GDP per employed person
-Indicator description,Gross Domestic Product (GDP) chained volume measures (CVM) annual growth rates
-National comparability,
-Unit of measurement,Annual growth rate of GDP
-Definitions,
+Indicator available,Gross Valued Added per filled Job
+Indicator description,Gross Valued Added per filled Job
+National comparability,Comparable across UK local authorities
+Unit of measurement,Indices; GBP
+Definitions,"Data is at current basic prices and indices. For indices data the UK=100 for each year. Labour productivity is defined as the quantity of goods and services produced per unit of labour input, for example, per hour worked or per filled job. It is one of the most widely used measures of economic performance of a nation or an area"
 Calculations,
-Other information,This is a proxy
+Other information,Data has been smoothed to try and compensate for the volatility due to small sample sizes at low geographical areas. The smoothed data reduces the volatility by using weighted data from up to five years in producing the estimate for each year
 Settings,
 Reporting status,complete
 Non-statistical indicator,N
 Graph type,line
-Graph title,Annual growth rate of GDP
+Graph title,Gross Valued Added per filled Job
 Indicator content,
 Sources,
 Source 1 organisation,Office for National Statistics
 Source 1 periodicity,Annual
-Source 1 earliest available data,1998
+Source 1 earliest available data,2002
 Source 1 geographical coverage,Bristol
-Source 1 link to data source,https://www.ons.gov.uk/economy/grossdomesticproductgdp/datasets/regionalgrossdomesticproductlocalauthorities
-Source 1 link to data source text,Regional gross domestic product local authorities
-Source 1 release date,19/12/2019
-Source 1 next release,Dec-20
-Source 1 statistical classification,Official Statistic
-Source 1 contact details,regionalaccounts@ons.gov.uk
-Source 1 other information,
+Source 1 link to data source,https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/labourproductivity/articles/regionalandsubregionalproductivityintheuk/february2020#results-for-nuts3-areas
+Source 1 link to data source text,Regional Productivity local authorities
+Source 1 release date,28/02/2020
+Source 1 next release,TBA
+Source 1 statistical classification,Experimental Statistics
+Source 1 contact details,subnational@ons.gov.uk
+Source 1 other information,Subregional productivity: labour productivity indices by UK NUTS2 and NUTS3 Subregions
 Source 2 organisation,
 Source 2 periodicity,
 Source 2 earliest available data,
