@@ -3,7 +3,7 @@ Indicator available,Admission episodes (alcohol-related conditions and alcohol-s
 Indicator description,Admission episodes (alcohol-related conditions and alcohol-specific conditions) and alcohol related mortality
 National comparability,Comparable across UK local authorities
 Unit of measurement,"Persons per 100,000"
-Definitions,
+Definitions,"The indicator uses both the broad and narrow definition of alcohol related admissions.  The narrow definition counts those episodes where the primary cause is related to use of alcohol, the broad definition counts those episodes where either the primary or secondary cause of admission is attributable to alcohol use."
 Calculations,No calculations
 Other information,
 Settings,
@@ -18,7 +18,7 @@ Source 1 periodicity,Annual
 Source 1 earliest available data,2008
 Source 1 geographical coverage,Bristol
 Source 1 link to data source,https://fingertips.phe.org.uk/profile/local-alcohol-profiles/data#page/3/gid/1938132984/pat/6/par/E12000009/ati/102/are/E06000023/iid/91382/age/1/sex/4/cid/4/page-options/car-do-0
-Source 1 link to data source text,fingertips phe
+Source 1 link to data source text,Alcohol related mortality 
 Source 1 release date,03/12/2019
 Source 1 next release,TBA
 Source 1 statistical classification,Official Statistic
@@ -29,7 +29,7 @@ Source 2 periodicity,Annual
 Source 2 earliest available data,2008/09
 Source 2 geographical coverage,Bristol
 Source 2 link to data source,https://fingertips.phe.org.uk/search/hospital%20admissions%20alcohol#page/3/gid/1/pat/6/par/E12000009/ati/102/are/E06000023/iid/91414/age/1/sex/4/cid/4/page-options/ovw-tdo-0_car-do-0
-Source 2 link to data source text,fingertips phe
+Source 2 link to data source text,Admission episodes (broad) 
 Source 2 release date,04/02/2020
 Source 2 next release,TBA
 Source 2 statistical classification,Official Statistic
@@ -40,7 +40,7 @@ Source 3 periodicity,Annual
 Source 3 earliest available data,2008/09
 Source 3 geographical coverage,Bristol
 Source 3 link to data source,https://fingertips.phe.org.uk/search/hospital%20admissions%20alcohol#page/3/gid/1/pat/6/par/E12000009/ati/102/are/E06000023/iid/92906/age/1/sex/4/cid/4/page-options/ovw-tdo-0_car-do-0
-Source 3 link to data source text,fingertips phe
+Source 3 link to data source text,Admission Episodes (narrow) 
 Source 3 release date,04/02/2020
 Source 3 next release,TBA
 Source 3 statistical classification,Official Statistic
