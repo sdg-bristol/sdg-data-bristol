@@ -13,6 +13,7 @@ Indicator,Disaggregations,Number of disaggregations
 #3-b-1,"Age, Vaccine",2
 #4-1-1,"Sex, Subject",2
 #4-2-1,"Sex, Learning category, Learning sub-category (higher), Learning sub-category (lower)",4
+#4-2-2,Age,1
 #4-6-1,Gender,1
 #5-1-1,units,1
 #7-2-1,Renewable energy source,1
