@@ -1,8 +1,8 @@
-﻿National metadata,
-Indicator available,Annual Gross Valued Added
-Indicator description,
+National metadata,
+Indicator available,Annual growth rate of real GDP per Capita
+Indicator description,Gross Domestic Product (GDP) chained volume measures (CVM) annual growth rates
 National comparability,
-Unit of measurement,£ Millions
+Unit of measurement,Annual growth rate of GDP
 Definitions,"Gross Domestic Product (GDP) is the main measure of the size of the economy, representing the total value of all final goods and services produced in a defined time period. The ONS has published <a href=""https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/whatisgdp/2016-11-21"">What is GDP?</a> and <a href=""https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/gdpandme/2017-03-20"">GDP and me</a> to explain what GDP is and how it relates to everyday life."
 Calculations,
 Other information,
@@ -10,18 +10,18 @@ Settings,
 Reporting status,complete
 Non-statistical indicator,N
 Graph type,line
-Graph title,Annual Gross Valued Added
+Graph title,Annual growth rate of GDP
 Indicator content,
 Sources,
-Source 1 organisation,Office for National Statistics (ONS)
-Source 1 periodicity,Annually
+Source 1 organisation,Office for National Statistics
+Source 1 periodicity,Annual
 Source 1 earliest available data,1998
-Source 1 geographical coverage,United Kingdom
-Source 1 link to data source,https://www.ons.gov.uk/economy/grossvalueaddedgva/datasets/regionalgrossvalueaddedbalancedlocalauthoritiesbynuts1region
-Source 1 link to data source text,UK Economic Accounts time series
-Source 1 release date,12/12/2018
-Source 1 next release,20/12/2020
-Source 1 statistical classification,National Statistic
+Source 1 geographical coverage,Bristol
+Source 1 link to data source,https://www.ons.gov.uk/economy/grossdomesticproductgdp/datasets/regionalgrossdomesticproductlocalauthorities
+Source 1 link to data source text,Regional gross domestic product local authorities
+Source 1 release date,19/12/2019
+Source 1 next release,May-21
+Source 1 statistical classification,Official Statistic
 Source 1 contact details,regionalaccounts@ons.gov.uk
 Source 1 other information,
 Source 2 organisation,
