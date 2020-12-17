@@ -46,7 +46,7 @@ jobs:
     - name: Deploy to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@3.7.1
       with:
-        REPOSITORY_NAME: sustainabledevelopment-bristol/sdg-data-bristol
+        REPOSITORY_NAME: bristolsdgs/sdg-data-bristol
         ACCESS_TOKEN: ${{ secrets.token }}
         BRANCH: gh-pages
         FOLDER: _site
