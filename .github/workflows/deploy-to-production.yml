@@ -46,8 +46,17 @@ jobs:
     - name: Deploy to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@3.7.1
       with:
-        REPOSITORY_NAME: sustainabledevelopment-bristol/sdg-data-bristol
+        REPOSITORY_NAME: bristolsdgs/sdg-data-bristol
         ACCESS_TOKEN: ${{ secrets.token }}
         BRANCH: gh-pages
         FOLDER: _site
         CLEAN: true
+    - name: Waiting 4 minutes for live data deployment
+      run: |
+        sleep 240
+    - name: Rebuild live site
+      run: |
+        curl -X POST https://api.github.com/repos/sdg-bristol/sdg-site-bristol/dispatches \
+        -H "Accept: application/vnd.github.everest-preview+json" \
+        -H "Authorization: token ${{ secrets.token }}" \
+        --data '{"event_type": "rebuild-live"}'
