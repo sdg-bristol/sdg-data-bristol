@@ -33,7 +33,7 @@ Year,Type of Disease,Sex,Value
 2016,cardiovascular diseases,Male,110.4012
 2017,cardiovascular diseases,Male,109.191
 2018,cardiovascular diseases,Male,106.2839
-2002,cardiovascular diseases,Female,98.46799999999999
+2002,cardiovascular diseases,Female,98.468
 2003,cardiovascular diseases,Female,87.6265
 2004,cardiovascular diseases,Female,83.1156
 2005,cardiovascular diseases,Female,75.1197
@@ -121,11 +121,11 @@ Year,Type of Disease,Sex,Value
 2002,respiratory disease,Male,58.292
 2003,respiratory disease,Male,53.1837
 2004,respiratory disease,Male,51.2567
-2005,respiratory disease,Male,52.321000000000005
+2005,respiratory disease,Male,52.321
 2006,respiratory disease,Male,52.5694
-2007,respiratory disease,Male,52.958999999999996
+2007,respiratory disease,Male,52.959
 2008,respiratory disease,Male,48.1285
-2009,respiratory disease,Male,49.538999999999994
+2009,respiratory disease,Male,49.539
 2010,respiratory disease,Male,47.191
 2011,respiratory disease,Male,44.2707
 2012,respiratory disease,Male,45.0078
@@ -154,7 +154,7 @@ Year,Type of Disease,Sex,Value
 2018,respiratory disease,Female,34.3762
 2002,liver disease,,22.9655
 2003,liver disease,,20.6873
-2004,liver disease,,19.909000000000002
+2004,liver disease,,19.909
 2005,liver disease,,18.4914
 2006,liver disease,,21.0072
 2007,liver disease,,21.9138
@@ -162,7 +162,7 @@ Year,Type of Disease,Sex,Value
 2009,liver disease,,18.4814
 2010,liver disease,,16.9824
 2011,liver disease,,19.8577
-2012,liver disease,,20.137999999999998
+2012,liver disease,,20.138
 2013,liver disease,,21.5692
 2014,liver disease,,19.8068
 2015,liver disease,,18.4835
@@ -185,12 +185,12 @@ Year,Type of Disease,Sex,Value
 2015,liver disease,Male,27.6306
 2016,liver disease,Male,27.9435
 2017,liver disease,Male,28.1771
-2018,liver disease,Male,29.278000000000002
+2018,liver disease,Male,29.278
 2002,liver disease,Female,13.0873
 2003,liver disease,Female,10.5497
 2004,liver disease,Female,11.1494
 2005,liver disease,Female,11.1279
-2006,liver disease,Female,12.915999999999999
+2006,liver disease,Female,12.916
 2007,liver disease,Female,11.7676
 2008,liver disease,Female,9.8767
 2009,liver disease,Female,9.9228

@@ -6,7 +6,7 @@ Year,Vaccine,Age,Value
 2015/16,Diphtheria Tetanus Polio Pertussis Hib (primary),1 year,95.14327343
 2014/15,Diphtheria Tetanus Polio Pertussis Hib (primary),1 year,95.82941361
 2013/14,Diphtheria Tetanus Polio Pertussis Hib (primary),1 year,95.96899225
-2019/20,Pneumococcal disease (primary),1 year,93.10284920000001
+2019/20,Pneumococcal disease (primary),1 year,93.1028492
 2018/19,Pneumococcal disease (primary),1 year,92.42500419
 2017/18,Pneumococcal disease (primary),1 year,94.14436334
 2016/17,Pneumococcal disease (primary),1 year,93.37457268
@@ -32,7 +32,7 @@ Year,Vaccine,Age,Value
 2017/18,Measles mumps rubella (first dose),2 years,89.05048479
 2016/17,Measles mumps rubella (first dose),2 years,89.22010957
 2015/16,Measles mumps rubella (first dose),2 years,90.61889251
-2014/15,Measles mumps rubella (first dose),2 years,91.36270329999999
+2014/15,Measles mumps rubella (first dose),2 years,91.3627033
 2013/14,Measles mumps rubella (first dose),2 years,92.33338394
 2019/20,Hib Meningococcal group C (booster),2 years,88.34376586
 2018/19,Hib Meningococcal group C (booster),2 years,89.60485325
@@ -82,6 +82,6 @@ Year,Vaccine,Age,Value
 2018/19,Hib Meningococcal group C (booster),5 years,93.29599736
 2017/18,Hib Meningococcal group C (booster),5 years,95.12803459
 2016/17,Hib Meningococcal group C (booster),5 years,95.03912363
-2015/16,Hib Meningococcal group C (booster),5 years,94.96352900000001
+2015/16,Hib Meningococcal group C (booster),5 years,94.963529
 2014/15,Hib Meningococcal group C (booster),5 years,93.69998297
 2013/14,Hib Meningococcal group C (booster),5 years,92.46119734
