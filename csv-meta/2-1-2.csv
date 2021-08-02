@@ -3,7 +3,7 @@ Indicator available,Proportion of households that suffered from food insecurity
 Indicator description,Percentage of households reporting that they suffered from moderate to severe or severe food insecurity
 National comparability,
 Unit of measurement,Percentage (%)
-Definitions,"The number of respondents who select/tick ""yes"" to at least 4 of the FIES questions(Q18151 to Q18157 inclusive) divided by the number of respondents who select/tick ""yes"" or ""no"" to the eight FIES questions"
+Definitions,"The number of respondents who select/tick ""yes"" to at least 4 (4 is moderate to severe, those who select 7 or more are also recognised as severe) of the FIES questions(Q18151 to Q18157 inclusive) divided by the number of respondents who select/tick ""yes"" or ""no"" to the eight FIES questions"
 Calculations,No calculations were performed in the data acquisition of this indicator as appropriate data was readily available in the final format specified by this indicator.
 Other information,
 Settings,
