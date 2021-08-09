@@ -1,5 +1,5 @@
 ﻿National metadata,
-Indicator available,"Violent crime - sexual offences per 1,000 population"
+Indicator available,"Violent crime - Sexual offences per 1,000 population"
 Indicator description,"Number of sexual offences excluding code 88E (Exposure and Voyeurism). The offence descriptions which come under the offence group 'Sexual offences' can be found here. Refer to the 'New ONS offence group'. This is expressed per 1,000 of the population."
 National comparability,Comparable to other Local authorities
 Unit of measurement,Offences per 1000 population
@@ -10,12 +10,12 @@ Settings,
 Reporting status,complete
 Non-statistical indicator,N
 Graph type,line
-Graph title,"Title of the graph, usually indicator name"
+Graph title,"Sexual offences per 1,000 population"
 Indicator content,
 Sources,
-Source 1 organisation,Org name
+Source 1 organisation,Public Health England
 Source 1 periodicity,Annual
-Source 1 earliest available data,Initial datapoint
+Source 1 earliest available data,"2010/11"
 Source 1 geographical coverage,Bristol
 Source 1 link to data source,https://fingertips.phe.org.uk/profile/wider-determinants/data#page/4/gid/1938133073/pat/6/par/E12000009/ati/102/are/E06000023/iid/90637/age/1/sex/4
 Source 1 link to data source text,Public Health England - B12c
