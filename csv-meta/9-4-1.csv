@@ -4,8 +4,8 @@ Indicator description,CO2 emission per GVA
 National comparability,Comparable to other Local authorities
 Unit of measurement,CO2 per GVA
 Definitions,CO2 emission per unit of value added in Bristol
-Calculations,Calculations performed on the dataset
-Other information,"Any other info on the dataset, e.g. data control applied?"
+Calculations,
+Other information,
 Settings,
 Reporting status,complete
 Non-statistical indicator,N
@@ -17,12 +17,12 @@ Source 1 organisation,Office for national statistics
 Source 1 periodicity,Annual
 Source 1 earliest available data,2010
 Source 1 geographical coverage,Bristol
-Source 1 link to data source,Link
-Source 1 link to data source text,Text for link
-Source 1 release date,10/10/2019
+Source 1 link to data source,https://www.ons.gov.uk/economy/grossvalueaddedgva/datasets/regionalgrossvalueaddedbalancedlocalauthoritiesbynuts1region
+Source 1 link to data source text,Regional gross value added - local authorities by NUTS1 region
+Source 1 release date,19/12/2019
 Source 1 next release,TBA
 Source 1 statistical classification,Official Statistic
-Source 1 contact details,Contact details for those responsible for dataset ideally
+Source 1 contact details,regionalaccounts@ons.gov.uk
 Source 1 other information,Other info specific to this dataset
 Source 2 organisation,Bristol City coucil
 Source 2 periodicity,Annual
