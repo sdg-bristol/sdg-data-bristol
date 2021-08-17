@@ -6,15 +6,16 @@ Cause,1,2
 Contraceptive method,1,2
 Food Insecurity,1,2
 Gender,1,2
-Group,6,16
+Group,7,18
 Industry Sector,1,17
 Industry Sub Category,1,29
 Learning category,1,2
 Learning sub-category (higher),1,7
 Learning sub-category (lower),1,17
+Percentile,1,2
 Production/Services,1,2
 Renewable energy source,1,5
-Sex,9,6
+Sex,10,8
 sex,1,2
 Subject,1,2
 Type of Crime,1,5
