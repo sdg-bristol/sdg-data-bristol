@@ -1,13 +1,13 @@
 Year,Group,Percentile,Sex,Value
-2010,Gap in earnings between the top 10% and bottom 10% of wages ,,,611.5
-2011,Gap in earnings between the top 10% and bottom 10% of wages ,,,662
-2012,Gap in earnings between the top 10% and bottom 10% of wages ,,,604.2
-2013,Gap in earnings between the top 10% and bottom 10% of wages ,,,624.5
-2014,Gap in earnings between the top 10% and bottom 10% of wages ,,,610.3
-2015,Gap in earnings between the top 10% and bottom 10% of wages ,,,628.7
-2016,Gap in earnings between the top 10% and bottom 10% of wages ,,,645.4
-2017,Gap in earnings between the top 10% and bottom 10% of wages ,,,668.8
-2018,Gap in earnings between the top 10% and bottom 10% of wages ,,,703
+2010,Gap in earnings between the top 10% and bottom 10% of wages,,,611.5
+2011,Gap in earnings between the top 10% and bottom 10% of wages,,,662
+2012,Gap in earnings between the top 10% and bottom 10% of wages,,,604.2
+2013,Gap in earnings between the top 10% and bottom 10% of wages,,,624.5
+2014,Gap in earnings between the top 10% and bottom 10% of wages,,,610.3
+2015,Gap in earnings between the top 10% and bottom 10% of wages,,,628.7
+2016,Gap in earnings between the top 10% and bottom 10% of wages,,,645.4
+2017,Gap in earnings between the top 10% and bottom 10% of wages,,,668.8
+2018,Gap in earnings between the top 10% and bottom 10% of wages,,,703
 2010,Full-time worker,10,,289.1
 2011,Full-time worker,10,,272.1
 2012,Full-time worker,10,,282.7
@@ -44,15 +44,15 @@ Year,Group,Percentile,Sex,Value
 2016,Full-time worker,90,male,958.4
 2017,Full-time worker,90,male,
 2018,Full-time worker,90,male,"1,068.80"
-2010,Gap in earnings between the top 10% and bottom 10% of wages ,,male,729.5
-2011,Gap in earnings between the top 10% and bottom 10% of wages ,,male,774.2
-2012,Gap in earnings between the top 10% and bottom 10% of wages ,,male,
-2013,Gap in earnings between the top 10% and bottom 10% of wages ,,male,
-2014,Gap in earnings between the top 10% and bottom 10% of wages ,,male,
-2015,Gap in earnings between the top 10% and bottom 10% of wages ,,male,741.3
-2016,Gap in earnings between the top 10% and bottom 10% of wages ,,male,735.9
-2017,Gap in earnings between the top 10% and bottom 10% of wages ,,male,
-2018,Gap in earnings between the top 10% and bottom 10% of wages ,,male,834.6
+2010,Gap in earnings between the top 10% and bottom 10% of wages,,male,729.5
+2011,Gap in earnings between the top 10% and bottom 10% of wages,,male,774.2
+2012,Gap in earnings between the top 10% and bottom 10% of wages,,male,
+2013,Gap in earnings between the top 10% and bottom 10% of wages,,male,
+2014,Gap in earnings between the top 10% and bottom 10% of wages,,male,
+2015,Gap in earnings between the top 10% and bottom 10% of wages,,male,741.3
+2016,Gap in earnings between the top 10% and bottom 10% of wages,,male,735.9
+2017,Gap in earnings between the top 10% and bottom 10% of wages,,male,
+2018,Gap in earnings between the top 10% and bottom 10% of wages,,male,834.6
 2010,Full-time worker,10,female,96
 2011,Full-time worker,10,female,88.7
 2012,Full-time worker,10,female,106.7
@@ -70,13 +70,13 @@ Year,Group,Percentile,Sex,Value
 2015,Full-time worker,90,female,755.3
 2016,Full-time worker,90,female,
 2017,Full-time worker,90,female,754.4
-2018,Full-time worker,90,female,773.00
-2010,Gap in earnings between the top 10% and bottom 10% of wages ,,female,599
-2011,Gap in earnings between the top 10% and bottom 10% of wages ,,female,573.3
-2012,Gap in earnings between the top 10% and bottom 10% of wages ,,female,589.9
-2013,Gap in earnings between the top 10% and bottom 10% of wages ,,female,631.5
-2014,Gap in earnings between the top 10% and bottom 10% of wages ,,female,653.9
-2015,Gap in earnings between the top 10% and bottom 10% of wages ,,female,636.8
-2016,Gap in earnings between the top 10% and bottom 10% of wages ,,female,
-2017,Gap in earnings between the top 10% and bottom 10% of wages ,,female,637.3
-2018,Gap in earnings between the top 10% and bottom 10% of wages ,,female,655
+2018,Full-time worker,90,female,773
+2010,Gap in earnings between the top 10% and bottom 10% of wages,,female,599
+2011,Gap in earnings between the top 10% and bottom 10% of wages,,female,573.3
+2012,Gap in earnings between the top 10% and bottom 10% of wages,,female,589.9
+2013,Gap in earnings between the top 10% and bottom 10% of wages,,female,631.5
+2014,Gap in earnings between the top 10% and bottom 10% of wages,,female,653.9
+2015,Gap in earnings between the top 10% and bottom 10% of wages,,female,636.8
+2016,Gap in earnings between the top 10% and bottom 10% of wages,,female,
+2017,Gap in earnings between the top 10% and bottom 10% of wages,,female,637.3
+2018,Gap in earnings between the top 10% and bottom 10% of wages,,female,655
