@@ -1,4 +1,5 @@
 Value,Disaggregation combinations using this value,Number of indicators
+Access to mobile broadband at home,1,1
 after housing costs (ward max),1,1
 after housing costs (ward min),1,1
 after housing costs,1,1
@@ -9,6 +10,7 @@ before housing costs,1,1
 children,1,1
 City Unemployment rate (percent),1,1
 elderly,1,1
+Have used the internet in the last 3 months,1,1
 Park and Ride Passengers,1,1
 Passenger journeys on buses originating in Bristol,1,1
 "Proportion of population who cycle to work
