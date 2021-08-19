@@ -13,27 +13,27 @@ Graph type,line
 Graph title,Local election participation and elected officials gender
 Indicator content,
 Sources,
-Source 1 organisation,Bristol city council
-Source 1 periodicity,Annual
-Source 1 earliest available data,Initial datapoint
+Source 1 organisation,University of Bristol
+Source 1 periodicity,
+Source 1 earliest available data,2016
 Source 1 geographical coverage,Bristol
-Source 1 link to data source,Link
-Source 1 link to data source text,Text for link
-Source 1 release date,10/10/2019
-Source 1 next release,TBA
-Source 1 statistical classification,Official Statistic
-Source 1 contact details,Contact details for those responsible for dataset ideally
-Source 1 other information,Other info specific to this dataset
-Source 2 organisation,
-Source 2 periodicity,
-Source 2 earliest available data,
-Source 2 geographical coverage,
-Source 2 link to data source,
-Source 2 link to data source text,
-Source 2 release date,
-Source 2 next release,
+Source 1 link to data source,https://www.bristol.ac.uk/media-library/sites/cabot-institute-2018/documents/BRISTOL%20AND%20THE%20SDGs.pdf
+Source 1 link to data source text,Bristol VLR 2019
+Source 1 release date,Jul-19
+Source 1 next release,TBD
+Source 1 statistical classification,
+Source 1 contact details,City.office@bristol.gov.uk
+Source 1 other information,
+Source 2 organisation,Bristol City Council
+Source 2 periodicity,Annual
+Source 2 earliest available data,2016
+Source 2 geographical coverage,Bristol
+Source 2 link to data source,https://www.bristol.gov.uk/voting-elections/election-results
+Source 2 link to data source text,Bristol City Council - Election results
+Source 2 release date,2019
+Source 2 next release,TBA
 Source 2 statistical classification,
-Source 2 contact details,
+Source 2 contact details,electoral.services@bristol.gov.uk
 Source 2 other information,
 Source 3 organisation,
 Source 3 periodicity,
