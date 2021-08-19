@@ -1,29 +1,29 @@
 ﻿National metadata,
-Indicator available,Dataset title
-Indicator description,Description of dataset
+Indicator available,Number of tourists visiting Bristol
+Indicator description,The number of tourists visiting bristol on day trips in the year
 National comparability,Comparable to other Local authorities
-Unit of measurement,Units on Y axis
-Definitions,"what data is being shown specifically, "
-Calculations,Calculations performed on the dataset
-Other information,"Any other info on the dataset, e.g. data control applied?"
+Unit of measurement,Million tourists
+Definitions,The total yearly number of day visitors to Bristol
+Calculations,No calculations performed on the dataset
+Other information,
 Settings,
 Reporting status,complete
 Non-statistical indicator,N
-Graph type,line
-Graph title,"Title of the graph, usually indicator name"
+Graph type,bar
+Graph title,Tourism in bristol
 Indicator content,
 Sources,
-Source 1 organisation,Org name
-Source 1 periodicity,Annual
-Source 1 earliest available data,Initial datapoint
+Source 1 organisation,Bristol City council
+Source 1 periodicity,
+Source 1 earliest available data,2018
 Source 1 geographical coverage,Bristol
-Source 1 link to data source,Link
-Source 1 link to data source text,Text for link
-Source 1 release date,10/10/2019
+Source 1 link to data source,https://www.bristol.gov.uk/documents/20182/32947/State+of+Bristol+-+Key+Facts+2018-19.PDF
+Source 1 link to data source text,State of Bristol Key facts 2018
+Source 1 release date,2019
 Source 1 next release,TBA
-Source 1 statistical classification,Official Statistic
-Source 1 contact details,Contact details for those responsible for dataset ideally
-Source 1 other information,Other info specific to this dataset
+Source 1 statistical classification,
+Source 1 contact details,City.office@bristol.gov.uk
+Source 1 other information,
 Source 2 organisation,
 Source 2 periodicity,
 Source 2 earliest available data,
