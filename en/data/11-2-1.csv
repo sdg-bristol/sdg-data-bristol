@@ -1,7 +1,31 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Units,Group,Value
+2010,Total trips,Park and Ride Passengers,1434249.0
+2011,Total trips,Park and Ride Passengers,1333575.0
+2012,Total trips,Park and Ride Passengers,1292062.0
+2013,Total trips,Park and Ride Passengers,1275562.0
+2014,Total trips,Park and Ride Passengers,1264805.0
+2015,Total trips,Park and Ride Passengers,1410725.0
+2016,Total trips,Park and Ride Passengers,1329386.0
+2017,Total trips,Park and Ride Passengers,1533679.0
+2018,Total trips,Park and Ride Passengers,1716174.0
+2010,Total trips,Passenger journeys on buses originating in Bristol,28011284.0
+2011,Total trips,Passenger journeys on buses originating in Bristol,28475212.0
+2012,Total trips,Passenger journeys on buses originating in Bristol,25413186.0
+2013,Total trips,Passenger journeys on buses originating in Bristol,28813369.0
+2014,Total trips,Passenger journeys on buses originating in Bristol,33837991.0
+2015,Total trips,Passenger journeys on buses originating in Bristol,36779218.0
+2016,Total trips,Passenger journeys on buses originating in Bristol,38575102.0
+2017,Total trips,Passenger journeys on buses originating in Bristol,39676021.0
+2018,Total trips,Passenger journeys on buses originating in Bristol,42216084.0
+2015,% percentage,Persons satisfied with local Bus Service,50.0
+2016,% percentage,Persons satisfied with local Bus Service,
+2017,% percentage,Persons satisfied with local Bus Service,40.0
+2018,% percentage,Persons satisfied with local Bus Service,43.0
+2011,Persons,Persons cycling to work,15800.0
+2012,Persons,Persons cycling to work,
+2013,Persons,Persons cycling to work,
+2014,Persons,Persons cycling to work,
+2015,Persons,Persons cycling to work,
+2016,Persons,Persons cycling to work,
+2017,Persons,Persons cycling to work,
+2018,Persons,Persons cycling to work,25900.0
