@@ -1,16 +1,57 @@
 
         <!DOCTYPE html>
-        <html>
+        <html lang="en">
         <head>
             <meta charset="utf-8">
             <meta http-equiv="X-UA-Compatible" content="IE=edge">
             <meta name="viewport" content="width=device-width, initial-scale=1">
 
-            <title>Build docs - Disaggregation report</title>
+            <title>Disaggregation report - Build docs</title>
 
-            <script defer src="https://use.fontawesome.com/releases/v5.0.2/js/all.js"></script>
+            <script defer src="https://use.fontawesome.com/releases/v5.15.1/js/all.js"></script>
             <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/css/theme.bootstrap_4.min.css" integrity="sha256-vFn0MM8utz2N3JoNzRxHXUtfCJLz5Pb9ygBY2exIaqg=" crossorigin="anonymous" />
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/open-sdg/open-sdg-table@0.4.0/open-sdg-table.min.css">
+            <style>
+                .btn-primary {
+                    background-color: #00703c;
+                    padding: 8px 10px 7px;
+                    border: 2px solid transparent;
+                    border-radius: 0;
+                    color: #fff;
+                    box-shadow: 0 2px 0 #002d18;
+                    text-decoration: none;
+                }
+                .btn-primary:visited {
+                    color: #fff;
+                }
+                .btn-primary:hover, .btn-primary:not(:disabled):not(.disabled):active {
+                    background-color: #005a30;
+                    text-decoration: none;
+                    border: 2px solid transparent;
+                }
+                .btn-primary:focus:not(:active):not(:hover) {
+                    border-color: #fd0;
+                    color: #0b0c0c;
+                    background-color: #fd0;
+                    box-shadow: 0 2px 0 #0b0c0c;
+                }
+                a {
+                    color: #1D70B8;
+                    text-decoration: underline;
+                }
+                a:hover {
+                    color: #003078;
+                }
+                a:visited {
+                    color: #4c2c92;
+                }
+                .download-info {
+                    margin-left: 12px;
+                }
+                .table-striped tbody tr:nth-of-type(2n+1) {
+                    background-color: #f3f2f1;
+                }
+            </style>
         </head>
         <body>
             <nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -23,22 +64,26 @@
                     <h1 style="margin:20px 0">Disaggregation report</h1>
                     <div>
                         
-        <div class="list-group list-group-horizontal mb-4">
-            <a class="list-group-item list-group-item-action" href="#by-disaggregation">By disaggregation</a>
-            <a class="list-group-item list-group-item-action" href="#by-indicator">By indicator</a>
+        <div role="navigation" aria-describedby="contents-heading">
+            <h2 id="contents-heading">On this page</h2>
+            <ul>
+                <li><a href="#by-disaggregation">By disaggregation</a></li>
+                <li><a href="#by-indicator">By indicator</a></li>
+            </ul>
         </div>
         <div>
-            <h2 id="by-disaggregation">By disaggregation</h2>
+            <h2 id="by-disaggregation" tabindex="-1">By disaggregation</h2>
             
         <div class="my-3">
-            <a href="disaggregation-report.csv" class="btn btn-primary">Download CSV</a>
+            <a href="disaggregation-report.csv" role="button" class="btn btn-primary" aria-describedby="disaggregation-report">Download CSV of disaggregations</a>
+            <div id="disaggregation-report" class="download-info">Size: 542 Bytes</div>
         </div>
         
             
                 <div class="total-rows">
                     Total rows: <span class="total">26</span>
                 </div>
-                <table border="1" class="dataframe table table-striped table-bordered tablesorter">
+                <table border="1" class="dataframe table table-striped table-bordered" id="disaggregation-table">
   <thead>
     <tr style="text-align: right;">
       <th>Disaggregation</th>
@@ -118,7 +163,7 @@
       <td>2</td>
     </tr>
     <tr>
-      <td><a href="disaggregation--productionservices.html">Production/Services</a></td>
+      <td><a href="disaggregation--production-services.html">Production/Services</a></td>
       <td>1</td>
       <td>2</td>
     </tr>
@@ -179,19 +224,26 @@
     </tr>
   </tbody>
 </table>
+            <script type="text/javascript">
+            var sdgBuild = sdgBuild || {};
+            sdgBuild.tables = sdgBuild.tables || {};
+            sdgBuild.tables['disaggregation-table'] = [{"Disaggregation":"<a href=\"disaggregation--age.html\">Age<\/a>","Number of indicators":3,"Number of values":9},{"Disaggregation":"<a href=\"disaggregation--anthropogenic-component.html\">Anthropogenic component<\/a>","Number of indicators":1,"Number of values":2},{"Disaggregation":"<a href=\"disaggregation--bmi.html\">BMI<\/a>","Number of indicators":1,"Number of values":2},{"Disaggregation":"<a href=\"disaggregation--cause.html\">Cause<\/a>","Number of indicators":1,"Number of values":2},{"Disaggregation":"<a href=\"disaggregation--contraceptive-method.html\">Contraceptive method<\/a>","Number of indicators":1,"Number of values":2},{"Disaggregation":"<a href=\"disaggregation--food-insecurity.html\">Food Insecurity<\/a>","Number of indicators":1,"Number of values":2},{"Disaggregation":"<a href=\"disaggregation--gender.html\">Gender<\/a>","Number of indicators":1,"Number of values":2},{"Disaggregation":"<a href=\"disaggregation--group.html\">Group<\/a>","Number of indicators":11,"Number of values":39},{"Disaggregation":"<a href=\"disaggregation--industry-sector.html\">Industry Sector<\/a>","Number of indicators":1,"Number of values":17},{"Disaggregation":"<a href=\"disaggregation--industry-sub-category.html\">Industry Sub Category<\/a>","Number of indicators":1,"Number of values":29},{"Disaggregation":"<a href=\"disaggregation--learning-category.html\">Learning category<\/a>","Number of indicators":1,"Number of values":2},{"Disaggregation":"<a href=\"disaggregation--learning-sub-category-higher.html\">Learning sub-category (higher)<\/a>","Number of indicators":1,"Number of values":7},{"Disaggregation":"<a href=\"disaggregation--learning-sub-category-lower.html\">Learning sub-category (lower)<\/a>","Number of indicators":1,"Number of values":17},{"Disaggregation":"<a href=\"disaggregation--percentile.html\">Percentile<\/a>","Number of indicators":1,"Number of values":2},{"Disaggregation":"<a href=\"disaggregation--production-services.html\">Production\/Services<\/a>","Number of indicators":1,"Number of values":2},{"Disaggregation":"<a href=\"disaggregation--renewable-energy-source.html\">Renewable energy source<\/a>","Number of indicators":1,"Number of values":5},{"Disaggregation":"<a href=\"disaggregation--sex.html\">Sex<\/a>","Number of indicators":10,"Number of values":8},{"Disaggregation":"<a href=\"disaggregation--sex_.html\">sex<\/a>","Number of indicators":1,"Number of values":2},{"Disaggregation":"<a href=\"disaggregation--subject.html\">Subject<\/a>","Number of indicators":1,"Number of values":2},{"Disaggregation":"<a href=\"disaggregation--type-of-crime.html\">Type of Crime<\/a>","Number of indicators":1,"Number of values":5},{"Disaggregation":"<a href=\"disaggregation--type-of-disease.html\">Type of Disease<\/a>","Number of indicators":1,"Number of values":4},{"Disaggregation":"<a href=\"disaggregation--types-of-contraception.html\">Types of contraception<\/a>","Number of indicators":1,"Number of values":9},{"Disaggregation":"<a href=\"disaggregation--unit-of-measurement.html\">Unit of measurement<\/a>","Number of indicators":1,"Number of values":1},{"Disaggregation":"<a href=\"disaggregation--unit.html\">Unit<\/a>","Number of indicators":1,"Number of values":3},{"Disaggregation":"<a href=\"disaggregation--vaccine.html\">Vaccine<\/a>","Number of indicators":1,"Number of values":10},{"Disaggregation":"<a href=\"disaggregation--working-pattern.html\">Working Pattern<\/a>","Number of indicators":1,"Number of values":2}];
+            </script>
+            
         </div>
         <div>
-            <h2 id="by-indicator">By indicator</h2>
+            <h2 id="by-indicator" tabindex="-1">By indicator</h2>
             
         <div class="my-3">
-            <a href="disaggregation-by-indicator-report.csv" class="btn btn-primary">Download CSV</a>
+            <a href="disaggregation-by-indicator-report.csv" role="button" class="btn btn-primary" aria-describedby="disaggregation-by-indicator-report">Download CSV of indicators</a>
+            <div id="disaggregation-by-indicator-report" class="download-info">Size: 867 Bytes</div>
         </div>
         
             
                 <div class="total-rows">
                     Total rows: <span class="total">32</span>
                 </div>
-                <table border="1" class="dataframe table table-striped table-bordered tablesorter">
+                <table border="1" class="dataframe table table-striped table-bordered" id="indicator-table">
   <thead>
     <tr style="text-align: right;">
       <th>Indicator</th>
@@ -352,7 +404,7 @@
     </tr>
     <tr>
       <td>#9-3-1</td>
-      <td><a href="disaggregation--productionservices.html">Production/Services</a>, <a href="disaggregation--industry-sector.html">Industry Sector</a>, <a href="disaggregation--industry-sub-category.html">Industry Sub Category</a></td>
+      <td><a href="disaggregation--production-services.html">Production/Services</a>, <a href="disaggregation--industry-sector.html">Industry Sector</a>, <a href="disaggregation--industry-sub-category.html">Industry Sub Category</a></td>
       <td>3</td>
     </tr>
     <tr>
@@ -362,17 +414,34 @@
     </tr>
   </tbody>
 </table>
+            <script type="text/javascript">
+            var sdgBuild = sdgBuild || {};
+            sdgBuild.tables = sdgBuild.tables || {};
+            sdgBuild.tables['indicator-table'] = [{"Indicator":"#1-2-1","Disaggregations":"<a href=\"disaggregation--group.html\">Group<\/a>","Number of disaggregations":1},{"Indicator":"#1-2-2","Disaggregations":"<a href=\"disaggregation--group.html\">Group<\/a>","Number of disaggregations":1},{"Indicator":"#10-2-1","Disaggregations":"<a href=\"disaggregation--group.html\">Group<\/a>, <a href=\"disaggregation--sex.html\">Sex<\/a>, <a href=\"disaggregation--percentile.html\">Percentile<\/a>","Number of disaggregations":3},{"Indicator":"#11-2-1","Disaggregations":"<a href=\"disaggregation--group.html\">Group<\/a>","Number of disaggregations":1},{"Indicator":"#11-3-2","Disaggregations":"<a href=\"disaggregation--group.html\">Group<\/a>","Number of disaggregations":1},{"Indicator":"#11-6-2","Disaggregations":"<a href=\"disaggregation--anthropogenic-component.html\">Anthropogenic component<\/a>","Number of disaggregations":1},{"Indicator":"#11-7-2","Disaggregations":"<a href=\"disaggregation--group.html\">Group<\/a>","Number of disaggregations":1},{"Indicator":"#13-3-2","Disaggregations":"<a href=\"disaggregation--group.html\">Group<\/a>","Number of disaggregations":1},{"Indicator":"#16-1-3","Disaggregations":"<a href=\"disaggregation--type-of-crime.html\">Type of Crime<\/a>","Number of disaggregations":1},{"Indicator":"#16-7-1","Disaggregations":"<a href=\"disaggregation--sex.html\">Sex<\/a>","Number of disaggregations":1},{"Indicator":"#2-1-2","Disaggregations":"<a href=\"disaggregation--food-insecurity.html\">Food Insecurity<\/a>","Number of disaggregations":1},{"Indicator":"#2-2-2","Disaggregations":"<a href=\"disaggregation--bmi.html\">BMI<\/a>","Number of disaggregations":1},{"Indicator":"#3-4-1","Disaggregations":"<a href=\"disaggregation--sex.html\">Sex<\/a>, <a href=\"disaggregation--type-of-disease.html\">Type of Disease<\/a>","Number of disaggregations":2},{"Indicator":"#3-5-1","Disaggregations":"<a href=\"disaggregation--unit.html\">Unit<\/a>","Number of disaggregations":1},{"Indicator":"#3-5-2","Disaggregations":"<a href=\"disaggregation--sex.html\">Sex<\/a>","Number of disaggregations":1},{"Indicator":"#3-7-1","Disaggregations":"<a href=\"disaggregation--contraceptive-method.html\">Contraceptive method<\/a>, <a href=\"disaggregation--types-of-contraception.html\">Types of contraception<\/a>, <a href=\"disaggregation--unit-of-measurement.html\">Unit of measurement<\/a>","Number of disaggregations":3},{"Indicator":"#3-9-2","Disaggregations":"<a href=\"disaggregation--cause.html\">Cause<\/a>, <a href=\"disaggregation--sex_.html\">sex<\/a>","Number of disaggregations":2},{"Indicator":"#3-9-3","Disaggregations":"<a href=\"disaggregation--sex.html\">Sex<\/a>","Number of disaggregations":1},{"Indicator":"#3-a-1","Disaggregations":"<a href=\"disaggregation--sex.html\">Sex<\/a>","Number of disaggregations":1},{"Indicator":"#3-b-1","Disaggregations":"<a href=\"disaggregation--age.html\">Age<\/a>, <a href=\"disaggregation--vaccine.html\">Vaccine<\/a>","Number of disaggregations":2},{"Indicator":"#4-1-1","Disaggregations":"<a href=\"disaggregation--sex.html\">Sex<\/a>, <a href=\"disaggregation--subject.html\">Subject<\/a>","Number of disaggregations":2},{"Indicator":"#4-2-1","Disaggregations":"<a href=\"disaggregation--sex.html\">Sex<\/a>, <a href=\"disaggregation--learning-category.html\">Learning category<\/a>, <a href=\"disaggregation--learning-sub-category-higher.html\">Learning sub-category (higher)<\/a>, <a href=\"disaggregation--learning-sub-category-lower.html\">Learning sub-category (lower)<\/a>","Number of disaggregations":4},{"Indicator":"#4-2-2","Disaggregations":"<a href=\"disaggregation--age.html\">Age<\/a>","Number of disaggregations":1},{"Indicator":"#4-6-1","Disaggregations":"<a href=\"disaggregation--gender.html\">Gender<\/a>","Number of disaggregations":1},{"Indicator":"#7-2-1","Disaggregations":"<a href=\"disaggregation--renewable-energy-source.html\">Renewable energy source<\/a>","Number of disaggregations":1},{"Indicator":"#8-3-1","Disaggregations":"<a href=\"disaggregation--group.html\">Group<\/a>","Number of disaggregations":1},{"Indicator":"#8-5-1","Disaggregations":"<a href=\"disaggregation--sex.html\">Sex<\/a>, <a href=\"disaggregation--working-pattern.html\">Working Pattern<\/a>","Number of disaggregations":2},{"Indicator":"#8-6-1","Disaggregations":"<a href=\"disaggregation--sex.html\">Sex<\/a>, <a href=\"disaggregation--age.html\">Age<\/a>","Number of disaggregations":2},{"Indicator":"#9-1-2","Disaggregations":"<a href=\"disaggregation--group.html\">Group<\/a>","Number of disaggregations":1},{"Indicator":"#9-1-2-a","Disaggregations":"<a href=\"disaggregation--group.html\">Group<\/a>","Number of disaggregations":1},{"Indicator":"#9-3-1","Disaggregations":"<a href=\"disaggregation--production-services.html\">Production\/Services<\/a>, <a href=\"disaggregation--industry-sector.html\">Industry Sector<\/a>, <a href=\"disaggregation--industry-sub-category.html\">Industry Sub Category<\/a>","Number of disaggregations":3},{"Indicator":"#9-c-1","Disaggregations":"<a href=\"disaggregation--group.html\">Group<\/a>","Number of disaggregations":1}];
+            </script>
+            
         </div>
         
                     </div>
                 </div>
             </div>
-            <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+            <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+            <script src="https://cdn.datatables.net/1.10.23/js/jquery.dataTables.min.js"></script>
+            <script src="https://cdn.jsdelivr.net/gh/open-sdg/open-sdg-table@0.4.0/open-sdg-table.min.js"></script>
             <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
             <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
-            <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/js/jquery.tablesorter.min.js" integrity="sha256-dtGH1XcAyKopMui5x20KnPxuGuSx9Rs6piJB/4Oqu6I=" crossorigin="anonymous"></script>
-            <script>$(".tablesorter").tablesorter({
-                theme: 'bootstrap'
-            });</script>
+            <script>
+            if (typeof sdgBuild !== 'undefined' && sdgBuild.tables) {
+                var tableIds = Object.keys(sdgBuild.tables);
+                for (var i = 0; i < tableIds.length; i++) {
+                    var tableId = tableIds[i];
+                    $('#' + tableId).openSdgTable(sdgBuild.tables[tableId]).find('td').each(function() {
+                        if (!isNaN($(this).text())) {
+                            $(this).css('text-align', 'right');
+                        }
+                    })
+                }
+            }
+            </script>
         </html>
         

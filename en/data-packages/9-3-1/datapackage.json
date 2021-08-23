@@ -1,0 +1,108 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Industry Sector",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Accommodation and food service activities",
+                "Activities of households",
+                "Administrative and support service activities",
+                "Agriculture, mining, electricity, gas, water and waste",
+                "Arts, entertainment and recreation",
+                "Construction",
+                "Education",
+                "Financial and insurance activities",
+                "Human health and social work activities",
+                "Information and communication",
+                "Manufacturing",
+                "Other service activities",
+                "Professional, scientific and technical activities",
+                "Public administration and defence",
+                "Real estate activities",
+                "Transportation and storage",
+                "Wholesale and retail trade; repair of motor vehicles"
+              ]
+            },
+            "title": "Industry Sector"
+          },
+          {
+            "name": "Industry Sub Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Architectural and engineering activities",
+                "Arts, entertainment and recreation",
+                "Civil engineering",
+                "Construction of buildings",
+                "Employment activities; tourism and security services",
+                "Head offices and management consultancy",
+                "Households as employers and own use production",
+                "Human health and residential care activities",
+                "Human health and social work activities",
+                "Land, water and air transport",
+                "Legal and accounting activities",
+                "Manufacture of food, beverages, textiles and clothing",
+                "Manufacture of metals, electrical products and machinery",
+                "Manufacture of wood, petroleum, chemicals and minerals",
+                "Membership organisations; repair of household goods",
+                "Motor trades",
+                "Office administration and business support activities",
+                "Other manufacturing, repair and installation",
+                "Other personal service activities",
+                "Other professional, scientific and technical activities",
+                "Owner-occupiers' imputed rental",
+                "Real estate activities, excluding imputed rental",
+                "Rental and leasing activities",
+                "Retail trade",
+                "Services to buildings and landscape activities",
+                "Social work activities",
+                "Specialised construction activities",
+                "Warehousing, transport support, postal and courier activities",
+                "Wholesale trade"
+              ]
+            },
+            "title": "Industry Sub Category"
+          },
+          {
+            "name": "Production/Services",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Production sector",
+                "Services sector"
+              ]
+            },
+            "title": "Production/Services"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "9-3-1",
+  "title": "Proportion of small-scale industries in total industry value added"
+}

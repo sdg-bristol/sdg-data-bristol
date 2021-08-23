@@ -1,0 +1,205 @@
+Year,Type of Disease,Sex,Value
+2002,cardiovascular diseases,,155.0996
+2003,cardiovascular diseases,,142.1967
+2004,cardiovascular diseases,,129.4436
+2005,cardiovascular diseases,,119.1935
+2006,cardiovascular diseases,,115.3155
+2007,cardiovascular diseases,,111.6996
+2008,cardiovascular diseases,,102.6808
+2009,cardiovascular diseases,,95.7879
+2010,cardiovascular diseases,,87.9086
+2011,cardiovascular diseases,,85.7245
+2012,cardiovascular diseases,,88.3589
+2013,cardiovascular diseases,,85.3645
+2014,cardiovascular diseases,,82.2318
+2015,cardiovascular diseases,,76.5312
+2016,cardiovascular diseases,,80.3002
+2017,cardiovascular diseases,,78.2651
+2018,cardiovascular diseases,,74.4902
+2002,cardiovascular diseases,Male,215.3139
+2003,cardiovascular diseases,Male,199.792
+2004,cardiovascular diseases,Male,178.6716
+2005,cardiovascular diseases,Male,166.2184
+2006,cardiovascular diseases,Male,159.2488
+2007,cardiovascular diseases,Male,156.9054
+2008,cardiovascular diseases,Male,145.9998
+2009,cardiovascular diseases,Male,135.381
+2010,cardiovascular diseases,Male,124.4779
+2011,cardiovascular diseases,Male,120.0467
+2012,cardiovascular diseases,Male,126.6049
+2013,cardiovascular diseases,Male,123.0042
+2014,cardiovascular diseases,Male,116.3042
+2015,cardiovascular diseases,Male,105.8462
+2016,cardiovascular diseases,Male,110.4012
+2017,cardiovascular diseases,Male,109.191
+2018,cardiovascular diseases,Male,106.2839
+2002,cardiovascular diseases,Female,98.468
+2003,cardiovascular diseases,Female,87.6265
+2004,cardiovascular diseases,Female,83.1156
+2005,cardiovascular diseases,Female,75.1197
+2006,cardiovascular diseases,Female,73.8148
+2007,cardiovascular diseases,Female,68.9933
+2008,cardiovascular diseases,Female,61.4113
+2009,cardiovascular diseases,Female,57.8797
+2010,cardiovascular diseases,Female,52.4673
+2011,cardiovascular diseases,Female,52.3018
+2012,cardiovascular diseases,Female,51.0367
+2013,cardiovascular diseases,Female,48.6854
+2014,cardiovascular diseases,Female,49.2203
+2015,cardiovascular diseases,Female,48.129
+2016,cardiovascular diseases,Female,51.1396
+2017,cardiovascular diseases,Female,48.294
+2018,cardiovascular diseases,Female,43.8328
+2002,cancer,,182.8739
+2003,cancer,,183.3895
+2004,cancer,,173.5806
+2005,cancer,,174.5174
+2006,cancer,,165.9925
+2007,cancer,,170.3207
+2008,cancer,,170.7657
+2009,cancer,,169.345
+2010,cancer,,166.8066
+2011,cancer,,157.6988
+2012,cancer,,156.8509
+2013,cancer,,153.4698
+2014,cancer,,152.9808
+2015,cancer,,153.8327
+2016,cancer,,151.7927
+2017,cancer,,154.6395
+2018,cancer,,151.827
+2002,cancer,Male,208.9368
+2003,cancer,Male,208.0413
+2004,cancer,Male,195.1099
+2005,cancer,Male,197.9935
+2006,cancer,Male,189.0792
+2007,cancer,Male,196.351
+2008,cancer,Male,191.0661
+2009,cancer,Male,192.0822
+2010,cancer,Male,187.1793
+2011,cancer,Male,181.9931
+2012,cancer,Male,176.6452
+2013,cancer,Male,172.8185
+2014,cancer,Male,170.9521
+2015,cancer,Male,176.0437
+2016,cancer,Male,169.8026
+2017,cancer,Male,172.3616
+2018,cancer,Male,168.2444
+2002,cancer,Female,159.7903
+2003,cancer,Female,161.5833
+2004,cancer,Female,154.2284
+2005,cancer,Female,153.6485
+2006,cancer,Female,145.2135
+2007,cancer,Female,146.6554
+2008,cancer,Female,151.9425
+2009,cancer,Female,148.3141
+2010,cancer,Female,147.8936
+2011,cancer,Female,134.8189
+2012,cancer,Female,137.9916
+2013,cancer,Female,134.859
+2014,cancer,Female,135.939
+2015,cancer,Female,132.8378
+2016,cancer,Female,134.7668
+2017,cancer,Female,137.7264
+2018,cancer,Female,136.2001
+2002,respiratory disease,,44.8294
+2003,respiratory disease,,42.2969
+2004,respiratory disease,,41.5418
+2005,respiratory disease,,42.032
+2006,respiratory disease,,41.7246
+2007,respiratory disease,,40.9119
+2008,respiratory disease,,38.3456
+2009,respiratory disease,,37.6749
+2010,respiratory disease,,37.3773
+2011,respiratory disease,,37.3355
+2012,respiratory disease,,39.7896
+2013,respiratory disease,,40.3408
+2014,respiratory disease,,39.5952
+2015,respiratory disease,,40.9281
+2016,respiratory disease,,39.2971
+2017,respiratory disease,,40.641
+2018,respiratory disease,,39.4673
+2002,respiratory disease,Male,58.292
+2003,respiratory disease,Male,53.1837
+2004,respiratory disease,Male,51.2567
+2005,respiratory disease,Male,52.321
+2006,respiratory disease,Male,52.5694
+2007,respiratory disease,Male,52.959
+2008,respiratory disease,Male,48.1285
+2009,respiratory disease,Male,49.539
+2010,respiratory disease,Male,47.191
+2011,respiratory disease,Male,44.2707
+2012,respiratory disease,Male,45.0078
+2013,respiratory disease,Male,43.3752
+2014,respiratory disease,Male,45.2771
+2015,respiratory disease,Male,48.5639
+2016,respiratory disease,Male,48.515
+2017,respiratory disease,Male,51.0551
+2018,respiratory disease,Male,44.7562
+2002,respiratory disease,Female,32.6475
+2003,respiratory disease,Female,32.1546
+2004,respiratory disease,Female,32.551
+2005,respiratory disease,Female,32.5292
+2006,respiratory disease,Female,31.5426
+2007,respiratory disease,Female,29.4282
+2008,respiratory disease,Female,28.9258
+2009,respiratory disease,Female,26.4991
+2010,respiratory disease,Female,28.1255
+2011,respiratory disease,Female,30.7048
+2012,respiratory disease,Female,34.7478
+2013,respiratory disease,Female,37.3593
+2014,respiratory disease,Female,34.1178
+2015,respiratory disease,Female,33.6092
+2016,respiratory disease,Female,30.4382
+2017,respiratory disease,Female,30.6054
+2018,respiratory disease,Female,34.3762
+2002,liver disease,,22.9655
+2003,liver disease,,20.6873
+2004,liver disease,,19.909
+2005,liver disease,,18.4914
+2006,liver disease,,21.0072
+2007,liver disease,,21.9138
+2008,liver disease,,19.3486
+2009,liver disease,,18.4814
+2010,liver disease,,16.9824
+2011,liver disease,,19.8577
+2012,liver disease,,20.138
+2013,liver disease,,21.5692
+2014,liver disease,,19.8068
+2015,liver disease,,18.4835
+2016,liver disease,,19.0044
+2017,liver disease,,20.3252
+2018,liver disease,,22.4997
+2002,liver disease,Male,32.9312
+2003,liver disease,Male,30.9737
+2004,liver disease,Male,28.7666
+2005,liver disease,Male,26.0902
+2006,liver disease,Male,29.3621
+2007,liver disease,Male,32.3766
+2008,liver disease,Male,28.9907
+2009,liver disease,Male,27.1766
+2010,liver disease,Male,23.8289
+2011,liver disease,Male,29.2836
+2012,liver disease,Male,29.1265
+2013,liver disease,Male,31.6428
+2014,liver disease,Male,28.4991
+2015,liver disease,Male,27.6306
+2016,liver disease,Male,27.9435
+2017,liver disease,Male,28.1771
+2018,liver disease,Male,29.278
+2002,liver disease,Female,13.0873
+2003,liver disease,Female,10.5497
+2004,liver disease,Female,11.1494
+2005,liver disease,Female,11.1279
+2006,liver disease,Female,12.916
+2007,liver disease,Female,11.7676
+2008,liver disease,Female,9.8767
+2009,liver disease,Female,9.9228
+2010,liver disease,Female,10.2381
+2011,liver disease,Female,10.4399
+2012,liver disease,Female,11.0989
+2013,liver disease,Female,11.4212
+2014,liver disease,Female,11.1072
+2015,liver disease,Female,9.3819
+2016,liver disease,Female,10.1402
+2017,liver disease,Female,12.5662
+2018,liver disease,Female,15.8562

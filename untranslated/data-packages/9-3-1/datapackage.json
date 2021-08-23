@@ -1,0 +1,103 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Production/Services",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Production sector",
+                "Services sector",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Industry Sector",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Agriculture, mining, electricity, gas, water and waste",
+                "Manufacturing",
+                "Construction",
+                "Wholesale and retail trade; repair of motor vehicles",
+                "Transportation and storage",
+                "Accommodation and food service activities",
+                "Information and communication",
+                "Financial and insurance activities",
+                "Real estate activities",
+                "Professional, scientific and technical activities",
+                "Administrative and support service activities",
+                "Public administration and defence",
+                "Education",
+                "Human health and social work activities",
+                "Arts, entertainment and recreation",
+                "Other service activities",
+                "Activities of households",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Industry Sub Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Manufacture of food, beverages, textiles and clothing",
+                "Manufacture of wood, petroleum, chemicals and minerals",
+                "Manufacture of metals, electrical products and machinery",
+                "Other manufacturing, repair and installation",
+                "Construction of buildings",
+                "Civil engineering",
+                "Specialised construction activities",
+                "Motor trades",
+                "Wholesale trade",
+                "Retail trade",
+                "Land, water and air transport",
+                "Warehousing, transport support, postal and courier activities",
+                "Real estate activities, excluding imputed rental",
+                "Owner-occupiers' imputed rental",
+                "Legal and accounting activities",
+                "Head offices and management consultancy",
+                "Architectural and engineering activities",
+                "Other professional, scientific and technical activities",
+                "Rental and leasing activities",
+                "Employment activities; tourism and security services",
+                "Services to buildings and landscape activities",
+                "Office administration and business support activities",
+                "Human health and residential care activities",
+                "Social work activities",
+                "Human health and social work activities",
+                "Arts, entertainment and recreation",
+                "Membership organisations; repair of household goods",
+                "Other personal service activities",
+                "Households as employers and own use production",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "9-3-1",
+  "title": "global_indicators.9-3-1-title"
+}

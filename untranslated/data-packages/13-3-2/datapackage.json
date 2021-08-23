@@ -1,0 +1,52 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "% concerned about climate change",
+                "% very concerned about climate change",
+                "% who have changed the way they travel around Bristol due to climate change concerns",
+                "% who have changed the way they travel due to climate change concerns",
+                "% who have changed what they buy due to climate change concerns",
+                "% who have eaten less meat and dairy produce due to climate change concerns",
+                "% who have reduced energy use at home due to climate change concerns",
+                "% who have reduced flying for holidays due to climate change concerns",
+                "% who have reduced their household waste due to climate change concerns",
+                "% who think Bristol's economy will be affected by climate change",
+                "% who think Bristol's weather will be affected by climate change",
+                "% who think their health will be affected by climate change",
+                "% who think their neighbourhood will be affected by climate change",
+                "% who think their work will be affected by climate change",
+                "% whose mental health has suffered due to climate change worries",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "13-3-2",
+  "title": "global_indicators.13-3-2-title"
+}
