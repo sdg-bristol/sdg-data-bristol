@@ -3,27 +3,27 @@ Indicator available,Bristol river ecological status
 Indicator description,Ecological status of Bristol’s water catchment classified by the Water Framework Directive
 National comparability,Comparable to other Local authorities
 Unit of measurement,% Proportion of water cachement monitors
-Definitions,"what data is being shown specifically, "
-Calculations,Calculations performed on the dataset
-Other information,"Any other info on the dataset, e.g. data control applied?"
+Definitions,"the proportion of rivers in Good, moderate, poor and bad ecological status."
+Calculations,
+Other information,
 Settings,
 Reporting status,complete
 Non-statistical indicator,N
 Graph type,line
-Graph title,"Title of the graph, usually indicator name"
+Graph title,Bristol river ecological status
 Indicator content,
 Sources,
-Source 1 organisation,Org name
+Source 1 organisation,Environment Agency
 Source 1 periodicity,Annual
-Source 1 earliest available data,Initial datapoint
+Source 1 earliest available data,2012
 Source 1 geographical coverage,Bristol
-Source 1 link to data source,Link
-Source 1 link to data source text,Text for link
-Source 1 release date,10/10/2019
+Source 1 link to data source,Water Body Status Classification Severn River Basin District - data.gov.uk
+Source 1 link to data source text,Water Body Status Classification Severn River Basin District
+Source 1 release date,2019
 Source 1 next release,TBA
 Source 1 statistical classification,Official Statistic
-Source 1 contact details,Contact details for those responsible for dataset ideally
-Source 1 other information,Other info specific to this dataset
+Source 1 contact details,DSPcustomerforum@environment-agency.gov.uk
+Source 1 other information,
 Source 2 organisation,
 Source 2 periodicity,
 Source 2 earliest available data,
