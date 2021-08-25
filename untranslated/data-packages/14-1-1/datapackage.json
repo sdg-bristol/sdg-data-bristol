@@ -15,12 +15,14 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "River Ecological status",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Good",
+                "Moderate",
+                "Poor",
+                "Bad",
                 ""
               ]
             }

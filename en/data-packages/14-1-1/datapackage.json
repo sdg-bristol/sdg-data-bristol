@@ -11,16 +11,18 @@
       "schema": {
         "fields": [
           {
-            "name": "Group",
+            "name": "River Ecological status",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "A",
-                "B"
+                "Bad",
+                "Good",
+                "Moderate",
+                "Poor"
               ]
             },
-            "title": "Group"
+            "title": "River Ecological status"
           },
           {
             "name": "Value",
