@@ -1,29 +1,29 @@
 ﻿National metadata,
-Indicator available,Dataset title
-Indicator description,Description of dataset
+Indicator available,Percentage satisfied with the way the council runs things
+Indicator description,Percentage of respondents to survey determined to be satisfied with the way the council runs things
 National comparability,Comparable to other Local authorities
-Unit of measurement,Units on Y axis
-Definitions,"what data is being shown specifically, "
-Calculations,Calculations performed on the dataset
+Unit of measurement,%
+Definitions,"Number of respondents who select/tick ""very satisfied"" or ""fairly satisfied"" divided by total number of respondents excluding ""don't know"""
+Calculations,"No additional calculations were performed on the dataset and it is shown as found. The dataset specifies its calculations as the number of respondents who select/tick ""very satisfied"" or ""fairly satisfied"" divided by total number of respondents excluding ""don't know""."
 Other information,"Any other info on the dataset, e.g. data control applied?"
 Settings,
 Reporting status,complete
 Non-statistical indicator,N
 Graph type,line
-Graph title,"Title of the graph, usually indicator name"
+Graph title,Percentage satisfied with the way the council runs things
 Indicator content,
 Sources,
-Source 1 organisation,Org name
+Source 1 organisation,Bristol city council
 Source 1 periodicity,Annual
-Source 1 earliest available data,Initial datapoint
+Source 1 earliest available data,2010
 Source 1 geographical coverage,Bristol
-Source 1 link to data source,Link
-Source 1 link to data source text,Text for link
-Source 1 release date,10/10/2019
+Source 1 link to data source,https://www.bristol.gov.uk/statistics-census-information/the-quality-of-life-in-bristol
+Source 1 link to data source text,Bristol QOL survey
+Source 1 release date,08/06/2021
 Source 1 next release,TBA
-Source 1 statistical classification,Official Statistic
-Source 1 contact details,Contact details for those responsible for dataset ideally
-Source 1 other information,Other info specific to this dataset
+Source 1 statistical classification,
+Source 1 contact details,https://opendata.bristol.gov.uk/pages/contact/
+Source 1 other information,
 Source 2 organisation,
 Source 2 periodicity,
 Source 2 earliest available data,
