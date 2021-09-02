@@ -1,29 +1,29 @@
-National metadata,
-Indicator available,Proportion of workers in Public and Private sector by sex
-Indicator description,Proportion of workers in Public and Private sector by sex
-National comparability,Comparable across UK local authorities
-Unit of measurement,Percentage
-Definitions,
-Calculations,No Calculations
-Other information,"The preferred source of statistics for public sector employment is the Quarterly Public Sector Employment Survey (QPSES) and external sources, however, figures from this source are not available below government office region level. Individuals in the Annual Population Survey (APS) are classified to the public or private sector according to their responses to the survey. Consequently, the classification of an individuals sector may differ from how they would be classified in QPSES statistics. Official estimates of public sector employment compiled from QPSES are generally lower than estimates available from APS. This is partially because many people who work within public sector premises, whilst being employed by private sector organizations, will classify themselves as working in the public sector, e.g. cleaners or security guards employed by a contractor to work at public sector premises. Results of QPSES are available at: http://www.ons.gov.uk/ons/rel/pse/public-sector-employment/index.html A brief guide to sources of public sector data is available from here:  http://www.ons.gov.uk/ons/rel/pse/public-sector-employment/a-brief-guide-to-sources-of-public-sector-employment-statistics/index.html."
+﻿National metadata,
+Indicator available,Dataset title
+Indicator description,Description of dataset
+National comparability,Comparable to other Local authorities
+Unit of measurement,Units on Y axis
+Definitions,"what data is being shown specifically, "
+Calculations,Calculations performed on the dataset
+Other information,"Any other info on the dataset, e.g. data control applied?"
 Settings,
 Reporting status,complete
 Non-statistical indicator,N
 Graph type,line
-Graph title,Proportion of workers in Public and Private sector by sex
+Graph title,"Title of the graph, usually indicator name"
 Indicator content,
 Sources,
-Source 1 organisation,Office for National Statistics
+Source 1 organisation,Org name
 Source 1 periodicity,Annual
-Source 1 earliest available data,2004
+Source 1 earliest available data,Initial datapoint
 Source 1 geographical coverage,Bristol
-Source 1 link to data source,https://www.nomisweb.co.uk/query/construct/summary.asp?changing=yes&dataset=17&anal=5&version=0
-Source 1 link to data source text,Annual Population Survey
-Source 1 release date,13/10/2020
+Source 1 link to data source,Link
+Source 1 link to data source text,Text for link
+Source 1 release date,10/10/2019
 Source 1 next release,TBA
-Source 1 statistical classification,National Statistics
-Source 1 contact details,support@nomisweb.co.uk
-Source 1 other information,Using January to December survey periods as annual figures
+Source 1 statistical classification,Official Statistic
+Source 1 contact details,Contact details for those responsible for dataset ideally
+Source 1 other information,Other info specific to this dataset
 Source 2 organisation,
 Source 2 periodicity,
 Source 2 earliest available data,
@@ -51,7 +51,7 @@ Source 4 periodicity,
 Source 4 earliest available data,
 Source 4 geographical coverage,
 Source 4 link to data source,
-Source 3 link to data source text,
+Source 4 link to data source text,
 Source 4 release date,
 Source 4 next release,
 Source 4 statistical classification,
