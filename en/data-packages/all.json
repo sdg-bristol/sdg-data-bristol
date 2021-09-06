@@ -4908,30 +4908,6 @@
       "title": "Coverage by protected areas of important sites for mountain biodiversity"
     },
     {
-      "path": "15-1-1-a/data.csv",
-      "name": "15-1-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "15-1-1-a"
-    },
-    {
       "path": "12-b-1/data.csv",
       "name": "12-b-1",
       "profile": "tabular-data-resource",
@@ -7003,20 +6979,20 @@
       "schema": {
         "fields": [
           {
-            "name": "Units",
+            "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "% Tree canopy cover in Bristol",
-                "Green area (hectares) per 100,000 population"
+                "A",
+                "B"
               ]
             },
-            "title": "Units"
+            "title": "Group"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {

@@ -11,20 +11,20 @@
       "schema": {
         "fields": [
           {
-            "name": "Units",
+            "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "% Tree canopy cover in Bristol",
-                "Green area (hectares) per 100,000 population"
+                "A",
+                "B"
               ]
             },
-            "title": "Units"
+            "title": "Group"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
