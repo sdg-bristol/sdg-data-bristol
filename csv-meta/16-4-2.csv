@@ -1,28 +1,28 @@
 ﻿National metadata,
-Indicator available,Green area in bristol
-Indicator description,"A summary of green area in bristol by the percentage of tree canopy cover available in bristol and the number of hectares for every 100,000 people"
+Indicator available,Crime (recorded by Police) by selected offence groups
+Indicator description,A yearly snapshot depicting the crime rate in bristol per 1000 persons.
 National comparability,Comparable to other Local authorities
-Unit of measurement,
-Definitions,"The percentage of tree canopy cover available in bristol and the number of hectares for every 100,000 people"
-Calculations,No calculations were performed and the data is presented as found
+Unit of measurement,Per 1000
+Definitions,"Burglary and violent & sexual offence incidents against the total number of crimes reported to the police. Provided at ward level and expressed as a rate per 1,000 of the ward population."
+Calculations,No additiona calculations have been performed on the data and it is presented as found
 Other information,
 Settings,
 Reporting status,complete
 Non-statistical indicator,N
 Graph type,line
-Graph title,Green area in bristol
+Graph title,Crime (recorded by Police) by selected offence groups
 Indicator content,
 Sources,
-Source 1 organisation,Bristol University
-Source 1 periodicity,Annual
-Source 1 earliest available data,2010
+Source 1 organisation,Bristol City Council
+Source 1 periodicity,annual
+Source 1 earliest available data,2016/17
 Source 1 geographical coverage,Bristol
-Source 1 link to data source,https://www.bristol.ac.uk/media-library/sites/cabot-institute-2018/documents/BRISTOL%20AND%20THE%20SDGs.pdf
-Source 1 link to data source text,Bristol VLR 2019
-Source 1 release date,Jul-19
-Source 1 next release,TBD
-Source 1 statistical classification,
-Source 1 contact details,City.office@bristol.gov.uk
+Source 1 link to data source,https://opendata.bristol.gov.uk/explore/dataset/crime-recorded-by-police-by-selected-offence-groups-in-bristol-by-ward/information/?disjunctive.ward_name&refine.ward_name=Bristol&refine.ward_name=Bishopsworth&sort=year
+Source 1 link to data source text,Bristol Open Data
+Source 1 release date,19/05/2021
+Source 1 next release,TBA
+Source 1 statistical classification,Official Statistic
+Source 1 contact details,https://opendata.bristol.gov.uk/pages/contact/
 Source 1 other information,
 Source 2 organisation,
 Source 2 periodicity,

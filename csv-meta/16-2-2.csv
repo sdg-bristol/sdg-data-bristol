@@ -1,28 +1,28 @@
 ﻿National metadata,
-Indicator available,Proportion of female councillors
-Indicator description,Bristol councellors that are female
-National comparability,Comparable with other local authorities
-Unit of measurement,%
-Definitions,Elected councillors in Bristol that are female
-Calculations,Calculations performed on the dataset
-Other information,"Report prepared by Sean Fox and Allan MacLeod"
+Indicator available,Number of new recorded cases of human trafficking
+Indicator description,Number of new recorded cases of human trafficking
+National comparability,Comparable to other Local authorities
+Unit of measurement,Number of cases
+Definitions,Number of new recorded cases of human trafficking
+Calculations,Dataset has not been modified
+Other information,
 Settings,
 Reporting status,complete
 Non-statistical indicator,N
 Graph type,line
-Graph title,"Proportion of female Councillors in Bristol"
+Graph title,Number of new recorded cases of human trafficking
 Indicator content,
 Sources,
-Source 1 organisation,Bristol University
+Source 1 organisation,Anti-social behavior team
 Source 1 periodicity,Annual
 Source 1 earliest available data,2016
 Source 1 geographical coverage,Bristol
-Source 1 link to data source,https://www.bristol.ac.uk/media-library/sites/cabot-institute-2018/documents/BRISTOL%20AND%20THE%20SDGs.pdf
-Source 1 link to data source text,Bristol VLR 2019
-Source 1 release date,Jul-19
-Source 1 next release,TBD
+Source 1 link to data source,
+Source 1 link to data source text,
+Source 1 release date,2019
+Source 1 next release,TBC
 Source 1 statistical classification,
-Source 1 contact details,City.office@bristol.gov.uk
+Source 1 contact details,city.office@bristol.gov.uk
 Source 1 other information,
 Source 2 organisation,
 Source 2 periodicity,
@@ -51,7 +51,7 @@ Source 4 periodicity,
 Source 4 earliest available data,
 Source 4 geographical coverage,
 Source 4 link to data source,
-Source 3 link to data source text,
+Source 4 link to data source text,
 Source 4 release date,
 Source 4 next release,
 Source 4 statistical classification,

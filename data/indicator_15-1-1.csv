@@ -1,11 +1,7 @@
-Year,Units,Value
-2010,% Tree canopy cover in Bristol,14
-2011,% Tree canopy cover in Bristol,
-2012,% Tree canopy cover in Bristol,
-2013,% Tree canopy cover in Bristol,
-2014,% Tree canopy cover in Bristol,
-2015,% Tree canopy cover in Bristol,
-2016,% Tree canopy cover in Bristol,17
-2017,% Tree canopy cover in Bristol,
-2018,% Tree canopy cover in Bristol,18.6
-2018,"Green area (hectares) per 100,000 population",3000
+Year,Group,Value
+2015,A,1
+2015,B,3
+2015,,2
+2016,A,1
+2016,B,3
+2016,,2
