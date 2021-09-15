@@ -11,13 +11,38 @@
       "schema": {
         "fields": [
           {
+            "name": "Area Name",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "NHS Bristol, North Somerset and South Gloucestershire CCG",
+                "North Bristol",
+                "University Hospitals Bristol and Weston NHS Foundation Trust"
+              ]
+            },
+            "title": "Area Name"
+          },
+          {
+            "name": "Area Type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Acute Trust",
+                "CCGs (2020/21)"
+              ]
+            },
+            "title": "Area Type"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
           }
         ]

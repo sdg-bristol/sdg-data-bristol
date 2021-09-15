@@ -3021,6 +3021,55 @@
       "title": "Proportion of total government spending on essential services (education, health and social protection)"
     },
     {
+      "path": "3-d-2/data.csv",
+      "name": "3-d-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Area Name",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "NHS Bristol, North Somerset and South Gloucestershire CCG",
+                "North Bristol",
+                "University Hospitals Bristol and Weston NHS Foundation Trust"
+              ]
+            },
+            "title": "Area Name"
+          },
+          {
+            "name": "Area Type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Acute Trust",
+                "CCGs (2020/21)"
+              ]
+            },
+            "title": "Area Type"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Percentage of bloodstream infections due to selected antimicrobial-resistant organisms"
+    },
+    {
       "path": "12-2-2/data.csv",
       "name": "12-2-2",
       "profile": "tabular-data-resource",
@@ -8719,30 +8768,6 @@
         ]
       },
       "title": "Prevalence of anaemia in women aged 15 to 49 years, by pregnancy status (percentage)"
-    },
-    {
-      "path": "3-d-2/data.csv",
-      "name": "3-d-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Percentage of bloodstream infections due to selected antimicrobial-resistant organisms"
     }
   ]
 }

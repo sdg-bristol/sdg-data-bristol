@@ -1,6 +1,8 @@
 Disaggregation,Number of indicators,Number of values
 Age,3,9
 Anthropogenic component,1,2
+Area Name,1,3
+Area Type,1,2
 BMI,1,2
 Cause,1,2
 Contraceptive method,1,2
