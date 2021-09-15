@@ -1,5 +1,5 @@
 ﻿National metadata,
-Indicator available,"MRSA bacteraemia cases all counts and 12-month rolling rates, by CCG and month"
+Indicator available,"MRSA bacteraemia cases all counts and 12-month rolling rates, by CCG, Trust and month"
 Indicator description,"IID91933 - Laboratory-confirmed cases of Staphylococcus aureus bacteraemia detected by blood culture confirmed resistant to any of:
 Meticillin
 Oxacillin
@@ -25,13 +25,13 @@ Settings,
 Reporting status,complete
 Non-statistical indicator,N
 Graph type,line
-Graph title,"Title of the graph, usually indicator name"
+Graph title,"MRSA bacteraemia cases all counts and 12-month rolling rates"
 Indicator content,
 Sources,
 Source 1 organisation,PHE Fingertips
 Source 1 periodicity,Monthly
-Source 1 earliest available data,Initial datapoint
-Source 1 geographical coverage,"Bristol, south gloucestershire, somerset"
+Source 1 earliest available data,Nov-14
+Source 1 geographical coverage,"Bristol, South Gloucestershire, Somerset"
 Source 1 link to data source,https://fingertips.phe.org.uk/search/mrsa#page/4/gid/1/pat/15/ati/167/are/E38000222/iid/91933/age/1/sex/4/cat/-1/ctp/-1/cid/4/tbm/1/page-options/car-do-0
 Source 1 link to data source text,PHE Fingertips - MRSA bacteraemia cases all counts and 12-month rolling rates
 Source 1 release date,07/09/2021
@@ -39,27 +39,27 @@ Source 1 next release,TBA
 Source 1 statistical classification,Official Statistic
 Source 1 contact details,profilefeedback@phe.gov.uk
 Source 1 other information,Other info specific to this dataset
-Source 2 organisation,
-Source 2 periodicity,
-Source 2 earliest available data,
-Source 2 geographical coverage,
-Source 2 link to data source,
-Source 2 link to data source text,
-Source 2 release date,
-Source 2 next release,
-Source 2 statistical classification,
-Source 2 contact details,
+Source 2 organisation,PHE Fingertips
+Source 2 periodicity,Annual
+Source 2 earliest available data,2007/08
+Source 2 geographical coverage,Bristol
+Source 2 link to data source,"https://fingertips.phe.org.uk/search/mrsa#page/4/gid/1/pat/15/ati/118/are/RVJ/iid/92171/age/1/sex/4/cat/-1/ctp/-1/cid/4/tbm/1/page-options/car-do-0"
+Source 2 link to data source text,PHE Fingertips
+Source 2 release date,03/11/2020
+Source 2 next release,TBD
+Source 2 statistical classification,Official Statistic
+Source 2 contact details,profilefeedback@phe.gov.uk
 Source 2 other information,
-Source 3 organisation,
-Source 3 periodicity,
-Source 3 earliest available data,
-Source 3 geographical coverage,
+Source 3 organisation,PHE Fingertips
+Source 3 periodicity,Annual
+Source 3 earliest available data,2007/08
+Source 3 geographical coverage,"Bristol, Weston"
 Source 3 link to data source,
 Source 3 link to data source text,
-Source 3 release date,
-Source 3 next release,
-Source 3 statistical classification,
-Source 3 contact details,
+Source 3 release date,06/08/2019
+Source 3 next release,TBD
+Source 3 statistical classification,Official Statistic
+Source 3 contact details,profilefeedback@phe.gov.uk
 Source 3 other information,
 Source 4 organisation,
 Source 4 periodicity,
