@@ -15,6 +15,17 @@
             "type": "integer"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage in fuel poverty",
+                "Kwh per household",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

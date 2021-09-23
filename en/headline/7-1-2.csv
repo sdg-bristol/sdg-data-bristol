@@ -1,10 +1,18 @@
-Year,Value
-2018,9.8
-2017,11.7
-2016,10.8
-2015,12.9
-2014,13.6
-2013,13.2
-2012,11.1
-2011,11.3
-2010,15.0
+Year,Value,Units
+2018,9.8,Percentage in fuel poverty
+2017,11.7,Percentage in fuel poverty
+2016,10.8,Percentage in fuel poverty
+2015,12.9,Percentage in fuel poverty
+2014,13.6,Percentage in fuel poverty
+2013,13.2,Percentage in fuel poverty
+2012,11.1,Percentage in fuel poverty
+2011,11.3,Percentage in fuel poverty
+2010,15.0,Percentage in fuel poverty
+2017,3546.0,Kwh per household
+2016,3648.0,Kwh per household
+2015,3755.0,Kwh per household
+2014,3812.0,Kwh per household
+2013,3853.0,Kwh per household
+2012,3925.0,Kwh per household
+2011,3972.0,Kwh per household
+2010,4027.0,Kwh per household
