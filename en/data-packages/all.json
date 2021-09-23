@@ -4150,15 +4150,15 @@
             "constraints": {
               "enum": [
                 "",
-                "A",
-                "B"
+                "Adults who participated in education or training in the last four weeks",
+                "Adults without a full Level 2 qualification"
               ]
             },
             "title": "Group"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           },
           {

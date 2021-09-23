@@ -25,6 +25,7 @@ Indicator,Disaggregations,Number of disaggregations
 #4-1-1,"Sex, Subject",2
 #4-2-1,"Sex, Learning category, Learning sub-category (higher), Learning sub-category (lower)",4
 #4-2-2,Age,1
+#4-4-1,Group,1
 #4-6-1,Gender,1
 #7-2-1,Renewable energy source,1
 #8-3-1,Group,1

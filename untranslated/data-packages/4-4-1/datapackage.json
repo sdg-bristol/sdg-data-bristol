@@ -19,15 +19,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Adults without a full Level 2 qualification",
+                "Adults who participated in education or training in the last four weeks",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }
