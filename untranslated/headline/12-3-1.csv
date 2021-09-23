@@ -1,3 +1,9 @@
-Year,Value
-2015,2
-2016,2
+Year,Value,Units
+2015,10662.52,Tonnes (Kg)
+2016,11070.14,Tonnes (Kg)
+2017,11355.3,Tonnes (Kg)
+2018,12839.2,Tonnes (Kg)
+2015,24.02,Tonnes (Kg) per person
+2016,24.57,Tonnes (Kg) per person
+2017,24.9,Tonnes (Kg) per person
+2018,27.95,Tonnes (Kg) per person
