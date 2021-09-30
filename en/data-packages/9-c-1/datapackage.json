@@ -16,17 +16,16 @@
             "title": "GeoCode"
           },
           {
-            "name": "Group",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Access to mobile broadband at home - Bristol Average",
-                "Access to mobile broadband at home - Wards",
+                "Access to mobile broadband at home",
                 "Have used the internet in the last 3 months"
               ]
             },
-            "title": "Group"
+            "title": "Series"
           },
           {
             "name": "Value",

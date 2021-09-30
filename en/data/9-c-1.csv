@@ -1,8 +1,8 @@
-Year,Group,Ward name,GeoCode,Value
-2017,Access to mobile broadband at home - Bristol Average,,,39.2
-2018,Access to mobile broadband at home - Bristol Average,,,27.1
-2019,Access to mobile broadband at home - Bristol Average,,,29.2
-2020,Access to mobile broadband at home - Bristol Average,,,26.4
+Year,Series,Ward name,GeoCode,Value
+2017,Access to mobile broadband at home,,,39.2
+2018,Access to mobile broadband at home,,,27.1
+2019,Access to mobile broadband at home,,,29.2
+2020,Access to mobile broadband at home,,,26.4
 2014,Have used the internet in the last 3 months,,,89.7
 2015,Have used the internet in the last 3 months,,,91.3
 2016,Have used the internet in the last 3 months,,,94.9
@@ -10,105 +10,105 @@ Year,Group,Ward name,GeoCode,Value
 2018,Have used the internet in the last 3 months,,,92.8
 2019,Have used the internet in the last 3 months,,,95.4
 2020,Have used the internet in the last 3 months,,,94.7
-2020,Access to mobile broadband at home - Wards,Stockwood,E05010915,28.6151349
-2020,Access to mobile broadband at home - Wards,Westbury-on-Trym & Henleaze,E05010917,27.53826803
-2020,Access to mobile broadband at home - Wards,Avonmouth & Lawrence Weston,E05010886,26.87194718
-2020,Access to mobile broadband at home - Wards,Eastville,E05010897,30.58927201
-2020,Access to mobile broadband at home - Wards,Horfield,E05010904,23.76920768
-2020,Access to mobile broadband at home - Wards,Knowle,E05010906,30.7726762
-2020,Access to mobile broadband at home - Wards,Bedminster,E05010887,20.56461809
-2020,Access to mobile broadband at home - Wards,Brislington East,E05010890,18.36395889
-2020,Access to mobile broadband at home - Wards,Frome Vale,E05010899,23.51503973
-2020,Access to mobile broadband at home - Wards,Hotwells & Harbourside,E05010905,25.16465317
-2020,Access to mobile broadband at home - Wards,Lawrence Hill,E05010907,34.33883326
-2020,Access to mobile broadband at home - Wards,St George West,E05010912,34.43961915
-2020,Access to mobile broadband at home - Wards,Clifton Down,E05010894,29.36158211
-2020,Access to mobile broadband at home - Wards,St George Central,E05010910,27.54495123
-2020,Access to mobile broadband at home - Wards,Bishopston & Ashley Down,E05010888,26.72262992
-2020,Access to mobile broadband at home - Wards,Clifton,E05010893,23.28420697
-2020,Access to mobile broadband at home - Wards,Easton,E05010896,15.70332932
-2020,Access to mobile broadband at home - Wards,Hartcliffe & Withywood,E05010900,31.30352771
-2020,Access to mobile broadband at home - Wards,Hengrove & Whitchurch Park,E05010902,24.06129526
-2020,Access to mobile broadband at home - Wards,Lockleaze,E05010908,24.21112401
-2020,Access to mobile broadband at home - Wards,Ashley,E05010885,32.89045712
-2020,Access to mobile broadband at home - Wards,Central,E05010892,35.64633591
-2020,Access to mobile broadband at home - Wards,Redland,E05010909,26.20842777
-2020,Access to mobile broadband at home - Wards,Southville,E05010914,21.61252603
-2020,Access to mobile broadband at home - Wards,Stoke Bishop,E05010916,23.38588623
-2020,Access to mobile broadband at home - Wards,Brislington West,E05010891,25.05732185
-2020,Access to mobile broadband at home - Wards,Cotham,E05010895,26.74443885
-2020,Access to mobile broadband at home - Wards,St George Troopers Hill,E05010911,26.07338816
-2020,Access to mobile broadband at home - Wards,Southmead,E05010913,24.60715854
-2020,Access to mobile broadband at home - Wards,Windmill Hill,E05010918,24.11094109
-2020,Access to mobile broadband at home - Wards,Bishopsworth,E05010889,17.59027342
-2020,Access to mobile broadband at home - Wards,Filwood,E05010898,24.07725097
-2020,Access to mobile broadband at home - Wards,Henbury & Brentry,E05010901,24.86872201
-2020,Access to mobile broadband at home - Wards,Hillfields,E05010903,25.16724093
-2019,Access to mobile broadband at home - Wards,Bishopston & Ashley Down,E05010888,24.38515373
-2019,Access to mobile broadband at home - Wards,Southmead,E05010913,20.76196907
-2019,Access to mobile broadband at home - Wards,Ashley,E05010885,36.90078532
-2019,Access to mobile broadband at home - Wards,Bishopsworth,E05010889,25.58435618
-2019,Access to mobile broadband at home - Wards,Central,E05010892,25.75811998
-2019,Access to mobile broadband at home - Wards,Clifton,E05010893,30.88503865
-2019,Access to mobile broadband at home - Wards,Clifton Down,E05010894,26.39925866
-2019,Access to mobile broadband at home - Wards,Redland,E05010909,30.24929207
-2019,Access to mobile broadband at home - Wards,St George Central,E05010910,32.36419566
-2019,Access to mobile broadband at home - Wards,Stoke Bishop,E05010916,26.08339922
-2019,Access to mobile broadband at home - Wards,Westbury-on-Trym & Henleaze,E05010917,22.4901227
-2019,Access to mobile broadband at home - Wards,Windmill Hill,E05010918,26.93614512
-2019,Access to mobile broadband at home - Wards,Brislington East,E05010890,33.08025605
-2019,Access to mobile broadband at home - Wards,Hotwells & Harbourside,E05010905,32.3680323
-2019,Access to mobile broadband at home - Wards,Knowle,E05010906,24.79732551
-2019,Access to mobile broadband at home - Wards,St George Troopers Hill,E05010911,23.66505562
-2019,Access to mobile broadband at home - Wards,Hartcliffe & Withywood,E05010900,25.78344232
-2019,Access to mobile broadband at home - Wards,Southville,E05010914,25.5240441
-2019,Access to mobile broadband at home - Wards,Cotham,E05010895,28.13873274
-2019,Access to mobile broadband at home - Wards,Eastville,E05010897,25.00198704
-2019,Access to mobile broadband at home - Wards,Lockleaze,E05010908,25.05220044
-2019,Access to mobile broadband at home - Wards,Bedminster,E05010887,24.53793175
-2019,Access to mobile broadband at home - Wards,Filwood,E05010898,27.76255198
-2019,Access to mobile broadband at home - Wards,Hillfields,E05010903,32.52245088
-2019,Access to mobile broadband at home - Wards,Horfield,E05010904,25.18321973
-2019,Access to mobile broadband at home - Wards,Stockwood,E05010915,36.21193902
-2019,Access to mobile broadband at home - Wards,Frome Vale,E05010899,35.62654382
-2019,Access to mobile broadband at home - Wards,Easton,E05010896,31.56927785
-2019,Access to mobile broadband at home - Wards,Henbury & Brentry,E05010901,22.85532791
-2019,Access to mobile broadband at home - Wards,Hengrove & Whitchurch Park,E05010902,41.10755795
-2019,Access to mobile broadband at home - Wards,Lawrence Hill,E05010907,32.79937462
-2019,Access to mobile broadband at home - Wards,St George West,E05010912,33.49612447
-2019,Access to mobile broadband at home - Wards,Avonmouth & Lawrence Weston,E05010886,39.43123722
-2019,Access to mobile broadband at home - Wards,Brislington West,E05010891,29.29461548
-2018,Access to mobile broadband at home - Wards,Easton,E05010896,21.08134877
-2018,Access to mobile broadband at home - Wards,Hengrove & Whitchurch Park,E05010902,32.39067453
-2018,Access to mobile broadband at home - Wards,Horfield,E05010904,27.4402026
-2018,Access to mobile broadband at home - Wards,Hotwells & Harbourside,E05010905,19.94088255
-2018,Access to mobile broadband at home - Wards,Knowle,E05010906,31.65067034
-2018,Access to mobile broadband at home - Wards,St George Central,E05010910,27.72350324
-2018,Access to mobile broadband at home - Wards,Bishopston & Ashley Down,E05010888,27.36250213
-2018,Access to mobile broadband at home - Wards,Brislington East,E05010890,25.40893003
-2018,Access to mobile broadband at home - Wards,Bedminster,E05010887,17.8210058
-2018,Access to mobile broadband at home - Wards,Brislington West,E05010891,20.23531626
-2018,Access to mobile broadband at home - Wards,Clifton,E05010893,19.29179361
-2018,Access to mobile broadband at home - Wards,Hartcliffe & Withywood,E05010900,34.46017597
-2018,Access to mobile broadband at home - Wards,St George Troopers Hill,E05010911,34.26543376
-2018,Access to mobile broadband at home - Wards,Lawrence Hill,E05010907,27.91427996
-2018,Access to mobile broadband at home - Wards,Southmead,E05010913,20.41216488
-2018,Access to mobile broadband at home - Wards,Windmill Hill,E05010918,30.03025614
-2018,Access to mobile broadband at home - Wards,Ashley,E05010885,25.65195256
-2018,Access to mobile broadband at home - Wards,Avonmouth & Lawrence Weston,E05010886,30.39874933
-2018,Access to mobile broadband at home - Wards,Bishopsworth,E05010889,28.06102718
-2018,Access to mobile broadband at home - Wards,Central,E05010892,34.14929224
-2018,Access to mobile broadband at home - Wards,Eastville,E05010897,24.66910316
-2018,Access to mobile broadband at home - Wards,Redland,E05010909,25.41001219
-2018,Access to mobile broadband at home - Wards,Westbury-on-Trym & Henleaze,E05010917,28.61224681
-2018,Access to mobile broadband at home - Wards,Cotham,E05010895,24.5789973
-2018,Access to mobile broadband at home - Wards,Filwood,E05010898,32.52556372
-2018,Access to mobile broadband at home - Wards,Henbury & Brentry,E05010901,31.22207532
-2018,Access to mobile broadband at home - Wards,Hillfields,E05010903,32.1733358
-2018,Access to mobile broadband at home - Wards,Southville,E05010914,26.47075553
-2018,Access to mobile broadband at home - Wards,St George West,E05010912,22.81473842
-2018,Access to mobile broadband at home - Wards,Stoke Bishop,E05010916,23.50378165
-2018,Access to mobile broadband at home - Wards,Clifton Down,E05010894,22.3563845
-2018,Access to mobile broadband at home - Wards,Frome Vale,E05010899,25.55816659
-2018,Access to mobile broadband at home - Wards,Lockleaze,E05010908,25.77307483
-2018,Access to mobile broadband at home - Wards,Stockwood,E05010915,27.84170521
+2020,Access to mobile broadband at home,Stockwood,E05010915,28.6151349
+2020,Access to mobile broadband at home,Westbury-on-Trym & Henleaze,E05010917,27.53826803
+2020,Access to mobile broadband at home,Avonmouth & Lawrence Weston,E05010886,26.87194718
+2020,Access to mobile broadband at home,Eastville,E05010897,30.58927201
+2020,Access to mobile broadband at home,Horfield,E05010904,23.76920768
+2020,Access to mobile broadband at home,Knowle,E05010906,30.7726762
+2020,Access to mobile broadband at home,Bedminster,E05010887,20.56461809
+2020,Access to mobile broadband at home,Brislington East,E05010890,18.36395889
+2020,Access to mobile broadband at home,Frome Vale,E05010899,23.51503973
+2020,Access to mobile broadband at home,Hotwells & Harbourside,E05010905,25.16465317
+2020,Access to mobile broadband at home,Lawrence Hill,E05010907,34.33883326
+2020,Access to mobile broadband at home,St George West,E05010912,34.43961915
+2020,Access to mobile broadband at home,Clifton Down,E05010894,29.36158211
+2020,Access to mobile broadband at home,St George Central,E05010910,27.54495123
+2020,Access to mobile broadband at home,Bishopston & Ashley Down,E05010888,26.72262992
+2020,Access to mobile broadband at home,Clifton,E05010893,23.28420697
+2020,Access to mobile broadband at home,Easton,E05010896,15.70332932
+2020,Access to mobile broadband at home,Hartcliffe & Withywood,E05010900,31.30352771
+2020,Access to mobile broadband at home,Hengrove & Whitchurch Park,E05010902,24.06129526
+2020,Access to mobile broadband at home,Lockleaze,E05010908,24.21112401
+2020,Access to mobile broadband at home,Ashley,E05010885,32.89045712
+2020,Access to mobile broadband at home,Central,E05010892,35.64633591
+2020,Access to mobile broadband at home,Redland,E05010909,26.20842777
+2020,Access to mobile broadband at home,Southville,E05010914,21.61252603
+2020,Access to mobile broadband at home,Stoke Bishop,E05010916,23.38588623
+2020,Access to mobile broadband at home,Brislington West,E05010891,25.05732185
+2020,Access to mobile broadband at home,Cotham,E05010895,26.74443885
+2020,Access to mobile broadband at home,St George Troopers Hill,E05010911,26.07338816
+2020,Access to mobile broadband at home,Southmead,E05010913,24.60715854
+2020,Access to mobile broadband at home,Windmill Hill,E05010918,24.11094109
+2020,Access to mobile broadband at home,Bishopsworth,E05010889,17.59027342
+2020,Access to mobile broadband at home,Filwood,E05010898,24.07725097
+2020,Access to mobile broadband at home,Henbury & Brentry,E05010901,24.86872201
+2020,Access to mobile broadband at home,Hillfields,E05010903,25.16724093
+2019,Access to mobile broadband at home,Bishopston & Ashley Down,E05010888,24.38515373
+2019,Access to mobile broadband at home,Southmead,E05010913,20.76196907
+2019,Access to mobile broadband at home,Ashley,E05010885,36.90078532
+2019,Access to mobile broadband at home,Bishopsworth,E05010889,25.58435618
+2019,Access to mobile broadband at home,Central,E05010892,25.75811998
+2019,Access to mobile broadband at home,Clifton,E05010893,30.88503865
+2019,Access to mobile broadband at home,Clifton Down,E05010894,26.39925866
+2019,Access to mobile broadband at home,Redland,E05010909,30.24929207
+2019,Access to mobile broadband at home,St George Central,E05010910,32.36419566
+2019,Access to mobile broadband at home,Stoke Bishop,E05010916,26.08339922
+2019,Access to mobile broadband at home,Westbury-on-Trym & Henleaze,E05010917,22.4901227
+2019,Access to mobile broadband at home,Windmill Hill,E05010918,26.93614512
+2019,Access to mobile broadband at home,Brislington East,E05010890,33.08025605
+2019,Access to mobile broadband at home,Hotwells & Harbourside,E05010905,32.3680323
+2019,Access to mobile broadband at home,Knowle,E05010906,24.79732551
+2019,Access to mobile broadband at home,St George Troopers Hill,E05010911,23.66505562
+2019,Access to mobile broadband at home,Hartcliffe & Withywood,E05010900,25.78344232
+2019,Access to mobile broadband at home,Southville,E05010914,25.5240441
+2019,Access to mobile broadband at home,Cotham,E05010895,28.13873274
+2019,Access to mobile broadband at home,Eastville,E05010897,25.00198704
+2019,Access to mobile broadband at home,Lockleaze,E05010908,25.05220044
+2019,Access to mobile broadband at home,Bedminster,E05010887,24.53793175
+2019,Access to mobile broadband at home,Filwood,E05010898,27.76255198
+2019,Access to mobile broadband at home,Hillfields,E05010903,32.52245088
+2019,Access to mobile broadband at home,Horfield,E05010904,25.18321973
+2019,Access to mobile broadband at home,Stockwood,E05010915,36.21193902
+2019,Access to mobile broadband at home,Frome Vale,E05010899,35.62654382
+2019,Access to mobile broadband at home,Easton,E05010896,31.56927785
+2019,Access to mobile broadband at home,Henbury & Brentry,E05010901,22.85532791
+2019,Access to mobile broadband at home,Hengrove & Whitchurch Park,E05010902,41.10755795
+2019,Access to mobile broadband at home,Lawrence Hill,E05010907,32.79937462
+2019,Access to mobile broadband at home,St George West,E05010912,33.49612447
+2019,Access to mobile broadband at home,Avonmouth & Lawrence Weston,E05010886,39.43123722
+2019,Access to mobile broadband at home,Brislington West,E05010891,29.29461548
+2018,Access to mobile broadband at home,Easton,E05010896,21.08134877
+2018,Access to mobile broadband at home,Hengrove & Whitchurch Park,E05010902,32.39067453
+2018,Access to mobile broadband at home,Horfield,E05010904,27.4402026
+2018,Access to mobile broadband at home,Hotwells & Harbourside,E05010905,19.94088255
+2018,Access to mobile broadband at home,Knowle,E05010906,31.65067034
+2018,Access to mobile broadband at home,St George Central,E05010910,27.72350324
+2018,Access to mobile broadband at home,Bishopston & Ashley Down,E05010888,27.36250213
+2018,Access to mobile broadband at home,Brislington East,E05010890,25.40893003
+2018,Access to mobile broadband at home,Bedminster,E05010887,17.8210058
+2018,Access to mobile broadband at home,Brislington West,E05010891,20.23531626
+2018,Access to mobile broadband at home,Clifton,E05010893,19.29179361
+2018,Access to mobile broadband at home,Hartcliffe & Withywood,E05010900,34.46017597
+2018,Access to mobile broadband at home,St George Troopers Hill,E05010911,34.26543376
+2018,Access to mobile broadband at home,Lawrence Hill,E05010907,27.91427996
+2018,Access to mobile broadband at home,Southmead,E05010913,20.41216488
+2018,Access to mobile broadband at home,Windmill Hill,E05010918,30.03025614
+2018,Access to mobile broadband at home,Ashley,E05010885,25.65195256
+2018,Access to mobile broadband at home,Avonmouth & Lawrence Weston,E05010886,30.39874933
+2018,Access to mobile broadband at home,Bishopsworth,E05010889,28.06102718
+2018,Access to mobile broadband at home,Central,E05010892,34.14929224
+2018,Access to mobile broadband at home,Eastville,E05010897,24.66910316
+2018,Access to mobile broadband at home,Redland,E05010909,25.41001219
+2018,Access to mobile broadband at home,Westbury-on-Trym & Henleaze,E05010917,28.61224681
+2018,Access to mobile broadband at home,Cotham,E05010895,24.5789973
+2018,Access to mobile broadband at home,Filwood,E05010898,32.52556372
+2018,Access to mobile broadband at home,Henbury & Brentry,E05010901,31.22207532
+2018,Access to mobile broadband at home,Hillfields,E05010903,32.1733358
+2018,Access to mobile broadband at home,Southville,E05010914,26.47075553
+2018,Access to mobile broadband at home,St George West,E05010912,22.81473842
+2018,Access to mobile broadband at home,Stoke Bishop,E05010916,23.50378165
+2018,Access to mobile broadband at home,Clifton Down,E05010894,22.3563845
+2018,Access to mobile broadband at home,Frome Vale,E05010899,25.55816659
+2018,Access to mobile broadband at home,Lockleaze,E05010908,25.77307483
+2018,Access to mobile broadband at home,Stockwood,E05010915,27.84170521
