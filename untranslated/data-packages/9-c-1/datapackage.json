@@ -19,11 +19,59 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Access to mobile broadband at home",
+                "Access to mobile broadband at home - Bristol Average",
                 "Have used the internet in the last 3 months",
+                "Access to mobile broadband at home - Wards",
                 ""
               ]
             }
+          },
+          {
+            "name": "Ward name",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Stockwood",
+                "Westbury-on-Trym & Henleaze",
+                "Avonmouth & Lawrence Weston",
+                "Eastville",
+                "Horfield",
+                "Knowle",
+                "Bedminster",
+                "Brislington East",
+                "Frome Vale",
+                "Hotwells & Harbourside",
+                "Lawrence Hill",
+                "St George West",
+                "Clifton Down",
+                "St George Central",
+                "Bishopston & Ashley Down",
+                "Clifton",
+                "Easton",
+                "Hartcliffe & Withywood",
+                "Hengrove & Whitchurch Park",
+                "Lockleaze",
+                "Ashley",
+                "Central",
+                "Redland",
+                "Southville",
+                "Stoke Bishop",
+                "Brislington West",
+                "Cotham",
+                "St George Troopers Hill",
+                "Southmead",
+                "Windmill Hill",
+                "Bishopsworth",
+                "Filwood",
+                "Henbury & Brentry",
+                "Hillfields",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
           },
           {
             "name": "Value",
