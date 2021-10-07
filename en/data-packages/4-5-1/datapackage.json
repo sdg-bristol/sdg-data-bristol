@@ -11,20 +11,56 @@
       "schema": {
         "fields": [
           {
-            "name": "Group",
+            "name": "Level",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "A",
-                "B"
+                "Key stage 1",
+                "Key stage 2"
               ]
             },
-            "title": "Group"
+            "title": "Level"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Female",
+                "Male"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Subject",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Maths",
+                "Reading"
+              ]
+            },
+            "title": "Subject"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "% reaching expected standard",
+                "% under 5 years who are developmentally on track"
+              ]
+            },
+            "title": "Unit"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           },
           {
