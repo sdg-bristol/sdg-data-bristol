@@ -1,7 +1,91 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Level,Subject,Sex,Unit,Value
+2010,Key stage 1,Maths,Male,% reaching expected standard,
+2011,Key stage 1,Maths,Male,% reaching expected standard,87
+2012,Key stage 1,Maths,Male,% reaching expected standard,88
+2013,Key stage 1,Maths,Male,% reaching expected standard,89
+2014,Key stage 1,Maths,Male,% reaching expected standard,92
+2015,Key stage 1,Maths,Male,% reaching expected standard,91
+2016,Key stage 1,Maths,Male,% reaching expected standard,69
+2017,Key stage 1,Maths,Male,% reaching expected standard,75
+2018,Key stage 1,Maths,Male,% reaching expected standard,74
+2010,Key stage 1,Maths,Female,% reaching expected standard,
+2011,Key stage 1,Maths,Female,% reaching expected standard,90
+2012,Key stage 1,Maths,Female,% reaching expected standard,92
+2013,Key stage 1,Maths,Female,% reaching expected standard,93
+2014,Key stage 1,Maths,Female,% reaching expected standard,92
+2015,Key stage 1,Maths,Female,% reaching expected standard,94
+2016,Key stage 1,Maths,Female,% reaching expected standard,72
+2017,Key stage 1,Maths,Female,% reaching expected standard,74
+2018,Key stage 1,Maths,Female,% reaching expected standard,75
+2010,Key stage 1,Reading,Male,% reaching expected standard,
+2011,Key stage 1,Reading,Male,% reaching expected standard,80
+2012,Key stage 1,Reading,Male,% reaching expected standard,83
+2013,Key stage 1,Reading,Male,% reaching expected standard,87
+2014,Key stage 1,Reading,Male,% reaching expected standard,87
+2015,Key stage 1,Reading,Male,% reaching expected standard,87
+2016,Key stage 1,Reading,Male,% reaching expected standard,67
+2017,Key stage 1,Reading,Male,% reaching expected standard,71
+2018,Key stage 1,Reading,Male,% reaching expected standard,70
+2010,Key stage 1,Reading,Female,% reaching expected standard,
+2011,Key stage 1,Reading,Female,% reaching expected standard,87
+2012,Key stage 1,Reading,Female,% reaching expected standard,91
+2013,Key stage 1,Reading,Female,% reaching expected standard,92
+2014,Key stage 1,Reading,Female,% reaching expected standard,92
+2015,Key stage 1,Reading,Female,% reaching expected standard,93
+2016,Key stage 1,Reading,Female,% reaching expected standard,76
+2017,Key stage 1,Reading,Female,% reaching expected standard,76
+2018,Key stage 1,Reading,Female,% reaching expected standard,77
+2010,Key stage 2,Maths,Male,% reaching expected standard,81
+2011,Key stage 2,Maths,Male,% reaching expected standard,79
+2012,Key stage 2,Maths,Male,% reaching expected standard,83
+2013,Key stage 2,Maths,Male,% reaching expected standard,83
+2014,Key stage 2,Maths,Male,% reaching expected standard,83
+2015,Key stage 2,Maths,Male,% reaching expected standard,84
+2016,Key stage 2,Maths,Male,% reaching expected standard,69
+2017,Key stage 2,Maths,Male,% reaching expected standard,74
+2018,Key stage 2,Maths,Male,% reaching expected standard,74
+2010,Key stage 2,Maths,Female,% reaching expected standard,79
+2011,Key stage 2,Maths,Female,% reaching expected standard,80
+2012,Key stage 2,Maths,Female,% reaching expected standard,84
+2013,Key stage 2,Maths,Female,% reaching expected standard,85
+2014,Key stage 2,Maths,Female,% reaching expected standard,83
+2015,Key stage 2,Maths,Female,% reaching expected standard,86
+2016,Key stage 2,Maths,Female,% reaching expected standard,68
+2017,Key stage 2,Maths,Female,% reaching expected standard,74
+2018,Key stage 2,Maths,Female,% reaching expected standard,75
+2010,Key stage 2,Reading,Male,% reaching expected standard,79
+2011,Key stage 2,Reading,Male,% reaching expected standard,76
+2012,Key stage 2,Reading,Male,% reaching expected standard,81
+2013,Key stage 2,Reading,Male,% reaching expected standard,83
+2014,Key stage 2,Reading,Male,% reaching expected standard,85
+2015,Key stage 2,Reading,Male,% reaching expected standard,84
+2016,Key stage 2,Reading,Male,% reaching expected standard,63
+2017,Key stage 2,Reading,Male,% reaching expected standard,68
+2018,Key stage 2,Reading,Male,% reaching expected standard,71
+2010,Key stage 2,Reading,Female,% reaching expected standard,85
+2011,Key stage 2,Reading,Female,% reaching expected standard,86
+2012,Key stage 2,Reading,Female,% reaching expected standard,88
+2013,Key stage 2,Reading,Female,% reaching expected standard,88
+2014,Key stage 2,Reading,Female,% reaching expected standard,88
+2015,Key stage 2,Reading,Female,% reaching expected standard,90
+2016,Key stage 2,Reading,Female,% reaching expected standard,70
+2017,Key stage 2,Reading,Female,% reaching expected standard,76
+2018,Key stage 2,Reading,Female,% reaching expected standard,76
+2010,,,Female,% under 5 years who are developmentally on track,
+2011,,,Female,% under 5 years who are developmentally on track,
+2012,,,Female,% under 5 years who are developmentally on track,
+2013,,,Female,% under 5 years who are developmentally on track,56.4
+2014,,,Female,% under 5 years who are developmentally on track,66
+2015,,,Female,% under 5 years who are developmentally on track,70.7
+2016,,,Female,% under 5 years who are developmentally on track,73.9
+2017,,,Female,% under 5 years who are developmentally on track,73.2
+2018,,,Female,% under 5 years who are developmentally on track,75.4
+2010,,,Male,% under 5 years who are developmentally on track,
+2011,,,Male,% under 5 years who are developmentally on track,
+2012,,,Male,% under 5 years who are developmentally on track,
+2013,,,Male,% under 5 years who are developmentally on track,42.7
+2014,,,Male,% under 5 years who are developmentally on track,51
+2015,,,Male,% under 5 years who are developmentally on track,57.3
+2016,,,Male,% under 5 years who are developmentally on track,59.1
+2017,,,Male,% under 5 years who are developmentally on track,62.2
+2018,,,Male,% under 5 years who are developmentally on track,64.2
