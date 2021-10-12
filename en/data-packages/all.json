@@ -8844,6 +8844,30 @@
       "title": "Total greenhouse gas emissions per year"
     },
     {
+      "path": "8-1-1-a/data.csv",
+      "name": "8-1-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Annual growth rate of Gross value added (GVA)"
+    },
+    {
       "path": "10-7-3/data.csv",
       "name": "10-7-3",
       "profile": "tabular-data-resource",
@@ -8866,6 +8890,30 @@
         ]
       },
       "title": "Number of people who died or disappeared in the process of migration towards an international destination"
+    },
+    {
+      "path": "10-7-4/data.csv",
+      "name": "10-7-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Proportion of the population who are refugees, by country of origin"
     },
     {
       "path": "16-3-3/data.csv",
