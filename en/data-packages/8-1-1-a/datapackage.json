@@ -11,13 +11,25 @@
       "schema": {
         "fields": [
           {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "% change",
+                "£ Billion"
+              ]
+            },
+            "title": "Unit"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           }
         ]

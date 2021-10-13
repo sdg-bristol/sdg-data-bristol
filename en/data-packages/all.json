@@ -8249,6 +8249,42 @@
       "title": "Proportion of young women and men aged 18–29 years who experienced sexual violence by age 18"
     },
     {
+      "path": "8-1-1-a/data.csv",
+      "name": "8-1-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "% change",
+                "£ Billion"
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Annual growth rate of Gross value added (GVA)"
+    },
+    {
       "path": "4-2-1/data.csv",
       "name": "4-2-1",
       "profile": "tabular-data-resource",
@@ -8842,30 +8878,6 @@
         ]
       },
       "title": "Total greenhouse gas emissions per year"
-    },
-    {
-      "path": "8-1-1-a/data.csv",
-      "name": "8-1-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Annual growth rate of Gross value added (GVA)"
     },
     {
       "path": "10-7-3/data.csv",
