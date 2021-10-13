@@ -4816,7 +4816,7 @@
       "schema": {
         "fields": [
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4825,7 +4825,7 @@
                 "City Unemployment rate (percent)"
               ]
             },
-            "title": "Group"
+            "title": "Units"
           },
           {
             "name": "Value",
