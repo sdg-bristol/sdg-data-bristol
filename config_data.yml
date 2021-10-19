@@ -57,7 +57,7 @@ map_layers:
     output_subfolder: local_authorities
     filename_prefix: indicator_
 #Ward (Link: https://opendata.arcgis.com/datasets/60ea78fd4f9d47099adfa63c2ccbc8bf_0.geojson)
-  - geojson_file: https://opendata.arcgis.com/datasets/60ea78fd4f9d47099adfa63c2ccbc8bf_0.geojson
+  - geojson_file: geojson/Bristol_Wards_(December_2020)_UK_BGC_V2.geojson
     name_property: WD20NM
     id_property: WD20CD
     output_subfolder: wards
