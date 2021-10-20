@@ -1754,6 +1754,19 @@
             "type": "integer"
           },
           {
+            "name": "Equality Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ethnic minorities",
+                "Women",
+                "Men",
+                "16-24 Year olds",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

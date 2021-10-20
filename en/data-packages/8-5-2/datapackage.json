@@ -11,6 +11,20 @@
       "schema": {
         "fields": [
           {
+            "name": "Equality Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "16-24 Year olds",
+                "Ethnic minorities",
+                "Men",
+                "Women"
+              ]
+            },
+            "title": "Equality Group"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
