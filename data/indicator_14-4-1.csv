@@ -1,7 +1,88 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Site,Parent Site,Species,Value
+29/07/1993,Brinkworth,Brinkworth Brook,Chub,38
+29/07/1993,Brinkworth,Brinkworth Brook,Dace,5
+29/07/1993,Brinkworth,Brinkworth Brook,Gudgeon,25
+29/07/1993,Brinkworth,Brinkworth Brook,Perch,1
+29/07/1993,Brinkworth,Brinkworth Brook,Roach,15
+29/07/1993,Brinkworth,Brinkworth Brook,Bullhead,
+29/07/1993,Brinkworth,Brinkworth Brook,Stone loach,
+29/07/1993,Brinkworth,Brinkworth Brook,Minnow,
+28/07/1993,Hookers Gate,Brinkworth Brook,Chub,92
+28/07/1993,Hookers Gate,Brinkworth Brook,Dace,21
+28/07/1993,Hookers Gate,Brinkworth Brook,Gudgeon,20
+28/07/1993,Hookers Gate,Brinkworth Brook,Roach,25
+28/07/1993,Hookers Gate,Brinkworth Brook,Perch,1
+28/07/1993,Hookers Gate,Brinkworth Brook,Bullhead,
+28/07/1993,Hookers Gate,Brinkworth Brook,Stone loach,
+28/07/1993,Hookers Gate,Brinkworth Brook,3-spined stickleback,
+29/07/1993,Kendricks Farm,Brinkworth Brook,,
+09/10/2013,Knights Farm,Brinkworth Brook,Bullhead,152
+09/10/2013,Knights Farm,Brinkworth Brook,Minnow,25
+09/10/2013,Knights Farm,Brinkworth Brook,Stone loach,27
+09/10/2013,Knights Farm,Brinkworth Brook,3-spined stickleback,9
+15/04/2014,Knights Farm,Brinkworth Brook,Bullhead,135
+15/04/2014,Knights Farm,Brinkworth Brook,Minnow,9
+15/04/2014,Knights Farm,Brinkworth Brook,Stone loach,41
+15/04/2014,Knights Farm,Brinkworth Brook,3-spined stickleback,7
+18/06/2003,Somerford Bridge (Te),Brinkworth Brook,Brown / sea trout,1
+18/06/2003,Somerford Bridge (Te),Brinkworth Brook,Chub,21
+18/06/2003,Somerford Bridge (Te),Brinkworth Brook,Roach,4
+18/06/2003,Somerford Bridge (Te),Brinkworth Brook,Gudgeon,5
+18/06/2003,Somerford Bridge (Te),Brinkworth Brook,Dace,3
+18/06/2003,Somerford Bridge (Te),Brinkworth Brook,European eel,1
+18/06/2003,Somerford Bridge (Te),Brinkworth Brook,Bullhead,
+18/06/2003,Somerford Bridge (Te),Brinkworth Brook,Minnow,
+18/06/2003,Somerford Bridge (Te),Brinkworth Brook,Stone loach,
+18/06/2003,Somerford Bridge (Te),Brinkworth Brook,3-spined stickleback,
+21/07/1993,Somerford Bridge (Te),Brinkworth Brook,Brown / sea trout,1
+21/07/1993,Somerford Bridge (Te),Brinkworth Brook,Chub,127
+21/07/1993,Somerford Bridge (Te),Brinkworth Brook,Dace,74
+21/07/1993,Somerford Bridge (Te),Brinkworth Brook,Gudgeon,63
+21/07/1993,Somerford Bridge (Te),Brinkworth Brook,Perch,3
+21/07/1993,Somerford Bridge (Te),Brinkworth Brook,Roach,23
+21/07/1993,Somerford Bridge (Te),Brinkworth Brook,Minnow,
+21/07/1993,Somerford Bridge (Te),Brinkworth Brook,Bullhead,
+21/07/1993,Somerford Bridge (Te),Brinkworth Brook,Stone loach,
+21/07/1993,Somerford Bridge (Te),Brinkworth Brook,3-spined stickleback,
+01/07/2004,Somerford Bridge (Te),Brinkworth Brook,Chub,16
+01/07/2004,Somerford Bridge (Te),Brinkworth Brook,Dace,5
+01/07/2004,Somerford Bridge (Te),Brinkworth Brook,Roach,2
+01/07/2004,Somerford Bridge (Te),Brinkworth Brook,Gudgeon,7
+01/07/2004,Somerford Bridge (Te),Brinkworth Brook,Brown / sea trout,0
+01/07/2004,Somerford Bridge (Te),Brinkworth Brook,Rainbow trout,0
+01/07/2004,Somerford Bridge (Te),Brinkworth Brook,Bullhead,
+01/07/2004,Somerford Bridge (Te),Brinkworth Brook,Stone loach,
+01/07/2004,Somerford Bridge (Te),Brinkworth Brook,Minnow,
+01/07/2004,Somerford Bridge (Te),Brinkworth Brook,3-spined stickleback,
+10/08/2005,Somerford Bridge (Te),Brinkworth Brook,Chub,8
+10/08/2005,Somerford Bridge (Te),Brinkworth Brook,Roach,2
+10/08/2005,Somerford Bridge (Te),Brinkworth Brook,Gudgeon,2
+10/08/2005,Somerford Bridge (Te),Brinkworth Brook,Dace,3
+10/08/2005,Somerford Bridge (Te),Brinkworth Brook,Bleak,2
+10/08/2005,Somerford Bridge (Te),Brinkworth Brook,Bullhead,
+10/08/2005,Somerford Bridge (Te),Brinkworth Brook,Minnow,
+13/07/2006,Somerford Bridge (Te),Brinkworth Brook,Perch,4
+13/07/2006,Somerford Bridge (Te),Brinkworth Brook,Roach,5
+13/07/2006,Somerford Bridge (Te),Brinkworth Brook,Chub,17
+13/07/2006,Somerford Bridge (Te),Brinkworth Brook,Dace,5
+13/07/2006,Somerford Bridge (Te),Brinkworth Brook,Barbel,1
+13/07/2006,Somerford Bridge (Te),Brinkworth Brook,Gudgeon,2
+13/07/2006,Somerford Bridge (Te),Brinkworth Brook,3-spined stickleback,
+13/07/2006,Somerford Bridge (Te),Brinkworth Brook,Minnow,
+13/07/2006,Somerford Bridge (Te),Brinkworth Brook,Stone loach,
+27/04/2010,Somerford Bridge (Te),Brinkworth Brook,3-spined stickleback,10
+27/04/2010,Somerford Bridge (Te),Brinkworth Brook,Chub,2
+27/04/2010,Somerford Bridge (Te),Brinkworth Brook,Bullhead,84
+27/04/2010,Somerford Bridge (Te),Brinkworth Brook,Dace,32
+27/04/2010,Somerford Bridge (Te),Brinkworth Brook,Minnow,371
+27/04/2010,Somerford Bridge (Te),Brinkworth Brook,European eels > elvers,1
+27/04/2010,Somerford Bridge (Te),Brinkworth Brook,Stone loach,17
+27/04/2010,Somerford Bridge (Te),Brinkworth Brook,Gudgeon,1
+27/04/2010,Somerford Bridge (Te),Brinkworth Brook,Brown / sea trout,1
+15/04/2014,u/s Brinkworth Bridge,Brinkworth Brook,Chub,2
+15/04/2014,u/s Brinkworth Bridge,Brinkworth Brook,Dace,5
+15/04/2014,u/s Brinkworth Bridge,Brinkworth Brook,Gudgeon,1
+15/04/2014,u/s Brinkworth Bridge,Brinkworth Brook,Bullhead,161
+15/04/2014,u/s Brinkworth Bridge,Brinkworth Brook,Stone loach,1
+15/04/2014,u/s Brinkworth Bridge,Brinkworth Brook,Minnow,3
+15/04/2014,u/s Brinkworth Bridge,Brinkworth Brook,3-spined stickleback,7
