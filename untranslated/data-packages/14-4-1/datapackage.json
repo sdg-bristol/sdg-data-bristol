@@ -12,22 +12,60 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "Group",
+            "name": "Site",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Brinkworth",
+                "Hookers Gate",
+                "Kendricks Farm",
+                "Knights Farm",
+                "Somerford Bridge (Te)",
+                "u/s Brinkworth Bridge",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Parent Site",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Brinkworth Brook",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Species",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Chub",
+                "Dace",
+                "Gudgeon",
+                "Perch",
+                "Roach",
+                "Bullhead",
+                "Stone loach",
+                "Minnow",
+                "3-spined stickleback",
+                "Brown / sea trout",
+                "European eel",
+                "Rainbow trout",
+                "Bleak",
+                "Barbel",
+                "European eels > elvers",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }
@@ -35,5 +73,5 @@
   ],
   "profile": "data-package",
   "name": "14-4-1",
-  "title": "global_indicators.14-4-1-title"
+  "title": "localised_indicators.14-4-1-title"
 }

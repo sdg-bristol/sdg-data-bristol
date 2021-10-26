@@ -11,25 +11,65 @@
       "schema": {
         "fields": [
           {
-            "name": "Group",
+            "name": "Parent Site",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "A",
-                "B"
+                "Brinkworth Brook"
               ]
             },
-            "title": "Group"
+            "title": "Parent Site"
+          },
+          {
+            "name": "Site",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Brinkworth",
+                "Hookers Gate",
+                "Kendricks Farm",
+                "Knights Farm",
+                "Somerford Bridge (Te)",
+                "u/s Brinkworth Bridge"
+              ]
+            },
+            "title": "Site"
+          },
+          {
+            "name": "Species",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "3-spined stickleback",
+                "Barbel",
+                "Bleak",
+                "Brown / sea trout",
+                "Bullhead",
+                "Chub",
+                "Dace",
+                "European eel",
+                "European eels > elvers",
+                "Gudgeon",
+                "Minnow",
+                "Perch",
+                "Rainbow trout",
+                "Roach",
+                "Stone loach"
+              ]
+            },
+            "title": "Species"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]
@@ -38,5 +78,5 @@
   ],
   "profile": "data-package",
   "name": "14-4-1",
-  "title": "Proportion of fish stocks within biologically sustainable levels"
+  "title": "Freshwater Fish Counts"
 }
