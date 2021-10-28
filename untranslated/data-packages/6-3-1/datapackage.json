@@ -19,6 +19,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Wessex Water Combined Total",
                 "ABBOTSBURY B3157 PORTESHAM ROAD STW 13001",
                 "ABBOTSBURY CHURCH STREET SPS 15494",
                 "AFFPUDDLE SPS 14256",
