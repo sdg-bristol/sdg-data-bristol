@@ -2,40 +2,40 @@
 Indicator available,River Fly data
 Indicator description,Population of river flies at various points of rivers
 National comparability,Comparable to other cachement areas
-Unit of measurement,River flies found in sample
-Definitions,"what data is being shown specifically, "
+Unit of measurement,River fly population (score)
+Definitions,Sample data of the population of river flies is converted to a score. If the cumculative score for an area dips below an agreed level this is reported and raised as an issue to investigate. 
 Calculations,No further calculations were performed and this dataset is presented as found
-Other information,"Any other info on the dataset, e.g. data control applied?"
+Other information,
 Settings,
 Reporting status,complete
 Non-statistical indicator,N
 Graph type,line
-Graph title,Rivert Fly data
+Graph title,River Fly data
 Use geocodes for mapping,FALSE
 Indicator content,
 Sources,
-Source 1 organisation,The riverfly partnership
+Source 1 organisation,The Riverfly partnership - Anglers' Riverfly Monitoring Initiative
 Source 1 periodicity,
 Source 1 earliest available data,2010
 Source 1 geographical coverage,Bristol-Avon catchment
 Source 1 link to data source,https://www.riverflies.org/open-data
-Source 1 link to data source text,Riverfly open data
+Source 1 link to data source text,Riverfly Open Data
 Source 1 release date,2021
 Source 1 next release,TBA
 Source 1 statistical classification,
 Source 1 contact details,
-Source 1 other information,Dara is crowd sourced
-Source 2 organisation,
+Source 1 other information,Data is crowd sourced
+Source 2 organisation,The Riverfly partnership - Anglers' Riverfly Monitoring Initiative
 Source 2 periodicity,
-Source 2 earliest available data,
-Source 2 geographical coverage,
-Source 2 link to data source,
-Source 2 link to data source text,
-Source 2 release date,
-Source 2 next release,
+Source 2 earliest available data,2014
+Source 2 geographical coverage,Bristol-Avon catchment
+Source 2 link to data source,Data Explorer | Riverflies
+Source 2 link to data source text,Riverfly Data Explorer
+Source 2 release date,2021
+Source 2 next release,TBA
 Source 2 statistical classification,
 Source 2 contact details,
-Source 2 other information,
+Source 2 other information,Data is crowd sourced
 Source 3 organisation,
 Source 3 periodicity,
 Source 3 earliest available data,
