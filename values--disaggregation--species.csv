@@ -2,6 +2,7 @@ Value,Disaggregation combinations using this value,Number of indicators
 10-spined stickleback,1,1
 3-spined stickleback,108,1
 Atlantic salmon,1,1
+Baetidae,58,1
 Barbel,17,1
 Bleak,11,1
 Brook lamprey > ammocoete,1,1
@@ -9,20 +10,26 @@ Brook lamprey ammocoetes,5,1
 Brook lamprey,15,1
 Brown / sea trout,166,1
 Bullhead,145,1
+Cased caddisfly,58,1
+Caseless caddisfly,58,1
 Chub,59,1
 Common bream,14,1
 Common [wild] carp,6,1
 Crucian carp,2,1
 Dace,65,1
+Ephemerellidae,58,1
+Ephemeridae,58,1
 European eel,54,1
 European eels > elvers,42,1
 European elvers,7,1
 European glass eels,1,1
 Feral [brown] goldfish,1,1
 Flounder,2,1
+Gammarus,58,1
 Goldfish varieties,1,1
 Grayling,7,1
 Gudgeon,62,1
+Heptageniidae,58,1
 Lampetra sp. > ammocoete,1,1
 Lampetra sp. ammocoetes,1,1
 Lampetra sp.,2,1
@@ -38,4 +45,5 @@ Roach,85,1
 Rudd,12,1
 Silver bream,3,1
 Stone loach,118,1
+Stoneflies,58,1
 Tench,10,1

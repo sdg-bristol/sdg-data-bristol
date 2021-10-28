@@ -1,0 +1,112 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "Site",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Weavern Long Meadow",
+                "Widdenham Farm",
+                "Honeybrook",
+                "Conygre Mead",
+                "Pinkney",
+                "Woodbridge Bridge",
+                "Upstream of Stretchline",
+                "Tellisford",
+                "Old Cattle Crossing",
+                "Dragonfly Meadow by WWT Vincents Wood Reserve",
+                "Wellow Ford",
+                "Nightingale Valley",
+                "Snuff Mills Steps",
+                "Badocks Wood",
+                "Castlefields Park",
+                "Shrowle",
+                "6, Round House, Calne",
+                "Parsonage Bridge",
+                "Parsonage Farm, Publow",
+                "Damsons Bridge",
+                "adjacent to Frome Bank Gardens",
+                "Monks Pool & Bradley Brook Nature Reserve",
+                "Hambrook",
+                "Frenchay Bridge",
+                "Great Chalfield Manor/Chalfield Farm",
+                "Manor Woods Valley",
+                "Brook Road, Trowbridge",
+                "Church Farm",
+                "Jubilee Park",
+                "Beeches Industrial Estate",
+                "Snuff Mills",
+                "Upper Beat - Brownie Pool",
+                "Upstream of B4060 Wickwar Road Bridge",
+                "Calne Town Centre",
+                "Weir and Mill Race, Rode",
+                "Golden Valley Nature Reserve, Wick",
+                "Frome Valley Walkway",
+                "Wickham/Jenner Close Chipping Sodbury",
+                "Rode Bridge, Miller’s House",
+                "Chippenham Sports Club",
+                "Bath Mill",
+                "At White Bridge",
+                "Chew Stoke Village",
+                "Chew Stoke Waterfall",
+                "Pensford Church",
+                "Eastville Park, Frome Valley Path",
+                "Freshford Inn",
+                "Uplands Field",
+                "Blaise Castle Estate, Hazel Brook",
+                "Combe Dingle",
+                "Sunnybank",
+                "Langham Farm",
+                "Rodden Church",
+                "Vallis",
+                "Wadbury Valley",
+                "New Mill House",
+                "Cradle Bridge",
+                "Watercress Farm on Belmont Estate",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Species",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Gammarus",
+                "Stoneflies",
+                "Baetidae",
+                "Cased caddisfly",
+                "Caseless caddisfly",
+                "Ephemeridae",
+                "Ephemerellidae",
+                "Heptageniidae",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "14-4-1-a",
+  "title": "localised_indicators.14-4-1-a-title"
+}

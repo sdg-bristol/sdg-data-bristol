@@ -8018,6 +8018,116 @@
       "title": "Manufacturing employment as a proportion of total employment"
     },
     {
+      "path": "14-4-1-a/data.csv",
+      "name": "14-4-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Site",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "6, Round House, Calne",
+                "At White Bridge",
+                "Badocks Wood",
+                "Bath Mill",
+                "Beeches Industrial Estate",
+                "Blaise Castle Estate, Hazel Brook",
+                "Brook Road, Trowbridge",
+                "Calne Town Centre",
+                "Castlefields Park",
+                "Chew Stoke Village",
+                "Chew Stoke Waterfall",
+                "Chippenham Sports Club",
+                "Church Farm",
+                "Combe Dingle",
+                "Conygre Mead",
+                "Cradle Bridge",
+                "Damsons Bridge",
+                "Dragonfly Meadow by WWT Vincents Wood Reserve",
+                "Eastville Park, Frome Valley Path",
+                "Frenchay Bridge",
+                "Freshford Inn",
+                "Frome Valley Walkway",
+                "Golden Valley Nature Reserve, Wick",
+                "Great Chalfield Manor/Chalfield Farm",
+                "Hambrook",
+                "Honeybrook",
+                "Jubilee Park",
+                "Langham Farm",
+                "Manor Woods Valley",
+                "Monks Pool & Bradley Brook Nature Reserve",
+                "New Mill House",
+                "Nightingale Valley",
+                "Old Cattle Crossing",
+                "Parsonage Bridge",
+                "Parsonage Farm, Publow",
+                "Pensford Church",
+                "Pinkney",
+                "Rodden Church",
+                "Rode Bridge, Miller’s House",
+                "Shrowle",
+                "Snuff Mills",
+                "Snuff Mills Steps",
+                "Sunnybank",
+                "Tellisford",
+                "Uplands Field",
+                "Upper Beat - Brownie Pool",
+                "Upstream of B4060 Wickwar Road Bridge",
+                "Upstream of Stretchline",
+                "Vallis",
+                "Wadbury Valley",
+                "Watercress Farm on Belmont Estate",
+                "Weavern Long Meadow",
+                "Weir and Mill Race, Rode",
+                "Wellow Ford",
+                "Wickham/Jenner Close Chipping Sodbury",
+                "Widdenham Farm",
+                "Woodbridge Bridge",
+                "adjacent to Frome Bank Gardens"
+              ]
+            },
+            "title": "Site"
+          },
+          {
+            "name": "Species",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Baetidae",
+                "Cased caddisfly",
+                "Caseless caddisfly",
+                "Ephemerellidae",
+                "Ephemeridae",
+                "Gammarus",
+                "Heptageniidae",
+                "Stoneflies"
+              ]
+            },
+            "title": "Species"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "River Fly count"
+    },
+    {
       "path": "6-4-1/data.csv",
       "name": "6-4-1",
       "profile": "tabular-data-resource",
