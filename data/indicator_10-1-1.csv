@@ -1,7 +1,82 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Sex,Series,Value
+2010,,Bottom 10 percent,289.1
+2011,,Bottom 10 percent,272.1
+2012,,Bottom 10 percent,282.7
+2013,,Bottom 10 percent,287.5
+2014,,Bottom 10 percent,296.9
+2015,,Bottom 10 percent,299.7
+2016,,Bottom 10 percent,311.9
+2017,,Bottom 10 percent,330
+2018,,Bottom 10 percent,341.8
+2010,,Top 10 percent,900.6
+2011,,Top 10 percent,934.1
+2012,,Top 10 percent,886.9
+2013,,Top 10 percent,912
+2014,,Top 10 percent,907.2
+2015,,Top 10 percent,928.4
+2016,,Top 10 percent,957.3
+2017,,Top 10 percent,998.8
+2018,,Top 10 percent,"1,044.80"
+2010,,Gap between top and bottom 10 percent,611.5
+2011,,Gap between top and bottom 10 percent,662
+2012,,Gap between top and bottom 10 percent,604.2
+2013,,Gap between top and bottom 10 percent,624.5
+2014,,Gap between top and bottom 10 percent,610.3
+2015,,Gap between top and bottom 10 percent,628.7
+2016,,Gap between top and bottom 10 percent,645.4
+2017,,Gap between top and bottom 10 percent,668.8
+2018,,Gap between top and bottom 10 percent,703
+2010,Male,Bottom 10 percent,171.2
+2011,Male,Bottom 10 percent,172.4
+2012,Male,Bottom 10 percent,166.2
+2013,Male,Bottom 10 percent,163.7
+2014,Male,Bottom 10 percent,151
+2015,Male,Bottom 10 percent,178.6
+2016,Male,Bottom 10 percent,222.5
+2017,Male,Bottom 10 percent,228.5
+2018,Male,Bottom 10 percent,234.2
+2010,Male,Top 10 percent,900.7
+2011,Male,Top 10 percent,946.6
+2012,Male,Top 10 percent,
+2013,Male,Top 10 percent,
+2014,Male,Top 10 percent,
+2015,Male,Top 10 percent,919.9
+2016,Male,Top 10 percent,958.4
+2017,Male,Top 10 percent,
+2018,Male,Top 10 percent,"1,068.80"
+2010,Male,Gap between top and bottom 10 percent,729.5
+2011,Male,Gap between top and bottom 10 percent,774.2
+2012,Male,Gap between top and bottom 10 percent,
+2013,Male,Gap between top and bottom 10 percent,
+2014,Male,Gap between top and bottom 10 percent,
+2015,Male,Gap between top and bottom 10 percent,741.3
+2016,Male,Gap between top and bottom 10 percent,735.9
+2017,Male,Gap between top and bottom 10 percent,
+2018,Male,Gap between top and bottom 10 percent,834.6
+2010,Female,Bottom 10 percent,96
+2011,Female,Bottom 10 percent,88.7
+2012,Female,Bottom 10 percent,106.7
+2013,Female,Bottom 10 percent,101
+2014,Female,Bottom 10 percent,96.3
+2015,Female,Bottom 10 percent,118.5
+2016,Female,Bottom 10 percent,117.8
+2017,Female,Bottom 10 percent,117.1
+2018,Female,Bottom 10 percent,118
+2010,Female,Top 10 percent,695
+2011,Female,Top 10 percent,662
+2012,Female,Top 10 percent,696.6
+2013,Female,Top 10 percent,732.5
+2014,Female,Top 10 percent,750.2
+2015,Female,Top 10 percent,755.3
+2016,Female,Top 10 percent,
+2017,Female,Top 10 percent,754.4
+2018,Female,Top 10 percent,773
+2010,Female,Gap between top and bottom 10 percent,599
+2011,Female,Gap between top and bottom 10 percent,573.3
+2012,Female,Gap between top and bottom 10 percent,589.9
+2013,Female,Gap between top and bottom 10 percent,631.5
+2014,Female,Gap between top and bottom 10 percent,653.9
+2015,Female,Gap between top and bottom 10 percent,636.8
+2016,Female,Gap between top and bottom 10 percent,
+2017,Female,Gap between top and bottom 10 percent,637.3
+2018,Female,Gap between top and bottom 10 percent,655
