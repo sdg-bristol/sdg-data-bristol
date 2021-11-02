@@ -15,19 +15,31 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Male",
+                "Female",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bottom 10 percent",
+                "Top 10 percent",
+                "Gap between top and bottom 10 percent",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }
