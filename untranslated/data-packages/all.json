@@ -1098,6 +1098,28 @@
       "title": "global_indicators.4-5-1-title"
     },
     {
+      "path": "10-1-1-a/data.csv",
+      "name": "10-1-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "localised_indicators.10-1-1-a-title"
+    },
+    {
       "path": "2-a-1/data.csv",
       "name": "2-a-1",
       "profile": "tabular-data-resource",
