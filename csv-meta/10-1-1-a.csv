@@ -1,11 +1,11 @@
 ﻿National metadata,
 Indicator available,Gini Coefficient
-Indicator description,Description of dataset
+Indicator description,Gini coefficient by year for Bristol
 National comparability,Comparable to other Local authorities
-Unit of measurement,Units on Y axis
+Unit of measurement,Gini Coefficient
 Definitions,"The Gini coefficient is a statistical measure of the degree of variation represented in a set of values, used especially in analysing income inequality. In this coontext a value of 0 would represent perfect equality and 1 would represent perfect inequality."
 Calculations,No calculations were performed on this dataset and it is presented as found
-Other information,"Any other info on the dataset, e.g. data control applied?"
+Other information,
 Settings,
 Reporting status,complete
 Non-statistical indicator,N
@@ -15,7 +15,7 @@ Use geocodes for mapping,FALSE
 Indicator content,
 Sources,
 Source 1 organisation,Centre for Cities
-Source 1 periodicity,Annual
+Source 1 periodicity,
 Source 1 earliest available data,2014
 Source 1 geographical coverage,Bristol
 Source 1 link to data source,https://www.centreforcities.org/data-tool/su/c8151984
