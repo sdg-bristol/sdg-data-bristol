@@ -15,34 +15,24 @@
             "type": "integer"
           },
           {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "10th and 90th percentile difference",
-                "Full-time worker",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Percentile",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "10%",
-                "90%",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "male",
-                "female",
+                "Male",
+                "Female",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bottom 10 percent",
+                "Top 10 percent",
+                "Gap between top and bottom 10 percent",
                 ""
               ]
             }

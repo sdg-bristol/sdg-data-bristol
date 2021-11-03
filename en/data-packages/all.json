@@ -9066,28 +9066,17 @@
       "schema": {
         "fields": [
           {
-            "name": "Group",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "10th and 90th percentile difference",
-                "Full-time worker"
+                "Bottom 10 percent",
+                "Gap between top and bottom 10 percent",
+                "Top 10 percent"
               ]
             },
-            "title": "Group"
-          },
-          {
-            "name": "Percentile",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "10%",
-                "90%"
-              ]
-            },
-            "title": "Percentile"
+            "title": "Series"
           },
           {
             "name": "Sex",
@@ -9095,8 +9084,8 @@
             "constraints": {
               "enum": [
                 "",
-                "female",
-                "male"
+                "Female",
+                "Male"
               ]
             },
             "title": "Sex"

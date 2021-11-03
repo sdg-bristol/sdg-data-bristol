@@ -2,7 +2,7 @@ Indicator,Disaggregations,Number of disaggregations
 #1-2-1,Group,1
 #1-2-2,Group,1
 #10-1-1,Sex,1
-#10-2-1,"Group, Sex, Percentile",3
+#10-2-1,Sex,1
 #11-2-1,Group,1
 #11-3-2,Group,1
 #11-6-2,Anthropogenic component,1

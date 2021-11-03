@@ -1,1 +1,28 @@
-Year,Value
+Year,Value,Series
+2010,289.1,Bottom 10 percent
+2011,272.1,Bottom 10 percent
+2012,282.7,Bottom 10 percent
+2013,287.5,Bottom 10 percent
+2014,296.9,Bottom 10 percent
+2015,299.7,Bottom 10 percent
+2016,311.9,Bottom 10 percent
+2017,330.0,Bottom 10 percent
+2018,341.8,Bottom 10 percent
+2010,900.6,Top 10 percent
+2011,934.1,Top 10 percent
+2012,886.9,Top 10 percent
+2013,912.0,Top 10 percent
+2014,907.2,Top 10 percent
+2015,928.4,Top 10 percent
+2016,957.3,Top 10 percent
+2017,998.8,Top 10 percent
+2018,1044.8,Top 10 percent
+2010,611.5,Gap between top and bottom 10 percent
+2011,662.0,Gap between top and bottom 10 percent
+2012,604.2,Gap between top and bottom 10 percent
+2013,624.5,Gap between top and bottom 10 percent
+2014,610.3,Gap between top and bottom 10 percent
+2015,628.7,Gap between top and bottom 10 percent
+2016,645.4,Gap between top and bottom 10 percent
+2017,668.8,Gap between top and bottom 10 percent
+2018,703.0,Gap between top and bottom 10 percent
