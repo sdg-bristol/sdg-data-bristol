@@ -12,7 +12,18 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tonnes CO2 per capita",
+                "K Tonnes of total CO2 emissions",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

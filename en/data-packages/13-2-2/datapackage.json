@@ -11,13 +11,25 @@
       "schema": {
         "fields": [
           {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "K Tonnes of total CO2 emissions",
+                "Tonnes CO2 per capita"
+              ]
+            },
+            "title": "Group"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           }
         ]
