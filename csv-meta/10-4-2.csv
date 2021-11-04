@@ -1,8 +1,8 @@
 National metadata,
-Indicator available,Discrimination and hate crimes in Bristol
-Indicator description,Data reporting on discrimination and hate crimes in bristol as well as on the race and gender pay gaps.
+Indicator available,Race and gender pay gap
+Indicator description,Data reporting pay gap by workplace location disaggregated by gender in Bristol and race within Bristol City Council
 National comparability,Comparable to other Local authorities
-Unit of measurement,
+Unit of measurement, £ GBP
 Definitions,
 Calculations,
 Other information,
@@ -10,7 +10,7 @@ Settings,
 Reporting status,complete
 Non-statistical indicator,N
 Graph type,line
-Graph title,Discrimination and hate crimes in Bristol
+Graph title,Pay Gap
 Indicator content,
 Sources,
 Source 1 organisation,BCC
