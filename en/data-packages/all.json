@@ -1127,6 +1127,42 @@
       "title": "Percentage of bloodstream infections due to selected antimicrobial-resistant organisms"
     },
     {
+      "path": "10-4-2/data.csv",
+      "name": "10-4-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "% gender pay gap",
+                "% race pay gap"
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Redistributive impact of fiscal policy"
+    },
+    {
       "path": "4-5-1/data.csv",
       "name": "4-5-1",
       "profile": "tabular-data-resource",
@@ -1197,30 +1233,6 @@
         ]
       },
       "title": "Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated"
-    },
-    {
-      "path": "10-1-1-a/data.csv",
-      "name": "10-1-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Gini Coefficient"
     },
     {
       "path": "2-a-1/data.csv",
@@ -2423,6 +2435,30 @@
         ]
       },
       "title": "Red List Index"
+    },
+    {
+      "path": "10-1-1-a/data.csv",
+      "name": "10-1-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Gini Coefficient"
     },
     {
       "path": "16-10-1/data.csv",
@@ -10374,30 +10410,6 @@
         ]
       },
       "title": "Prevalence of anaemia in women aged 15 to 49 years, by pregnancy status (percentage)"
-    },
-    {
-      "path": "10-4-2/data.csv",
-      "name": "10-4-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Redistributive impact of fiscal policy"
     },
     {
       "path": "10-7-3/data.csv",

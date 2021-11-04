@@ -12,7 +12,18 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "% race pay gap",
+                "% gender pay gap",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
