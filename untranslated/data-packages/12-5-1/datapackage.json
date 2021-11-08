@@ -15,6 +15,17 @@
             "type": "string"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion ofhousehold waste sent for reuse, recycling or composting",
+                "Proportion of Municipal Waste sent to landfill",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

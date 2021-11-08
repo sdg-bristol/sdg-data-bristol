@@ -1,10 +1,21 @@
-Year,Value
-2010-11,37.4
-2011-12,41.0
-2012-13,45.3
-2013-14,41.5
-2014-15,43.5
-2015-16,43.6
-2016-17,43.4
-2017-18,44.9
-2018-19,47.4
+Year,Series,Value
+2010-11,"Proportion ofhousehold waste sent for reuse, recycling or composting",37.4
+2011-12,"Proportion ofhousehold waste sent for reuse, recycling or composting",41.0
+2012-13,"Proportion ofhousehold waste sent for reuse, recycling or composting",45.3
+2013-14,"Proportion ofhousehold waste sent for reuse, recycling or composting",41.5
+2014-15,"Proportion ofhousehold waste sent for reuse, recycling or composting",43.5
+2015-16,"Proportion ofhousehold waste sent for reuse, recycling or composting",43.6
+2016-17,"Proportion ofhousehold waste sent for reuse, recycling or composting",43.4
+2017-18,"Proportion ofhousehold waste sent for reuse, recycling or composting",44.9
+2018-19,"Proportion ofhousehold waste sent for reuse, recycling or composting",47.4
+2019-20,"Proportion ofhousehold waste sent for reuse, recycling or composting",47.1
+2010-11,Proportion of Municipal Waste sent to landfill,57.7
+2011-12,Proportion of Municipal Waste sent to landfill,38.7
+2012-13,Proportion of Municipal Waste sent to landfill,25.8
+2013-14,Proportion of Municipal Waste sent to landfill,31.2
+2014-15,Proportion of Municipal Waste sent to landfill,29.2
+2015-16,Proportion of Municipal Waste sent to landfill,28.0
+2016-17,Proportion of Municipal Waste sent to landfill,27.7
+2017-18,Proportion of Municipal Waste sent to landfill,19.9
+2018-19,Proportion of Municipal Waste sent to landfill,14.4
+2019-20,Proportion of Municipal Waste sent to landfill,18.5

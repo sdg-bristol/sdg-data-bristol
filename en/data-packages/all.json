@@ -8669,6 +8669,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Proportion of Municipal Waste sent to landfill",
+                "Proportion ofhousehold waste sent for reuse, recycling or composting"
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
