@@ -3,7 +3,7 @@ Indicator available,Recycling rate of Household Waste
 Indicator description,
 National comparability,Comparable across UK local authorities
 Unit of measurement,Percentage
-Definitions,"Percentage of household waste sent for reuse, recycling or composting"
+Definitions,"Percentage of household waste sent for reuse, recycling or composting and percentage of muncipal waste sent to landfill"
 Calculations,
 Other information,
 Settings,
@@ -19,7 +19,7 @@ Source 1 earliest available data,2010/11
 Source 1 geographical coverage,"Bristol, City of"
 Source 1 link to data source,https://www.gov.uk/government/statistical-data-sets/env18-local-authority-collected-waste-annual-results-tables
 Source 1 link to data source text,Local authority collected waste 
-Source 1 release date,16/09/2020
+Source 1 release date,2021
 Source 1 next release,TBA
 Source 1 statistical classification,Official Statistic
 Source 1 contact details,enviro.statistics@defra.gov.uk
