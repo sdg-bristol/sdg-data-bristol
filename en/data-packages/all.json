@@ -8675,7 +8675,7 @@
               "enum": [
                 "",
                 "Proportion of Municipal Waste sent to landfill",
-                "Proportion ofhousehold waste sent for reuse, recycling or composting"
+                "Proportion of household waste sent for reuse, recycling or composting"
               ]
             },
             "title": "Series"
@@ -10254,6 +10254,42 @@
         ]
       },
       "title": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population"
+    },
+    {
+      "path": "12-5-1-a/data.csv",
+      "name": "12-5-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Kg/household",
+                "Tonnes/Local authority"
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Residual household waste"
     },
     {
       "path": "13-1-3/data.csv",
