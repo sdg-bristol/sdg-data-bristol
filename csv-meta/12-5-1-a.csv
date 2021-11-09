@@ -1,16 +1,16 @@
 ﻿National metadata,
-Indicator available,Recycling rate of Household Waste
-Indicator description,
+Indicator available,Total Waste per household
+Indicator description,Total Waste per household
 National comparability,Comparable across UK local authorities
-Unit of measurement,Percentage
-Definitions,"Percentage of household waste sent for reuse, recycling or composting and percentage of muncipal waste sent to landfill"
+Unit of measurement,
+Definitions,Total of household waste produced and that collected in the local authority.
 Calculations,
 Other information,
 Settings,
 Reporting status,complete
 Non-statistical indicator,N
 Graph type,line
-Graph title,"Percentage of household waste sent for reuse, recycling or composting"
+Graph title,Total Waste
 Indicator content,
 Sources,
 Source 1 organisation,"Department for Environment, Food and Rural Affairs"
