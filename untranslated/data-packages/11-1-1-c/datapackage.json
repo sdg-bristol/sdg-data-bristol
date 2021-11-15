@@ -12,7 +12,54 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
+          },
+          {
+            "name": "Ward",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Southville",
+                "Henbury & Brentry",
+                "Brislington West",
+                "Easton",
+                "Stoke Bishop",
+                "Brislington East",
+                "Windmill Hill",
+                "Bishopsworth",
+                "Southmead",
+                "Stockwood",
+                "Ashley",
+                "Knowle",
+                "Westbury-on-Trym & Henleaze",
+                "Clifton",
+                "Central",
+                "Hartcliffe & Withywood",
+                "Hillfields",
+                "Hotwells & Harbourside",
+                "Cotham",
+                "Lockleaze",
+                "Filwood",
+                "Horfield",
+                "Bishopston & Ashley Down",
+                "Hengrove & Whitchurch Park",
+                "Clifton Down",
+                "St George West",
+                "Avonmouth & Lawrence Weston",
+                "Bedminster",
+                "St George Troopers Hill",
+                "Lawrence Hill",
+                "Eastville",
+                "St George Central",
+                "Frome Vale",
+                "Redland",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
           },
           {
             "name": "Value",
