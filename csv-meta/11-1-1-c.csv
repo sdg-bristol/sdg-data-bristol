@@ -11,7 +11,7 @@ Reporting status,complete
 Non-statistical indicator,N
 Graph type,line
 Graph title,Percentage satisfied with their local area
-Use geocodes for mapping,FALSE
+Use geocodes for mapping,TRUE
 Indicator content,
 Sources,
 Source 1 organisation,BCC Data Team
