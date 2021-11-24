@@ -1,0 +1,69 @@
+﻿National metadata,
+Indicator available,"Violent crime - Sexual offences per 1,000 population"
+Indicator description,"Number of sexual offences excluding code 88E (Exposure and Voyeurism). The offence descriptions which come under the offence group 'Sexual offences' can be found here. Refer to the 'New ONS offence group'. This is expressed per 1,000 of the population."
+National comparability,Comparable to other Local authorities
+Unit of measurement,Offences per 1000 population
+Definitions,"Rate of sexual offences based on police recorded crime data per 1,000 population"
+Calculations,No addional calculations have been performed on this dataset and it is presented as it was found.
+Other information,Denominator rounded to the nearest 100 (Mid-year population estimates of the preceding calendar year)
+Settings,
+Reporting status,complete
+Non-statistical indicator,N
+Graph type,line
+Graph title,"Sexual offences per 1,000 population"
+Indicator content,
+Sources,
+Source 1 organisation,Public Health England
+Source 1 periodicity,Annual
+Source 1 earliest available data,"2010/11"
+Source 1 geographical coverage,Bristol
+Source 1 link to data source,https://fingertips.phe.org.uk/profile/wider-determinants/data#page/4/gid/1938133073/pat/6/par/E12000009/ati/102/are/E06000023/iid/90637/age/1/sex/4
+Source 1 link to data source text,Public Health England - B12c
+Source 1 release date,03/11/2020
+Source 1 next release,TBD
+Source 1 statistical classification,Official Statistic
+Source 1 contact details,Contact details for those responsible for dataset ideally
+Source 1 other information,"Indicator ID:90637. Crime data are produced at Community Safety Partnership (CSP) level. At the time of their introduction, CSPs were formed to match each Local Authority (LA) area. As a result of mergers of both LAs and CSPs, availability of data for LAs in England changes from year to year.
+
+With the November 2020 update, CSPs are still aligned to pre-April 2019 geographies. As such, rates could not be gathered for Bournemouth, Christchurch and Poole and Dorset individually, as the counts are collated under the old geographies Bournemouth, Poole and Dorset County Council. In order to present a rate for these areas, these two unitary authorities have had their counts and populations combined, with the same rate presented for both unitary authorities.
+
+Where an area has no numerator or denominator data displayed, the rate is combined with another area(s). If there is more than one local authority within the CSP, and if all of these local authorities are categorised within the same deprivation decile, the counts and denominators will be included in the deprivation decile. If there is more than one local authority within the CSP, but the local authorities are in multiple deprivation deciles, the counts and denominators are excluded from the deprivation deciles. Please see 'Information on police recorded crime at CSP level' for further details:  https://www.ons.gov.uk/file?uri=/peoplepopulationandcommunity/crimeandjustice/datasets/recordedcrimedataatcommunitysafetypartnershiplocalauthoritylevel/current/prclocalauthoritytables.zip”
+
+Data for CSP Manchester Airport has been excluded from the analysis. 
+
+It is not appropriate to RAG rate this indicator as it is difficult to determine whether high or low levels of sexual offences are due high or low prevalence, or high or low levels of recording.
+
+Data within the police recorded crime tables data source are updated on a quarterly basis. Timepoints for the PHOF indicator are updated on an annual basis -  the data available are currently correct as of 17 July 2020. Please see the data source if you require more up to date information."
+Source 2 organisation,
+Source 2 periodicity,
+Source 2 earliest available data,
+Source 2 geographical coverage,
+Source 2 link to data source,
+Source 2 link to data source text,
+Source 2 release date,
+Source 2 next release,
+Source 2 statistical classification,
+Source 2 contact details,
+Source 2 other information,
+Source 3 organisation,
+Source 3 periodicity,
+Source 3 earliest available data,
+Source 3 geographical coverage,
+Source 3 link to data source,
+Source 3 link to data source text,
+Source 3 release date,
+Source 3 next release,
+Source 3 statistical classification,
+Source 3 contact details,
+Source 3 other information,
+Source 4 organisation,
+Source 4 periodicity,
+Source 4 earliest available data,
+Source 4 geographical coverage,
+Source 4 link to data source,
+Source 3 link to data source text,
+Source 4 release date,
+Source 4 next release,
+Source 4 statistical classification,
+Source 4 contact details,
+Source 4 other information,

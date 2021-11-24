@@ -22,7 +22,7 @@ src_dir: ''
 translations:
   - class: TranslationInputSdgTranslations
     source: https://github.com/open-sdg/sdg-translations.git
-    tag: 1.0.0
+    tag: 1.5.0
   - class: TranslationInputYaml
     source: translations
   
@@ -37,6 +37,37 @@ inputs:
     path_pattern: csv-meta/*-*.csv
     metadata_mapping: 'metadata-mapping.csv'
 
+map_layers:
+## Country (https://geoportal.statistics.gov.uk/datasets/countries-december-2019-boundaries-uk-buc)
+# - geojson_file: https://opendata.arcgis.com/datasets/92ebeaf3caa8458ea467ec164baeefa4_0.geojson
+#   name_property: ctry19nm
+#   id_property: ctry19cd
+#   output_subfolder: country
+#   filename_prefix: indicator_
+## Region (link: https://hub.arcgis.com/datasets/4fcca2a47fed4bfaa1793015a18537ac_4)
+# - geojson_file: https://geoportal1-ons.opendata.arcgis.com/datasets/4fcca2a47fed4bfaa1793015a18537ac_4.geojson
+#   name_property: rgn17nm
+#   id_property: rgn17cd
+#   output_subfolder: regions
+#   filename_prefix: indicator_
+## Local Authority (link: https://hub.arcgis.com/datasets/686603e943f948acaa13fb5d2b0f1275_4)
+# - geojson_file: https://geoportal1-ons.opendata.arcgis.com/datasets/686603e943f948acaa13fb5d2b0f1275_4.geojson
+#   name_property: lad16nm
+#   id_property: lad16cd
+#   output_subfolder: local_authorities
+#   filename_prefix: indicator_
+## Ward (Link: https://opendata.arcgis.com/datasets/60ea78fd4f9d47099adfa63c2ccbc8bf_0.geojson)
+  - geojson_file: geojson/Bristol_Wards_(December_2020)_UK_BGC_V2.geojson
+    name_property: WD20NM
+    id_property: WD20CD
+    output_subfolder: wards
+    filename_prefix: indicator_
+
+# Map data notes
+# Ward data can be identified at 
+# https://opendata.arcgis.com/datasets/60ea78fd4f9d47099adfa63c2ccbc8bf_0.geojson
+# https://hub.arcgis.com/datasets/ons::wards-december-2020-names-and-codes-in-the-united-kingdom/explore
+# https://opendata.arcgis.com/datasets/85c824fc6b154f2c94d7a0cfbd268067_0.geojson
 
 # Extra fields to generate reporting stats for, for additional tabs
 # the "Reporting status" page.

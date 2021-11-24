@@ -1,29 +1,30 @@
-National metadata,
-Indicator available,Number of Tuberculosis cases
-Indicator description,Number of Tuberculosis cases
-National comparability,Comparable across UK local authorities
-Unit of measurement,Number of Tuberculosis cases
-Definitions,
-Calculations,No calculations
-Other information,The data is based on a 3 year average due to sample size. The year given is the middle year of the sample. For example the sample years between 2001-2003 is displayed as 2002
+﻿National metadata,
+Indicator available,TB incidence (three year average)
+Indicator description,"Average incidence of TB among 100,000 per population over a 3 year period"
+National comparability,Comparable to other local authorities
+Unit of measurement,"Per 100,000"
+Definitions,"Three year average incidence of TB per 100,000 population"
+Calculations,No calculations were performed in the data acquisition of this indicator as appropriate data was readily available in the final format specified by this indicator.
+Other information,"Three year average incidence per 100,000 population. The numerator (the number of TB notifications in the 3 year period) is divided by the denominator (the sum of the mid-year population estimates for the same 3 year period) and multiplied by 100,000."
 Settings,
 Reporting status,complete
 Non-statistical indicator,N
 Graph type,line
-Graph title,Number of Tuberculosis cases
+Graph title,"TB incidence (three year average)"
 Indicator content,
 Sources,
 Source 1 organisation,Public Health England
-Source 1 periodicity,Annual (3 year rolling average)
-Source 1 earliest available data,2000
-Source 1 geographical coverage,England
-Source 1 link to data source,https://fingertips.phe.org.uk/search/Tuberculosis#page/4/gid/1/pat/6/par/E12000009/ati/301/are/E06000023/iid/91361/age/1/sex/4/cid/4/tbm/1/page-options/car-do-0
-Source 1 link to data source text,Fingertips phe
-Source 1 release date,06/08/2019
+Source 1 periodicity,Annual
+Source 1 earliest available data,2000-02
+Source 1 geographical coverage,Bristol
+Source 1 link to data source,https://fingertips.phe.org.uk/profile/public-health-outcomes-framework/data#page/4/gid/1000044/pat/6/par/E12000009/ati/102/are/E06000023/iid/92488/age/1/sex/4
+Source 1 link to data source text,TB Monitoring data
+Source 1 release date,03/11/2020
 Source 1 next release,TBA
 Source 1 statistical classification,Official Statistic
-Source 1 contact details,profilefeedback@phe.gov.uk
-Source 1 other information,The data is based on a 3 year average due to sample size
+Source 1 contact details,
+Source 1 other information,"	Every effort is made to ensure accuracy and completeness of ETS data, including web-based reporting, data cleaning and data integrity checks for data quality. However, responsibility for the accuracy and completeness of the data lies with the reporting clinic.
+Data for all previous years are updated using the most recent TB notification dataset. This update means that the values for a given area and year may be different (either smaller or larger) when compared to what has been shown on this profile in the past."
 Source 2 organisation,
 Source 2 periodicity,
 Source 2 earliest available data,
