@@ -11,6 +11,7 @@ Reporting status,complete
 Non-statistical indicator,N
 Graph type,line
 Graph title,Percentage households that experienced food insecurity in bristol
+Use geocodes for mapping,True
 Indicator content,
 Sources,
 Source 1 organisation,Bristol city council
