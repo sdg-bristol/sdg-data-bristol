@@ -4831,18 +4831,65 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "Food Insecurity",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "moderate to severe",
-                "severe",
+                "% households which have experienced moderate to severe food insecurity",
+                "% households which have experienced severe food insecurity",
                 ""
               ]
             }
+          },
+          {
+            "name": "Ward",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Southville",
+                "Avonmouth & Lawrence Weston",
+                "Bishopston & Ashley Down",
+                "Hartcliffe & Withywood",
+                "Central",
+                "Knowle",
+                "Ashley",
+                "Filwood",
+                "Hengrove & Whitchurch Park",
+                "Horfield",
+                "Westbury-on-Trym & Henleaze",
+                "Brislington West",
+                "Southmead",
+                "Stockwood",
+                "Bishopsworth",
+                "Cotham",
+                "Henbury & Brentry",
+                "Lawrence Hill",
+                "St George Troopers Hill",
+                "Bedminster",
+                "Easton",
+                "Eastville",
+                "Frome Vale",
+                "Hillfields",
+                "Hotwells & Harbourside",
+                "Redland",
+                "Stoke Bishop",
+                "Clifton",
+                "Clifton Down",
+                "Lockleaze",
+                "St George Central",
+                "St George West",
+                "Windmill Hill",
+                "Brislington East",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
           },
           {
             "name": "Value",

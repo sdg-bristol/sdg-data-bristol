@@ -1,7 +1,211 @@
-Year,Food Insecurity,Value
-2018,moderate to severe,7.3
-2019,moderate to severe,5.0
-2020,moderate to severe,4.2
-2018,severe,3.5
-2019,severe,1.7
-2020,severe,1.7
+Year,Series,Ward,GeoCode,Value
+2018-19,% households which have experienced moderate to severe food insecurity,Southville,E05010914,4.46897417021
+2018-19,% households which have experienced moderate to severe food insecurity,Avonmouth & Lawrence Weston,E05010886,4.089961563
+2018-19,% households which have experienced moderate to severe food insecurity,Bishopston & Ashley Down,E05010888,5.81587351096
+2018-19,% households which have experienced moderate to severe food insecurity,Hartcliffe & Withywood,E05010900,24.4331736895
+2018-19,% households which have experienced moderate to severe food insecurity,Central,E05010892,8.49749709037
+2018-19,% households which have experienced moderate to severe food insecurity,Knowle,E05010906,5.86412511509
+2018-19,% households which have experienced moderate to severe food insecurity,Ashley,E05010885,7.26446540696
+2018-19,% households which have experienced moderate to severe food insecurity,Filwood,E05010898,14.4227027602
+2018-19,% households which have experienced moderate to severe food insecurity,Hengrove & Whitchurch Park,E05010902,7.2204431922
+2018-19,% households which have experienced moderate to severe food insecurity,Horfield,E05010904,9.32559709429
+2018-19,% households which have experienced moderate to severe food insecurity,Westbury-on-Trym & Henleaze,E05010917,0.0
+2018-19,% households which have experienced moderate to severe food insecurity,Brislington West,E05010891,3.97612507315
+2018-19,% households which have experienced moderate to severe food insecurity,Southmead,E05010913,10.3656047247
+2018-19,% households which have experienced moderate to severe food insecurity,Stockwood,E05010915,16.2149819857
+2018-19,% households which have experienced moderate to severe food insecurity,,,7.27656776432
+2018-19,% households which have experienced moderate to severe food insecurity,Bishopsworth,E05010889,3.09240439077
+2018-19,% households which have experienced moderate to severe food insecurity,Cotham,E05010895,2.4395682794
+2018-19,% households which have experienced moderate to severe food insecurity,Henbury & Brentry,E05010901,10.3852540143
+2018-19,% households which have experienced moderate to severe food insecurity,Lawrence Hill,E05010907,11.0817839927
+2018-19,% households which have experienced moderate to severe food insecurity,St George Troopers Hill,E05010911,5.08793278836
+2018-19,% households which have experienced moderate to severe food insecurity,Bedminster,E05010887,2.85083310274
+2018-19,% households which have experienced moderate to severe food insecurity,Easton,E05010896,5.34185208218
+2018-19,% households which have experienced moderate to severe food insecurity,Eastville,E05010897,6.90864334969
+2018-19,% households which have experienced moderate to severe food insecurity,Frome Vale,E05010899,13.1714360291
+2018-19,% households which have experienced moderate to severe food insecurity,Hillfields,E05010903,3.58885892722
+2018-19,% households which have experienced moderate to severe food insecurity,Hotwells & Harbourside,E05010905,2.15429906865
+2018-19,% households which have experienced moderate to severe food insecurity,Redland,E05010909,5.88007818895
+2018-19,% households which have experienced moderate to severe food insecurity,Stoke Bishop,E05010916,3.17454257076
+2018-19,% households which have experienced moderate to severe food insecurity,Clifton,E05010893,5.85023015675
+2018-19,% households which have experienced moderate to severe food insecurity,Clifton Down,E05010894,2.54050101118
+2018-19,% households which have experienced moderate to severe food insecurity,Lockleaze,E05010908,11.1090181835
+2018-19,% households which have experienced moderate to severe food insecurity,St George Central,E05010910,4.16298604677
+2018-19,% households which have experienced moderate to severe food insecurity,St George West,E05010912,8.7844048993
+2018-19,% households which have experienced moderate to severe food insecurity,Windmill Hill,E05010918,6.22870392939
+2018-19,% households which have experienced moderate to severe food insecurity,Brislington East,E05010890,6.94678835333
+2019-20,% households which have experienced moderate to severe food insecurity,Hotwells & Harbourside,E05010905,1.92504350914
+2019-20,% households which have experienced moderate to severe food insecurity,Clifton,E05010893,1.68850041513
+2019-20,% households which have experienced moderate to severe food insecurity,Knowle,E05010906,2.21419108152
+2019-20,% households which have experienced moderate to severe food insecurity,Hillfields,E05010903,7.2508679895
+2019-20,% households which have experienced moderate to severe food insecurity,St George Central,E05010910,7.26293309458
+2019-20,% households which have experienced moderate to severe food insecurity,Avonmouth & Lawrence Weston,E05010886,8.25241196021
+2019-20,% households which have experienced moderate to severe food insecurity,,,5.0271543838
+2019-20,% households which have experienced moderate to severe food insecurity,Brislington East,E05010890,5.06214162052
+2019-20,% households which have experienced moderate to severe food insecurity,Central,E05010892,1.98056508835
+2019-20,% households which have experienced moderate to severe food insecurity,Lockleaze,E05010908,5.34503028871
+2019-20,% households which have experienced moderate to severe food insecurity,Stoke Bishop,E05010916,2.31836401965
+2019-20,% households which have experienced moderate to severe food insecurity,Windmill Hill,E05010918,3.48500005464
+2019-20,% households which have experienced moderate to severe food insecurity,Cotham,E05010895,1.01850579535
+2019-20,% households which have experienced moderate to severe food insecurity,Easton,E05010896,4.05714464847
+2019-20,% households which have experienced moderate to severe food insecurity,Eastville,E05010897,8.06649175218
+2019-20,% households which have experienced moderate to severe food insecurity,Lawrence Hill,E05010907,8.10748376835
+2019-20,% households which have experienced moderate to severe food insecurity,Southmead,E05010913,3.66082349859
+2019-20,% households which have experienced moderate to severe food insecurity,Southville,E05010914,1.27565510669
+2019-20,% households which have experienced moderate to severe food insecurity,Frome Vale,E05010899,8.60622828844
+2019-20,% households which have experienced moderate to severe food insecurity,Henbury & Brentry,E05010901,5.00711854197
+2019-20,% households which have experienced moderate to severe food insecurity,Bishopston & Ashley Down,E05010888,4.85391824059
+2019-20,% households which have experienced moderate to severe food insecurity,Bishopsworth,E05010889,4.34303834911
+2019-20,% households which have experienced moderate to severe food insecurity,Hartcliffe & Withywood,E05010900,12.0405292436
+2019-20,% households which have experienced moderate to severe food insecurity,St George Troopers Hill,E05010911,3.26417548091
+2019-20,% households which have experienced moderate to severe food insecurity,St George West,E05010912,4.92348911905
+2019-20,% households which have experienced moderate to severe food insecurity,Stockwood,E05010915,6.03805608393
+2019-20,% households which have experienced moderate to severe food insecurity,Bedminster,E05010887,3.75118181468
+2019-20,% households which have experienced moderate to severe food insecurity,Brislington West,E05010891,3.81963691882
+2019-20,% households which have experienced moderate to severe food insecurity,Ashley,E05010885,8.57848180576
+2019-20,% households which have experienced moderate to severe food insecurity,Clifton Down,E05010894,2.81869829445
+2019-20,% households which have experienced moderate to severe food insecurity,Filwood,E05010898,10.8517731365
+2019-20,% households which have experienced moderate to severe food insecurity,Hengrove & Whitchurch Park,E05010902,8.45616019871
+2019-20,% households which have experienced moderate to severe food insecurity,Horfield,E05010904,4.64725619978
+2019-20,% households which have experienced moderate to severe food insecurity,Redland,E05010909,0.0
+2019-20,% households which have experienced moderate to severe food insecurity,Westbury-on-Trym & Henleaze,E05010917,0.740358550237
+2020-21,% households which have experienced moderate to severe food insecurity,Central,E05010892,5.45584391946
+2020-21,% households which have experienced moderate to severe food insecurity,Ashley,E05010885,4.07195042511
+2020-21,% households which have experienced moderate to severe food insecurity,Brislington West,E05010891,1.01639039032
+2020-21,% households which have experienced moderate to severe food insecurity,Knowle,E05010906,2.43370555701
+2020-21,% households which have experienced moderate to severe food insecurity,Lawrence Hill,E05010907,11.7263355898
+2020-21,% households which have experienced moderate to severe food insecurity,Cotham,E05010895,2.37054546883
+2020-21,% households which have experienced moderate to severe food insecurity,Hengrove & Whitchurch Park,E05010902,2.71002031267
+2020-21,% households which have experienced moderate to severe food insecurity,Lockleaze,E05010908,5.53685354273
+2020-21,% households which have experienced moderate to severe food insecurity,Southville,E05010914,4.91319544877
+2020-21,% households which have experienced moderate to severe food insecurity,Brislington East,E05010890,2.32481024619
+2020-21,% households which have experienced moderate to severe food insecurity,Henbury & Brentry,E05010901,2.67682720034
+2020-21,% households which have experienced moderate to severe food insecurity,St George Troopers Hill,E05010911,4.05445701515
+2020-21,% households which have experienced moderate to severe food insecurity,Bedminster,E05010887,0.791386725203
+2020-21,% households which have experienced moderate to severe food insecurity,Bishopsworth,E05010889,1.69810980462
+2020-21,% households which have experienced moderate to severe food insecurity,Redland,E05010909,1.89307784853
+2020-21,% households which have experienced moderate to severe food insecurity,Southmead,E05010913,2.68786220173
+2020-21,% households which have experienced moderate to severe food insecurity,Clifton,E05010893,7.46279163967
+2020-21,% households which have experienced moderate to severe food insecurity,Easton,E05010896,4.57320145269
+2020-21,% households which have experienced moderate to severe food insecurity,Hartcliffe & Withywood,E05010900,12.2121670476
+2020-21,% households which have experienced moderate to severe food insecurity,Westbury-on-Trym & Henleaze,E05010917,0.0
+2020-21,% households which have experienced moderate to severe food insecurity,,,4.17458099754
+2020-21,% households which have experienced moderate to severe food insecurity,Eastville,E05010897,6.36657189261
+2020-21,% households which have experienced moderate to severe food insecurity,Hotwells & Harbourside,E05010905,2.60406205602
+2020-21,% households which have experienced moderate to severe food insecurity,Stockwood,E05010915,5.69775806945
+2020-21,% households which have experienced moderate to severe food insecurity,Avonmouth & Lawrence Weston,E05010886,7.21460071341
+2020-21,% households which have experienced moderate to severe food insecurity,Bishopston & Ashley Down,E05010888,1.60442158709
+2020-21,% households which have experienced moderate to severe food insecurity,Clifton Down,E05010894,0.943206432019
+2020-21,% households which have experienced moderate to severe food insecurity,Filwood,E05010898,5.74112931965
+2020-21,% households which have experienced moderate to severe food insecurity,Frome Vale,E05010899,4.34640972946
+2020-21,% households which have experienced moderate to severe food insecurity,Hillfields,E05010903,3.93399142792
+2020-21,% households which have experienced moderate to severe food insecurity,Horfield,E05010904,5.33754678591
+2020-21,% households which have experienced moderate to severe food insecurity,St George Central,E05010910,2.92411669418
+2020-21,% households which have experienced moderate to severe food insecurity,St George West,E05010912,1.36262694879
+2020-21,% households which have experienced moderate to severe food insecurity,Stoke Bishop,E05010916,1.88556726735
+2020-21,% households which have experienced moderate to severe food insecurity,Windmill Hill,E05010918,2.15036381225
+2018-19,% households which have experienced severe food insecurity,Clifton,E05010893,3.25182092612
+2018-19,% households which have experienced severe food insecurity,Southville,E05010914,1.35788632604
+2018-19,% households which have experienced severe food insecurity,Bishopston & Ashley Down,E05010888,1.0043476394
+2018-19,% households which have experienced severe food insecurity,Cotham,E05010895,2.4395682794
+2018-19,% households which have experienced severe food insecurity,Henbury & Brentry,E05010901,5.38995246916
+2018-19,% households which have experienced severe food insecurity,Lawrence Hill,E05010907,5.13235343623
+2018-19,% households which have experienced severe food insecurity,Redland,E05010909,2.28860239959
+2018-19,% households which have experienced severe food insecurity,Hotwells & Harbourside,E05010905,0.0
+2018-19,% households which have experienced severe food insecurity,Stoke Bishop,E05010916,0.797413226214
+2018-19,% households which have experienced severe food insecurity,Windmill Hill,E05010918,5.14322656518
+2018-19,% households which have experienced severe food insecurity,Hartcliffe & Withywood,E05010900,14.1255868197
+2018-19,% households which have experienced severe food insecurity,Hillfields,E05010903,0.963070403072
+2018-19,% households which have experienced severe food insecurity,Horfield,E05010904,0.0
+2018-19,% households which have experienced severe food insecurity,Lockleaze,E05010908,2.95070950387
+2018-19,% households which have experienced severe food insecurity,Brislington West,E05010891,1.08849814039
+2018-19,% households which have experienced severe food insecurity,St George West,E05010912,8.02884250022
+2018-19,% households which have experienced severe food insecurity,Westbury-on-Trym & Henleaze,E05010917,0.0
+2018-19,% households which have experienced severe food insecurity,Ashley,E05010885,5.43604369616
+2018-19,% households which have experienced severe food insecurity,Avonmouth & Lawrence Weston,E05010886,1.44887375951
+2018-19,% households which have experienced severe food insecurity,Bedminster,E05010887,1.16590228765
+2018-19,% households which have experienced severe food insecurity,Hengrove & Whitchurch Park,E05010902,2.88289836742
+2018-19,% households which have experienced severe food insecurity,Southmead,E05010913,7.06526947758
+2018-19,% households which have experienced severe food insecurity,,,3.47938128911
+2018-19,% households which have experienced severe food insecurity,Clifton Down,E05010894,1.29918296107
+2018-19,% households which have experienced severe food insecurity,Easton,E05010896,1.37947734948
+2018-19,% households which have experienced severe food insecurity,St George Troopers Hill,E05010911,1.82623972426
+2018-19,% households which have experienced severe food insecurity,Central,E05010892,5.72933959508
+2018-19,% households which have experienced severe food insecurity,Eastville,E05010897,4.1597341549
+2018-19,% households which have experienced severe food insecurity,Filwood,E05010898,5.31452035718
+2018-19,% households which have experienced severe food insecurity,Frome Vale,E05010899,7.78135777709
+2018-19,% households which have experienced severe food insecurity,Knowle,E05010906,0.0
+2018-19,% households which have experienced severe food insecurity,St George Central,E05010910,2.02293846693
+2018-19,% households which have experienced severe food insecurity,Stockwood,E05010915,7.42414456374
+2018-19,% households which have experienced severe food insecurity,Bishopsworth,E05010889,3.09240439077
+2018-19,% households which have experienced severe food insecurity,Brislington East,E05010890,2.81226705712
+2019-20,% households which have experienced severe food insecurity,Brislington West,E05010891,2.30697396974
+2019-20,% households which have experienced severe food insecurity,Henbury & Brentry,E05010901,0.0
+2019-20,% households which have experienced severe food insecurity,Southville,E05010914,0.0
+2019-20,% households which have experienced severe food insecurity,,,1.7145899586
+2019-20,% households which have experienced severe food insecurity,St George Central,E05010910,3.00336094077
+2019-20,% households which have experienced severe food insecurity,Easton,E05010896,1.52370184439
+2019-20,% households which have experienced severe food insecurity,Eastville,E05010897,1.35284389443
+2019-20,% households which have experienced severe food insecurity,Avonmouth & Lawrence Weston,E05010886,0.892866284087
+2019-20,% households which have experienced severe food insecurity,Bishopston & Ashley Down,E05010888,0.0
+2019-20,% households which have experienced severe food insecurity,Bedminster,E05010887,2.25613197038
+2019-20,% households which have experienced severe food insecurity,Clifton,E05010893,0.185667761385
+2019-20,% households which have experienced severe food insecurity,Filwood,E05010898,3.86303921028
+2019-20,% households which have experienced severe food insecurity,Clifton Down,E05010894,2.81869829445
+2019-20,% households which have experienced severe food insecurity,Hengrove & Whitchurch Park,E05010902,2.94982341753
+2019-20,% households which have experienced severe food insecurity,Knowle,E05010906,0.834343532065
+2019-20,% households which have experienced severe food insecurity,Lawrence Hill,E05010907,3.47973398808
+2019-20,% households which have experienced severe food insecurity,Redland,E05010909,0.0
+2019-20,% households which have experienced severe food insecurity,St George West,E05010912,1.38586998222
+2019-20,% households which have experienced severe food insecurity,Frome Vale,E05010899,3.49672444556
+2019-20,% households which have experienced severe food insecurity,Horfield,E05010904,2.31477564162
+2019-20,% households which have experienced severe food insecurity,St George Troopers Hill,E05010911,1.48243782955
+2019-20,% households which have experienced severe food insecurity,Stockwood,E05010915,5.01291481086
+2019-20,% households which have experienced severe food insecurity,Stoke Bishop,E05010916,0.0
+2019-20,% households which have experienced severe food insecurity,Westbury-on-Trym & Henleaze,E05010917,0.0
+2019-20,% households which have experienced severe food insecurity,Hillfields,E05010903,3.38290543593
+2019-20,% households which have experienced severe food insecurity,Southmead,E05010913,0.921959702288
+2019-20,% households which have experienced severe food insecurity,Ashley,E05010885,2.35148351186
+2019-20,% households which have experienced severe food insecurity,Bishopsworth,E05010889,1.4216359967
+2019-20,% households which have experienced severe food insecurity,Brislington East,E05010890,0.6323556883
+2019-20,% households which have experienced severe food insecurity,Central,E05010892,1.83414953465
+2019-20,% households which have experienced severe food insecurity,Cotham,E05010895,0.27661241363
+2019-20,% households which have experienced severe food insecurity,Hartcliffe & Withywood,E05010900,3.77112223001
+2019-20,% households which have experienced severe food insecurity,Hotwells & Harbourside,E05010905,1.08895586256
+2019-20,% households which have experienced severe food insecurity,Lockleaze,E05010908,1.4105842871
+2019-20,% households which have experienced severe food insecurity,Windmill Hill,E05010918,1.25203049344
+2020-21,% households which have experienced severe food insecurity,Westbury-on-Trym & Henleaze,E05010917,0.0
+2020-21,% households which have experienced severe food insecurity,Hotwells & Harbourside,E05010905,1.30825576792
+2020-21,% households which have experienced severe food insecurity,Frome Vale,E05010899,0.0
+2020-21,% households which have experienced severe food insecurity,Knowle,E05010906,2.43370555701
+2020-21,% households which have experienced severe food insecurity,Ashley,E05010885,1.46929173996
+2020-21,% households which have experienced severe food insecurity,Bedminster,E05010887,0.0
+2020-21,% households which have experienced severe food insecurity,Cotham,E05010895,1.07176864331
+2020-21,% households which have experienced severe food insecurity,,,1.74379583811
+2020-21,% households which have experienced severe food insecurity,Lockleaze,E05010908,1.12208461497
+2020-21,% households which have experienced severe food insecurity,Stockwood,E05010915,2.7164813715
+2020-21,% households which have experienced severe food insecurity,Stoke Bishop,E05010916,0.0
+2020-21,% households which have experienced severe food insecurity,Eastville,E05010897,5.39586438903
+2020-21,% households which have experienced severe food insecurity,Henbury & Brentry,E05010901,0.371072500043
+2020-21,% households which have experienced severe food insecurity,Lawrence Hill,E05010907,7.60188977055
+2020-21,% households which have experienced severe food insecurity,St George West,E05010912,0.0
+2020-21,% households which have experienced severe food insecurity,Southmead,E05010913,0.462391558739
+2020-21,% households which have experienced severe food insecurity,Bishopsworth,E05010889,0.745873508899
+2020-21,% households which have experienced severe food insecurity,Central,E05010892,4.70911586376
+2020-21,% households which have experienced severe food insecurity,Filwood,E05010898,2.42976398591
+2020-21,% households which have experienced severe food insecurity,Hartcliffe & Withywood,E05010900,4.70350691242
+2020-21,% households which have experienced severe food insecurity,Redland,E05010909,0.0
+2020-21,% households which have experienced severe food insecurity,St George Central,E05010910,1.59831594374
+2020-21,% households which have experienced severe food insecurity,Southville,E05010914,1.31844717121
+2020-21,% households which have experienced severe food insecurity,Avonmouth & Lawrence Weston,E05010886,0.423622854065
+2020-21,% households which have experienced severe food insecurity,Brislington East,E05010890,1.79826364476
+2020-21,% households which have experienced severe food insecurity,Easton,E05010896,2.98713609658
+2020-21,% households which have experienced severe food insecurity,Horfield,E05010904,0.590485809602
+2020-21,% households which have experienced severe food insecurity,St George Troopers Hill,E05010911,0.89830835142
+2020-21,% households which have experienced severe food insecurity,Bishopston & Ashley Down,E05010888,0.0
+2020-21,% households which have experienced severe food insecurity,Brislington West,E05010891,1.01639039032
+2020-21,% households which have experienced severe food insecurity,Clifton,E05010893,2.19262254936
+2020-21,% households which have experienced severe food insecurity,Clifton Down,E05010894,0.606902356379
+2020-21,% households which have experienced severe food insecurity,Hengrove & Whitchurch Park,E05010902,2.23309676746
+2020-21,% households which have experienced severe food insecurity,Hillfields,E05010903,0.0
+2020-21,% households which have experienced severe food insecurity,Windmill Hill,E05010918,0.694805650165
