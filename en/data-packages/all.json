@@ -10216,7 +10216,7 @@
           }
         ]
       },
-      "title": "9-1-2-a"
+      "title": "localised_indicators.9-1-2-a-title"
     },
     {
       "path": "7-a-1/data.csv",
@@ -10580,30 +10580,6 @@
         ]
       },
       "title": "Proportion of the population who are refugees, by country of origin"
-    },
-    {
-      "path": "9-2-1-a/data.csv",
-      "name": "9-2-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Bristol Public transport passengers"
     },
     {
       "path": "2-2-3/data.csv",
