@@ -8156,6 +8156,103 @@
       "title": "Proportion of important sites for terrestrial and freshwater biodiversity that are covered by protected areas, by ecosystem type"
     },
     {
+      "path": "16-7-2-a/data.csv",
+      "name": "16-7-2-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Deprivation decile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Least Deprived 10%",
+                "Most Deprived 10%"
+              ]
+            },
+            "title": "Deprivation decile"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Deprivation",
+                "Ward"
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Ward",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Ashley",
+                "Avonmouth & Lawrence Weston",
+                "Bedminster",
+                "Bishopston & Ashley Down",
+                "Bishopsworth",
+                "Brislington East",
+                "Brislington West",
+                "Central",
+                "Clifton",
+                "Clifton Down",
+                "Cotham",
+                "Easton",
+                "Eastville",
+                "Filwood",
+                "Frome Vale",
+                "Hartcliffe & Withywood",
+                "Henbury & Brentry",
+                "Hengrove & Whitchurch Park",
+                "Hillfields",
+                "Horfield",
+                "Hotwells & Harbourside",
+                "Knowle",
+                "Lawrence Hill",
+                "Lockleaze",
+                "Redland",
+                "Southmead",
+                "Southville",
+                "St George Central",
+                "St George Troopers Hill",
+                "St George West",
+                "Stockwood",
+                "Stoke Bishop",
+                "Westbury-on-Trym & Henleaze",
+                "Windmill Hill"
+              ]
+            },
+            "title": "Ward"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Percentage who agree they can influence decisions that affect their local area"
+    },
+    {
       "path": "11-5-2/data.csv",
       "name": "11-5-2",
       "profile": "tabular-data-resource",

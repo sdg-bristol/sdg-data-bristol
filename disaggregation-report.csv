@@ -6,7 +6,7 @@ Area Type,1,2
 BMI,1,2
 Cause,1,2
 Contraceptive method,1,2
-Deprivation decile,1,2
+Deprivation decile,2,2
 Equality Group,1,4
 Gender,1,2
 Group,10,37
@@ -33,5 +33,5 @@ Unit of measurement,1,1
 Unit,2,5
 Vaccine,1,10
 Ward name,1,34
-Ward,3,34
+Ward,4,34
 Working Pattern,1,2
