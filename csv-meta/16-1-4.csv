@@ -10,7 +10,8 @@ Settings,
 Reporting status,complete
 Non-statistical indicator,N
 Graph type,line
-Graph title,Percentage  who feel safe outdoors after dark
+Graph title,Percentage who feel safe outdoors after dark
+Use geocodes for mapping,true
 Indicator content,
 Sources,
 Source 1 organisation,Bristol City Council - Strategic Intelligience
