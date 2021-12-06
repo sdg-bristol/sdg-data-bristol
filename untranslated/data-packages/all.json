@@ -637,7 +637,76 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ward",
+                "Deprivation",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Deprivation decile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Most Deprived 10%",
+                "Least Deprived 10%",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ward",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bedminster",
+                "Filwood",
+                "Central",
+                "Windmill Hill",
+                "Bishopston & Ashley Down",
+                "Stockwood",
+                "Cotham",
+                "Redland",
+                "Hillfields",
+                "Southville",
+                "Brislington West",
+                "Frome Vale",
+                "Lockleaze",
+                "Knowle",
+                "St George West",
+                "Hotwells & Harbourside",
+                "Stoke Bishop",
+                "Henbury & Brentry",
+                "Clifton",
+                "Hengrove & Whitchurch Park",
+                "Clifton Down",
+                "Westbury-on-Trym & Henleaze",
+                "Brislington East",
+                "Easton",
+                "Hartcliffe & Withywood",
+                "St George Central",
+                "Southmead",
+                "Bishopsworth",
+                "Avonmouth & Lawrence Weston",
+                "Eastville",
+                "St George Troopers Hill",
+                "Ashley",
+                "Horfield",
+                "Lawrence Hill",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
           },
           {
             "name": "Value",
